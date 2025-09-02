@@ -1202,8 +1202,7 @@ https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7646.ts
 
 
 
-
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/POLAND.png" group-title="PL| SPORTOWE1",##### PL SPORTOWE #####
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/POLAND.png" group-title="PL| SPORTOWE2",##### PL SPORTOWE #####
 http://line.ult-ott.com:80/play/live.php?mac=00:1A:79:C6:CA:54&stream=1288918&extension=ts&play_token=pRh3B9Hbpn
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/POLAND/ELEVEN-SPORTS-1--PL.png" group-title="PL| SPORTOWE",PL| ELEVEN SPORTS 1 4K/UHD
 http://line.ult-ott.com:80/play/live.php?mac=00:1A:79:C6:CA:54&stream=1498959&extension=ts&play_token=jCN3iEI3YY
