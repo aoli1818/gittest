@@ -858,187 +858,187 @@ https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7313.ts
 
 
 
-#EXTINF:-1 tvg-id="TVP 1" tvg-name="TVP 1 HD" tvg-logo="https://sat-kom.co.uk/logos/2.png" group-title="Tematyczne",TVP 1 HD
+#EXTINF:-1 tvg-id="TVP 1" tvg-name="TVP 1 HD" tvg-logo="https://sat-kom.co.uk/logos/2.png" group-title="Ogolne",TVP 1 HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2242.ts
-#EXTINF:-1 tvg-id="TVP 2" tvg-name="TVP 2 HD" tvg-logo="https://sat-kom.co.uk/logos/3.png" group-title="Tematyczne",TVP 2 HD
+#EXTINF:-1 tvg-id="TVP 2" tvg-name="TVP 2 HD" tvg-logo="https://sat-kom.co.uk/logos/3.png" group-title="Ogolne",TVP 2 HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2243.ts
-#EXTINF:-1 tvg-id="TVP 3" tvg-name="TVP 3" tvg-logo="https://sat-kom.co.uk/logos/331.png" group-title="Informacyjne",TVP 3
+#EXTINF:-1 tvg-id="TVP 3" tvg-name="TVP 3" tvg-logo="https://sat-kom.co.uk/logos/331.png" group-title="Ogolne",TVP 3
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2244.ts
-#EXTINF:-1 tvg-id="TVP Info" tvg-name="TVP Info" tvg-logo="https://sat-kom.co.uk/logos/183.png" group-title="Informacyjne",TVP Info
+#EXTINF:-1 tvg-id="TVP Info" tvg-name="TVP Info" tvg-logo="https://sat-kom.co.uk/logos/183.png" group-title="Ogolne",TVP Info
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2245.ts
-#EXTINF:-1 tvg-id="Antena" tvg-name="ANTENA HD" tvg-logo="https://sat-kom.co.uk/logos/295.png" group-title="Tematyczne",ANTENA HD
+#EXTINF:-1 tvg-id="Antena" tvg-name="ANTENA HD" tvg-logo="https://sat-kom.co.uk/logos/295.png" group-title="Ogolne",ANTENA HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7304.ts
-#EXTINF:-1 tvg-id="TVP Polonia" tvg-name="TVP Polonia" tvg-logo="https://sat-kom.co.uk/logos/26.png" group-title="Tematyczne",TVP Polonia
+#EXTINF:-1 tvg-id="TVP Polonia" tvg-name="TVP Polonia" tvg-logo="https://sat-kom.co.uk/logos/26.png" group-title="Ogolne",TVP Polonia
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/5772.ts
-#EXTINF:-1 tvg-id="TVP Rozrywka" tvg-name="TVP Rozrywka" tvg-logo="https://sat-kom.co.uk/logos/29.png" group-title="Tematyczne",TVP Rozrywka
+#EXTINF:-1 tvg-id="TVP Rozrywka" tvg-name="TVP Rozrywka" tvg-logo="https://sat-kom.co.uk/logos/29.png" group-title="Ogolne",TVP Rozrywka
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2246.ts
-#EXTINF:-1 tvg-id="TVP Kobieta" tvg-name="TVP Kobieta" tvg-logo="https://sat-kom.co.uk/logos/5.png" group-title="Tematyczne",TVP Kobieta
+#EXTINF:-1 tvg-id="TVP Kobieta" tvg-name="TVP Kobieta" tvg-logo="https://sat-kom.co.uk/logos/5.png" group-title="Ogolne",TVP Kobieta
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7317.ts
-#EXTINF:-1 tvg-id="TVP Seriale" tvg-name="TVP Seriale" tvg-logo="https://sat-kom.co.uk/logos/27.png" group-title="Filmy",TVP Seriale
+#EXTINF:-1 tvg-id="TVP Seriale" tvg-name="TVP Seriale" tvg-logo="https://sat-kom.co.uk/logos/27.png" group-title="Ogolne",TVP Seriale
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2247.ts
-#EXTINF:-1 tvg-id="TVP HD" tvg-name="TVP HD" tvg-logo="https://sat-kom.co.uk/logos/1.png" group-title="Tematyczne",TVP HD
+#EXTINF:-1 tvg-id="TVP HD" tvg-name="TVP HD" tvg-logo="https://sat-kom.co.uk/logos/1.png" group-title="Ogolne",TVP HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2248.ts
-#EXTINF:-1 tvg-id="TVP Dokument" tvg-name="TVP Dokument HD" tvg-logo="https://sat-kom.co.uk/logos/143.png" group-title="Dokumentalne",TVP Dokument HD
+#EXTINF:-1 tvg-id="TVP Dokument" tvg-name="TVP Dokument HD" tvg-logo="https://sat-kom.co.uk/logos/143.png" group-title="Ogolne",TVP Dokument HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/4866.ts
-#EXTINF:-1 tvg-id="TVP Nauka" tvg-name="TVP Nauka" tvg-logo="https://sat-kom.co.uk/logos/25.png" group-title="Tematyczne",TVP Nauka
+#EXTINF:-1 tvg-id="TVP Nauka" tvg-name="TVP Nauka" tvg-logo="https://sat-kom.co.uk/logos/25.png" group-title="Ogolne",TVP Nauka
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7403.ts
-#EXTINF:-1 tvg-id="TVN" tvg-name="TVN HD" tvg-logo="https://sat-kom.co.uk/logos/32.png" group-title="Tematyczne",TVN HD
+#EXTINF:-1 tvg-id="TVN" tvg-name="TVN HD" tvg-logo="https://sat-kom.co.uk/logos/32.png" group-title="Ogolne",TVN HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2249.ts
-#EXTINF:-1 tvg-id="TVN 7" tvg-name="TVN 7 HD" tvg-logo="https://sat-kom.co.uk/logos/33.png" group-title="Tematyczne",TVN 7 HD
+#EXTINF:-1 tvg-id="TVN 7" tvg-name="TVN 7 HD" tvg-logo="https://sat-kom.co.uk/logos/33.png" group-title="Ogolne",TVN 7 HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2251.ts
-#EXTINF:-1 tvg-id="TVN Fabuła" tvg-name="TVN Fabula" tvg-logo="https://sat-kom.co.uk/logos/97.png" group-title="Filmy",TVN Fabula
+#EXTINF:-1 tvg-id="TVN Fabuła" tvg-name="TVN Fabula" tvg-logo="https://sat-kom.co.uk/logos/97.png" group-title="Ogolne",TVN Fabula
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2253.ts
-#EXTINF:-1 tvg-id="TVN Style" tvg-name="TVN Style HD" tvg-logo="https://sat-kom.co.uk/logos/67.png" group-title="Lifestyle",TVN Style HD
+#EXTINF:-1 tvg-id="TVN Style" tvg-name="TVN Style HD" tvg-logo="https://sat-kom.co.uk/logos/67.png" group-title="Ogolne",TVN Style HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2254.ts
-#EXTINF:-1 tvg-id="TVN Turbo" tvg-name="TVN Turbo HD" tvg-logo="https://sat-kom.co.uk/logos/174.png" group-title="Lifestyle",TVN Turbo HD
+#EXTINF:-1 tvg-id="TVN Turbo" tvg-name="TVN Turbo HD" tvg-logo="https://sat-kom.co.uk/logos/174.png" group-title="Ogolne",TVN Turbo HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2255.ts
-#EXTINF:-1 tvg-id="TVN 24" tvg-name="TVN 24 HD" tvg-logo="https://sat-kom.co.uk/logos/184.png" group-title="Informacyjne",TVN 24 HD
+#EXTINF:-1 tvg-id="TVN 24" tvg-name="TVN 24 HD" tvg-logo="https://sat-kom.co.uk/logos/184.png" group-title="Ogolne",TVN 24 HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2256.ts
-#EXTINF:-1 tvg-id="TVN 24 BiS" tvg-name="TVN 24 BiS" tvg-logo="https://sat-kom.co.uk/logos/185.png" group-title="Informacyjne",TVN 24 BiS
+#EXTINF:-1 tvg-id="TVN 24 BiS" tvg-name="TVN 24 BiS" tvg-logo="https://sat-kom.co.uk/logos/185.png" group-title="Ogolne",TVN 24 BiS
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2257.ts
-#EXTINF:-1 tvg-id="Biznes 24" tvg-name="BIZNES24 HD" tvg-logo="https://sat-kom.co.uk/logos/253.png" group-title="Informacyjne",BIZNES24 HD
+#EXTINF:-1 tvg-id="Biznes 24" tvg-name="BIZNES24 HD" tvg-logo="https://sat-kom.co.uk/logos/253.png" group-title="Ogolne",BIZNES24 HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/4864.ts
-#EXTINF:-1 tvg-id="TTV" tvg-name="TTV" tvg-logo="https://sat-kom.co.uk/logos/59.png" group-title="Lifestyle",TTV
+#EXTINF:-1 tvg-id="TTV" tvg-name="TTV" tvg-logo="https://sat-kom.co.uk/logos/59.png" group-title="Ogolne",TTV
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2258.ts
-#EXTINF:-1 tvg-id="Superstacja" tvg-name="Wydarzenia 24" tvg-logo="https://sat-kom.co.uk/logos/339.png" group-title="Informacyjne",Wydarzenia 24
+#EXTINF:-1 tvg-id="Superstacja" tvg-name="Wydarzenia 24" tvg-logo="https://sat-kom.co.uk/logos/339.png" group-title="Ogolne",Wydarzenia 24
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2259.ts
-#EXTINF:-1 tvg-id="Polsat" tvg-name="Polsat HD" tvg-logo="https://sat-kom.co.uk/logos/34.png" group-title="Tematyczne",Polsat HD
+#EXTINF:-1 tvg-id="Polsat" tvg-name="Polsat HD" tvg-logo="https://sat-kom.co.uk/logos/34.png" group-title="Ogolne",Polsat HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2260.ts
-#EXTINF:-1 tvg-id="Polsat 2" tvg-name="Polsat 2" tvg-logo="https://sat-kom.co.uk/logos/35.png" group-title="Tematyczne",Polsat 2
+#EXTINF:-1 tvg-id="Polsat 2" tvg-name="Polsat 2" tvg-logo="https://sat-kom.co.uk/logos/35.png" group-title="Ogolne",Polsat 2
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2262.ts
-#EXTINF:-1 tvg-id="Super Polsat" tvg-name="Super Polsat" tvg-logo="https://sat-kom.co.uk/logos/36.png" group-title="Filmy",Super Polsat
+#EXTINF:-1 tvg-id="Super Polsat" tvg-name="Super Polsat" tvg-logo="https://sat-kom.co.uk/logos/36.png" group-title="Ogolne",Super Polsat
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2263.ts
-#EXTINF:-1 tvg-id="Polsat Comedy Central Extra" tvg-name="Polsat Comedy Central Extra" tvg-logo="https://sat-kom.co.uk/logos/53.png" group-title="Filmy",Polsat Comedy Central Extra
+#EXTINF:-1 tvg-id="Polsat Comedy Central Extra" tvg-name="Polsat Comedy Central Extra" tvg-logo="https://sat-kom.co.uk/logos/53.png" group-title="Ogolne",Polsat Comedy Central Extra
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/4863.ts
-#EXTINF:-1 tvg-id="Polsat News" tvg-name="POLSAT News HD" tvg-logo="https://sat-kom.co.uk/logos/186.png" group-title="Informacyjne",POLSAT News HD
+#EXTINF:-1 tvg-id="Polsat News" tvg-name="POLSAT News HD" tvg-logo="https://sat-kom.co.uk/logos/186.png" group-title="Ogolne",POLSAT News HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2264.ts
-#EXTINF:-1 tvg-id="POLSAT NEWS 2" tvg-name="Polsat News 2" tvg-logo="https://sat-kom.co.uk/logos/187.png" group-title="Informacyjne",Polsat News 2
+#EXTINF:-1 tvg-id="POLSAT NEWS 2" tvg-name="Polsat News 2" tvg-logo="https://sat-kom.co.uk/logos/187.png" group-title="Ogolne",Polsat News 2
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2265.ts
-#EXTINF:-1 tvg-id="Polsat News Polityka" tvg-name="Polsat News Polityka" tvg-logo="" group-title="Informacyjne",Polsat News Polityka
+#EXTINF:-1 tvg-id="Polsat News Polityka" tvg-name="Polsat News Polityka" tvg-logo="" group-title="Ogolne",Polsat News Polityka
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7645.ts
 #EXTINF:-1 tvg-id="Polsat Doku" tvg-name="Polsat Doku HD" tvg-logo="https://sat-kom.co.uk/logos/135.png" group-title="Bajki",Polsat Doku HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/4867.ts
-#EXTINF:-1 tvg-id="Polonia 1" tvg-name="Polonia 1" tvg-logo="https://sat-kom.co.uk/logos/332.png" group-title="Tematyczne",Polonia 1
+#EXTINF:-1 tvg-id="Polonia 1" tvg-name="Polonia 1" tvg-logo="https://sat-kom.co.uk/logos/332.png" group-title="Ogolne",Polonia 1
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2266.ts
-#EXTINF:-1 tvg-id="TV 4" tvg-name="TV 4 HD" tvg-logo="https://sat-kom.co.uk/logos/39.png" group-title="Lifestyle",TV 4 HD
+#EXTINF:-1 tvg-id="TV 4" tvg-name="TV 4 HD" tvg-logo="https://sat-kom.co.uk/logos/39.png" group-title="Ogolne",TV 4 HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2267.ts
-#EXTINF:-1 tvg-id="TV Puls" tvg-name="TV Puls" tvg-logo="https://sat-kom.co.uk/logos/37.png" group-title="Filmy",TV Puls
+#EXTINF:-1 tvg-id="TV Puls" tvg-name="TV Puls" tvg-logo="https://sat-kom.co.uk/logos/37.png" group-title="Ogolne",TV Puls
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2268.ts
-#EXTINF:-1 tvg-id="Puls 2" tvg-name="TV Puls 2" tvg-logo="https://sat-kom.co.uk/logos/38.png" group-title="Filmy",TV Puls 2
+#EXTINF:-1 tvg-id="Puls 2" tvg-name="TV Puls 2" tvg-logo="https://sat-kom.co.uk/logos/38.png" group-title="Ogolne",TV Puls 2
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2269.ts
-#EXTINF:-1 tvg-id="ZOOM TV" tvg-name="Zoom TV" tvg-logo="https://sat-kom.co.uk/logos/336.png" group-title="Lifestyle",Zoom TV
+#EXTINF:-1 tvg-id="ZOOM TV" tvg-name="Zoom TV" tvg-logo="https://sat-kom.co.uk/logos/336.png" group-title="Ogolne",Zoom TV
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/4868.ts
-#EXTINF:-1 tvg-id="NOVELA TV" tvg-name="Novela Tv" tvg-logo="" group-title="Filmy",Novela Tv
+#EXTINF:-1 tvg-id="NOVELA TV" tvg-name="Novela Tv" tvg-logo="" group-title="Ogolne",Novela Tv
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/4853.ts
-#EXTINF:-1 tvg-id="Canal+ Domo" tvg-name="CANAL+ DOMO HD" tvg-logo="https://sat-kom.co.uk/logos/65.png" group-title="Lifestyle",CANAL+ DOMO HD
+#EXTINF:-1 tvg-id="Canal+ Domo" tvg-name="CANAL+ DOMO HD" tvg-logo="https://sat-kom.co.uk/logos/65.png" group-title="Ogolne",CANAL+ DOMO HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2270.ts
-#EXTINF:-1 tvg-id="Epic Drama" tvg-name="EPIC Drama HD" tvg-logo="https://sat-kom.co.uk/logos/61.png" group-title="Filmy",EPIC Drama HD
+#EXTINF:-1 tvg-id="Epic Drama" tvg-name="EPIC Drama HD" tvg-logo="https://sat-kom.co.uk/logos/61.png" group-title="Ogolne",EPIC Drama HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2271.ts
-#EXTINF:-1 tvg-id="E! Entertainment" tvg-name="E! Polska" tvg-logo="https://sat-kom.co.uk/logos/77.png" group-title="Lifestyle",E! Polska
+#EXTINF:-1 tvg-id="E! Entertainment" tvg-name="E! Polska" tvg-logo="https://sat-kom.co.uk/logos/77.png" group-title="Ogolne",E! Polska
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2272.ts
-#EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network" tvg-logo="https://sat-kom.co.uk/logos/72.png" group-title="Lifestyle",Food Network
+#EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network" tvg-logo="https://sat-kom.co.uk/logos/72.png" group-title="Ogolne",Food Network
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2273.ts
-#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="https://sat-kom.co.uk/logos/64.png" group-title="Lifestyle",HGTV
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="https://sat-kom.co.uk/logos/64.png" group-title="Ogolne",HGTV
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2274.ts
-#EXTINF:-1 tvg-id="Polsat Seriale" tvg-name="Polsat Seriale HD" tvg-logo="https://sat-kom.co.uk/logos/70.png" group-title="Filmy",Polsat Seriale HD
+#EXTINF:-1 tvg-id="Polsat Seriale" tvg-name="Polsat Seriale HD" tvg-logo="https://sat-kom.co.uk/logos/70.png" group-title="Ogolne",Polsat Seriale HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2275.ts
-#EXTINF:-1 tvg-id="Polsat Play" tvg-name="POLSAT Play HD" tvg-logo="https://sat-kom.co.uk/logos/71.png" group-title="Lifestyle",POLSAT Play HD
+#EXTINF:-1 tvg-id="Polsat Play" tvg-name="POLSAT Play HD" tvg-logo="https://sat-kom.co.uk/logos/71.png" group-title="Ogolne",POLSAT Play HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2276.ts
-#EXTINF:-1 tvg-id="Polsat Film" tvg-name="POLSAT Film HD" tvg-logo="https://sat-kom.co.uk/logos/96.png" group-title="Filmy",POLSAT Film HD
+#EXTINF:-1 tvg-id="Polsat Film" tvg-name="POLSAT Film HD" tvg-logo="https://sat-kom.co.uk/logos/96.png" group-title="Ogolne",POLSAT Film HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2277.ts
-#EXTINF:-1 tvg-id="Film Cafe" tvg-name="Film Cafe" tvg-logo="" group-title="Filmy",Film Cafe
+#EXTINF:-1 tvg-id="Film Cafe" tvg-name="Film Cafe" tvg-logo="" group-title="Ogolne",Film Cafe
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7874.ts
-#EXTINF:-1 tvg-id="Polsat Café" tvg-name="Polsat Cafe" tvg-logo="https://sat-kom.co.uk/logos/69.png" group-title="Lifestyle",Polsat Cafe
+#EXTINF:-1 tvg-id="Polsat Café" tvg-name="Polsat Cafe" tvg-logo="https://sat-kom.co.uk/logos/69.png" group-title="Ogolne",Polsat Cafe
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2279.ts
-#EXTINF:-1 tvg-id="InvestigationDiscovery.pl" tvg-name="ID Poland" tvg-logo="https://sat-kom.co.uk/logos/ID_Poland.png" group-title="Dokumentalne",ID Poland
+#EXTINF:-1 tvg-id="InvestigationDiscovery.pl" tvg-name="ID Poland" tvg-logo="https://sat-kom.co.uk/logos/ID_Poland.png" group-title="Ogolne",ID Poland
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2281.ts
-#EXTINF:-1 tvg-id="CI Polsat" tvg-name="CI Polsat HD" tvg-logo="" group-title="Tematyczne",CI Polsat HD
+#EXTINF:-1 tvg-id="CI Polsat" tvg-name="CI Polsat HD" tvg-logo="" group-title="Ogolne",CI Polsat HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7603.ts
-#EXTINF:-1 tvg-id="Active Family" tvg-name="Active Family" tvg-logo="" group-title="Lifestyle",Active Family
+#EXTINF:-1 tvg-id="Active Family" tvg-name="Active Family" tvg-logo="" group-title="Ogolne",Active Family
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7604.ts
-#EXTINF:-1 tvg-id="HOME TV" tvg-name="HOME TV" tvg-logo="" group-title="Lifestyle",HOME TV
+#EXTINF:-1 tvg-id="HOME TV" tvg-name="HOME TV" tvg-logo="" group-title="Ogolne",HOME TV
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7606.ts
-#EXTINF:-1 tvg-id="Stopklatka TV" tvg-name="Stopklatka HD" tvg-logo="https://sat-kom.co.uk/logos/343.png" group-title="Filmy",Stopklatka HD
+#EXTINF:-1 tvg-id="Stopklatka TV" tvg-name="Stopklatka HD" tvg-logo="https://sat-kom.co.uk/logos/343.png" group-title="Ogolne",Stopklatka HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2282.ts
-#EXTINF:-1 tvg-id="TV 6" tvg-name="TV 6 HD" tvg-logo="https://sat-kom.co.uk/logos/40.png" group-title="Tematyczne",TV 6 HD
+#EXTINF:-1 tvg-id="TV 6" tvg-name="TV 6 HD" tvg-logo="https://sat-kom.co.uk/logos/40.png" group-title="Ogolne",TV 6 HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2283.ts
-#EXTINF:-1 tvg-id="Canal+ Kuchnia" tvg-name="Canal+ KUCHNIA HD" tvg-logo="https://sat-kom.co.uk/logos/66.png" group-title="Lifestyle",Canal+ KUCHNIA HD
+#EXTINF:-1 tvg-id="Canal+ Kuchnia" tvg-name="Canal+ KUCHNIA HD" tvg-logo="https://sat-kom.co.uk/logos/66.png" group-title="Ogolne",Canal+ KUCHNIA HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7306.ts
-#EXTINF:-1 tvg-id="Canal+ Premium" tvg-name="CANAL+ PREMIUM HD" tvg-logo="https://sat-kom.co.uk/logos/84.png" group-title="Filmy",CANAL+ PREMIUM HD
+#EXTINF:-1 tvg-id="Canal+ Premium" tvg-name="CANAL+ PREMIUM HD" tvg-logo="https://sat-kom.co.uk/logos/84.png" group-title="Ogolne",CANAL+ PREMIUM HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/4857.ts
-#EXTINF:-1 tvg-id="Canal+ 1" tvg-name="CANAL+ 1" tvg-logo="https://sat-kom.co.uk/logos/85.png" group-title="Filmy",CANAL+ 1
+#EXTINF:-1 tvg-id="Canal+ 1" tvg-name="CANAL+ 1" tvg-logo="https://sat-kom.co.uk/logos/85.png" group-title="Ogolne",CANAL+ 1
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/4858.ts
-#EXTINF:-1 tvg-id="Canal+ Film" tvg-name="Canal+ Film HD" tvg-logo="https://sat-kom.co.uk/logos/86.png" group-title="Filmy",Canal+ Film HD
+#EXTINF:-1 tvg-id="Canal+ Film" tvg-name="Canal+ Film HD" tvg-logo="https://sat-kom.co.uk/logos/86.png" group-title="Ogolne",Canal+ Film HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2285.ts
-#EXTINF:-1 tvg-id="Canal+ Seriale" tvg-name="Canal+ Seriale HD" tvg-logo="https://sat-kom.co.uk/logos/88.png" group-title="Filmy",Canal+ Seriale HD
+#EXTINF:-1 tvg-id="Canal+ Seriale" tvg-name="Canal+ Seriale HD" tvg-logo="https://sat-kom.co.uk/logos/88.png" group-title="Ogolne",Canal+ Seriale HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2286.ts
-#EXTINF:-1 tvg-id="Canal+ Family" tvg-name="Canal+ Family HD" tvg-logo="https://sat-kom.co.uk/logos/87.png" group-title="Filmy",Canal+ Family HD
+#EXTINF:-1 tvg-id="Canal+ Family" tvg-name="Canal+ Family HD" tvg-logo="https://sat-kom.co.uk/logos/87.png" group-title="Ogolne",Canal+ Family HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2287.ts
-#EXTINF:-1 tvg-id="Canal+ Dokument" tvg-name="CANAL+ DOKUMENT HD" tvg-logo="https://sat-kom.co.uk/logos/121.png" group-title="Dokumentalne",CANAL+ DOKUMENT HD
+#EXTINF:-1 tvg-id="Canal+ Dokument" tvg-name="CANAL+ DOKUMENT HD" tvg-logo="https://sat-kom.co.uk/logos/121.png" group-title="Ogolne",CANAL+ DOKUMENT HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2363.ts
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO HD" tvg-logo="https://sat-kom.co.uk/logos/91.png" group-title="Filmy",HBO HD
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO HD" tvg-logo="https://sat-kom.co.uk/logos/91.png" group-title="Ogolne",HBO HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2288.ts
-#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO2 HD" tvg-logo="https://sat-kom.co.uk/logos/92.png" group-title="Filmy",HBO2 HD
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO2 HD" tvg-logo="https://sat-kom.co.uk/logos/92.png" group-title="Ogolne",HBO2 HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2289.ts
-#EXTINF:-1 tvg-id="HBO 3" tvg-name="HBO 3 HD" tvg-logo="https://sat-kom.co.uk/logos/93.png" group-title="Filmy",HBO 3 HD
+#EXTINF:-1 tvg-id="HBO 3" tvg-name="HBO 3 HD" tvg-logo="https://sat-kom.co.uk/logos/93.png" group-title="Ogolne",HBO 3 HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2290.ts
-#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax HD" tvg-logo="https://sat-kom.co.uk/logos/94.png" group-title="Filmy",Cinemax HD
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax HD" tvg-logo="https://sat-kom.co.uk/logos/94.png" group-title="Ogolne",Cinemax HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2291.ts
-#EXTINF:-1 tvg-id="Cinemax 2" tvg-name="Cinemax 2 HD" tvg-logo="https://sat-kom.co.uk/logos/95.png" group-title="Filmy",Cinemax 2 HD
+#EXTINF:-1 tvg-id="Cinemax 2" tvg-name="Cinemax 2 HD" tvg-logo="https://sat-kom.co.uk/logos/95.png" group-title="Ogolne",Cinemax 2 HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2292.ts
-#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central Polska" tvg-logo="https://sat-kom.co.uk/logos/52.png" group-title="Filmy",Comedy Central Polska
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central Polska" tvg-logo="https://sat-kom.co.uk/logos/52.png" group-title="Ogolne",Comedy Central Polska
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2293.ts
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD" tvg-logo="https://sat-kom.co.uk/logos/54.png" group-title="Filmy",AXN HD
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD" tvg-logo="https://sat-kom.co.uk/logos/54.png" group-title="Ogolne",AXN HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2294.ts
-#EXTINF:-1 tvg-id="AXN White" tvg-name="AXN White" tvg-logo="https://sat-kom.co.uk/logos/58.png" group-title="Filmy",AXN White
+#EXTINF:-1 tvg-id="AXN White" tvg-name="AXN White" tvg-logo="https://sat-kom.co.uk/logos/58.png" group-title="Ogolne",AXN White
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2295.ts
-#EXTINF:-1 tvg-id="AXN Black" tvg-name="AXN Black" tvg-logo="https://sat-kom.co.uk/logos/57.png" group-title="Filmy",AXN Black
+#EXTINF:-1 tvg-id="AXN Black" tvg-name="AXN Black" tvg-logo="https://sat-kom.co.uk/logos/57.png" group-title="Ogolne",AXN Black
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2296.ts
-#EXTINF:-1 tvg-id="AXN Spin" tvg-name="AXN Spin" tvg-logo="https://sat-kom.co.uk/logos/56.png" group-title="Filmy",AXN Spin
+#EXTINF:-1 tvg-id="AXN Spin" tvg-name="AXN Spin" tvg-logo="https://sat-kom.co.uk/logos/56.png" group-title="Ogolne",AXN Spin
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2297.ts
-#EXTINF:-1 tvg-id="Filmbox Premium HD" tvg-name="Filmbox Premium" tvg-logo="https://sat-kom.co.uk/logos/101.png" group-title="Filmy",Filmbox Premium
+#EXTINF:-1 tvg-id="Filmbox Premium HD" tvg-name="Filmbox Premium" tvg-logo="https://sat-kom.co.uk/logos/101.png" group-title="Ogolne",Filmbox Premium
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2298.ts
-#EXTINF:-1 tvg-id="FilmBox Action" tvg-name="FilmBox Action" tvg-logo="https://sat-kom.co.uk/logos/103.png" group-title="Filmy",FilmBox Action
+#EXTINF:-1 tvg-id="FilmBox Action" tvg-name="FilmBox Action" tvg-logo="https://sat-kom.co.uk/logos/103.png" group-title="Ogolne",FilmBox Action
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2299.ts
-#EXTINF:-1 tvg-id="Filmbox Extra HD" tvg-name="FilmBox Extra HD" tvg-logo="https://sat-kom.co.uk/logos/102.png" group-title="Filmy",FilmBox Extra HD
+#EXTINF:-1 tvg-id="Filmbox Extra HD" tvg-name="FilmBox Extra HD" tvg-logo="https://sat-kom.co.uk/logos/102.png" group-title="Ogolne",FilmBox Extra HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2300.ts
-#EXTINF:-1 tvg-id="Filmbox Arthouse" tvg-name="Filmbox Arthouse" tvg-logo="https://sat-kom.co.uk/logos/349.png" group-title="Filmy",Filmbox Arthouse
+#EXTINF:-1 tvg-id="Filmbox Arthouse" tvg-name="Filmbox Arthouse" tvg-logo="https://sat-kom.co.uk/logos/349.png" group-title="Ogolne",Filmbox Arthouse
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2301.ts
-#EXTINF:-1 tvg-id="Filmbox Family" tvg-name="FilmBox Family" tvg-logo="https://sat-kom.co.uk/logos/104.png" group-title="Filmy",FilmBox Family
+#EXTINF:-1 tvg-id="Filmbox Family" tvg-name="FilmBox Family" tvg-logo="https://sat-kom.co.uk/logos/104.png" group-title="Ogolne",FilmBox Family
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/4862.ts
-#EXTINF:-1 tvg-id="TVP 1" tvg-name="Fox HD" tvg-logo="https://sat-kom.co.uk/logos/50.png" group-title="Filmy",Fox HD
+#EXTINF:-1 tvg-id="TVP 1" tvg-name="Fox HD" tvg-logo="https://sat-kom.co.uk/logos/50.png" group-title="Ogolne",Fox HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2302.ts
-#EXTINF:-1 tvg-id="TVP 1" tvg-name="Fox Comedy" tvg-logo="https://sat-kom.co.uk/logos/51.png" group-title="Filmy",Fox Comedy
+#EXTINF:-1 tvg-id="TVP 1" tvg-name="Fox Comedy" tvg-logo="https://sat-kom.co.uk/logos/51.png" group-title="Ogolne",Fox Comedy
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2303.ts
-#EXTINF:-1 tvg-id="13 Ulica" tvg-name="13 Ulica HD" tvg-logo="https://sat-kom.co.uk/logos/49.png" group-title="Filmy",13 Ulica HD
+#EXTINF:-1 tvg-id="13 Ulica" tvg-name="13 Ulica HD" tvg-logo="https://sat-kom.co.uk/logos/49.png" group-title="Ogolne",13 Ulica HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2304.ts
-#EXTINF:-1 tvg-id="Kino Polska" tvg-name="Kino Polska" tvg-logo="https://sat-kom.co.uk/logos/99.png" group-title="Filmy",Kino Polska
+#EXTINF:-1 tvg-id="Kino Polska" tvg-name="Kino Polska" tvg-logo="https://sat-kom.co.uk/logos/99.png" group-title="Ogolne",Kino Polska
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2305.ts
-#EXTINF:-1 tvg-id="Ale Kino+" tvg-name="Ale Kino+ HD" tvg-logo="https://sat-kom.co.uk/logos/83.png" group-title="Filmy",Ale Kino+ HD
+#EXTINF:-1 tvg-id="Ale Kino+" tvg-name="Ale Kino+ HD" tvg-logo="https://sat-kom.co.uk/logos/83.png" group-title="Ogolne",Ale Kino+ HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/4860.ts
-#EXTINF:-1 tvg-id="Kino TV" tvg-name="Kino TV" tvg-logo="https://sat-kom.co.uk/logos/100.png" group-title="Filmy",Kino TV
+#EXTINF:-1 tvg-id="Kino TV" tvg-name="Kino TV" tvg-logo="https://sat-kom.co.uk/logos/100.png" group-title="Ogolne",Kino TV
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/4861.ts
-#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel HD" tvg-logo="https://sat-kom.co.uk/logos/82.png" group-title="Filmy",Paramount Channel HD
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel HD" tvg-logo="https://sat-kom.co.uk/logos/82.png" group-title="Ogolne",Paramount Channel HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2306.ts
-#EXTINF:-1 tvg-id="ROMANCE TV" tvg-name="Romance Tv" tvg-logo="https://sat-kom.co.uk/logos/62.png" group-title="Filmy",Romance Tv
+#EXTINF:-1 tvg-id="ROMANCE TV" tvg-name="Romance Tv" tvg-logo="https://sat-kom.co.uk/logos/62.png" group-title="Ogolne",Romance Tv
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2307.ts
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://sat-kom.co.uk/logos/80.png" group-title="Filmy",AMC
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://sat-kom.co.uk/logos/80.png" group-title="Ogolne",AMC
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/4859.ts
-#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://sat-kom.co.uk/logos/76.png" group-title="Lifestyle",TLC
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://sat-kom.co.uk/logos/76.png" group-title="Ogolne",TLC
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2309.ts
-#EXTINF:-1 tvg-id="Warner TV" tvg-name="Warner TV" tvg-logo="" group-title="Filmy",Warner TV
+#EXTINF:-1 tvg-id="Warner TV" tvg-name="Warner TV" tvg-logo="" group-title="Ogolne",Warner TV
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7646.ts
-#EXTINF:-1 tvg-id="Canal+ Now" tvg-name="Canal+ Now" tvg-logo="https://sat-kom.co.uk/logos/371.png" group-title="Filmy",Canal+ Now
+#EXTINF:-1 tvg-id="Canal+ Now" tvg-name="Canal+ Now" tvg-logo="https://sat-kom.co.uk/logos/371.png" group-title="Ogolne",Canal+ Now
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7271.ts
-#EXTINF:-1 tvg-id="Golf Channel" tvg-name="Golf Channel" tvg-logo="https://sat-kom.co.uk/logos/181.png" group-title="Tematyczne",Golf Channel
+#EXTINF:-1 tvg-id="Golf Channel" tvg-name="Golf Channel" tvg-logo="https://sat-kom.co.uk/logos/181.png" group-title="Ogolne",Golf Channel
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2332.ts
-#EXTINF:-1 tvg-id="VOD 205" tvg-name="VOD 205" tvg-logo="" group-title="Viaplay/PPV",VOD 205
+#EXTINF:-1 tvg-id="VOD 205" tvg-name="VOD 205" tvg-logo="" group-title="Ogolne",VOD 205
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7323.ts
-#EXTINF:-1 tvg-id="VOD 206" tvg-name="VOD 206" tvg-logo="" group-title="Viaplay/PPV",VOD 206
+#EXTINF:-1 tvg-id="VOD 206" tvg-name="VOD 206" tvg-logo="" group-title="Ogolne",VOD 206
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7324.ts
-#EXTINF:-1 tvg-id="VOD 207" tvg-name="VOD 207" tvg-logo="" group-title="Viaplay/PPV",VOD 207
+#EXTINF:-1 tvg-id="VOD 207" tvg-name="VOD 207" tvg-logo="" group-title="Ogolne",VOD 207
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7325.ts
-#EXTINF:-1 tvg-id="VOD 208" tvg-name="VOD 208" tvg-logo="" group-title="Viaplay/PPV",VOD 208
+#EXTINF:-1 tvg-id="VOD 208" tvg-name="VOD 208" tvg-logo="" group-title="Ogolne",VOD 208
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7326.ts
 #EXTINF:-1 tvg-id="RADIO_PL_JEDYNKA" tvg-name="[RADIO]-Polskie Radio 1" tvg-logo="https://sat-kom.co.uk/logos/270.png" group-title="Polskie Radio",[RADIO]-Polskie Radio 1
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2405.ts
@@ -1106,124 +1106,124 @@ https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2344.ts
 #EXTINF:-1 tvg-id="BBC CBeebies" tvg-name="BBC CBeebies" tvg-logo="https://sat-kom.co.uk/logos/198.png" group-title="Bajki",BBC CBeebies
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2345.ts
 
-#EXTINF:-1 tvg-id="Travel Channel" tvg-name="Travel Channel HD" tvg-logo="" group-title="Dokumentalne",Travel Channel HD
+#EXTINF:-1 tvg-id="Travel Channel" tvg-name="Travel Channel HD" tvg-logo="" group-title="Ogolne",Travel Channel HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/10133.ts
-#EXTINF:-1 tvg-id="Discovery Life" tvg-name="Discovery Life" tvg-logo="https://sat-kom.co.uk/logos/124.png" group-title="Dokumentalne",Discovery Life
+#EXTINF:-1 tvg-id="Discovery Life" tvg-name="Discovery Life" tvg-logo="https://sat-kom.co.uk/logos/124.png" group-title="Ogolne",Discovery Life
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7321.ts
-#EXTINF:-1 tvg-id="DTX" tvg-name="Discovery Turbo Xtra" tvg-logo="" group-title="Dokumentalne",Discovery Turbo Xtra
+#EXTINF:-1 tvg-id="DTX" tvg-name="Discovery Turbo Xtra" tvg-logo="" group-title="Ogolne",Discovery Turbo Xtra
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2353.ts
-#EXTINF:-1 tvg-id="Discovery Historia" tvg-name="Discovery Historia" tvg-logo="https://sat-kom.co.uk/logos/350.png" group-title="Dokumentalne",Discovery Historia
+#EXTINF:-1 tvg-id="Discovery Historia" tvg-name="Discovery Historia" tvg-logo="https://sat-kom.co.uk/logos/350.png" group-title="Ogolne",Discovery Historia
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2354.ts
-#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel HD" tvg-logo="https://sat-kom.co.uk/logos/122.png" group-title="Dokumentalne",Discovery Channel HD
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel HD" tvg-logo="https://sat-kom.co.uk/logos/122.png" group-title="Ogolne",Discovery Channel HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2355.ts
-#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science" tvg-logo="https://sat-kom.co.uk/logos/123.png" group-title="Dokumentalne",Discovery Science
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science" tvg-logo="https://sat-kom.co.uk/logos/123.png" group-title="Ogolne",Discovery Science
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2356.ts
-#EXTINF:-1 tvg-id="National Geographic Channel" tvg-name="National Geographic Channel HD" tvg-logo="https://sat-kom.co.uk/logos/128.png" group-title="Dokumentalne",National Geographic Channel HD
+#EXTINF:-1 tvg-id="National Geographic Channel" tvg-name="National Geographic Channel HD" tvg-logo="https://sat-kom.co.uk/logos/128.png" group-title="Ogolne",National Geographic Channel HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2357.ts
-#EXTINF:-1 tvg-id="Nat Geo People" tvg-name="Nat Geo People HD" tvg-logo="https://sat-kom.co.uk/logos/130.png" group-title="Dokumentalne",Nat Geo People HD
+#EXTINF:-1 tvg-id="Nat Geo People" tvg-name="Nat Geo People HD" tvg-logo="https://sat-kom.co.uk/logos/130.png" group-title="Ogolne",Nat Geo People HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2358.ts
-#EXTINF:-1 tvg-id="National Geographic Wild" tvg-name="Nat Geo Wild HD" tvg-logo="https://sat-kom.co.uk/logos/129.png" group-title="Dokumentalne",Nat Geo Wild HD
+#EXTINF:-1 tvg-id="National Geographic Wild" tvg-name="Nat Geo Wild HD" tvg-logo="https://sat-kom.co.uk/logos/129.png" group-title="Ogolne",Nat Geo Wild HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2359.ts
-#EXTINF:-1 tvg-id="HISTORY" tvg-name="History HD" tvg-logo="https://sat-kom.co.uk/logos/119.png" group-title="Dokumentalne",History HD
+#EXTINF:-1 tvg-id="HISTORY" tvg-name="History HD" tvg-logo="https://sat-kom.co.uk/logos/119.png" group-title="Ogolne",History HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7330.ts
-#EXTINF:-1 tvg-id="History 2" tvg-name="History 2 HD" tvg-logo="https://sat-kom.co.uk/logos/120.png" group-title="Dokumentalne",History 2 HD
+#EXTINF:-1 tvg-id="History 2" tvg-name="History 2 HD" tvg-logo="https://sat-kom.co.uk/logos/120.png" group-title="Ogolne",History 2 HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2360.ts
-#EXTINF:-1 tvg-id="Polsat Viasat Nature" tvg-name="Polsat Viasat Nature" tvg-logo="https://sat-kom.co.uk/logos/131.png" group-title="Dokumentalne",Polsat Viasat Nature
+#EXTINF:-1 tvg-id="Polsat Viasat Nature" tvg-name="Polsat Viasat Nature" tvg-logo="https://sat-kom.co.uk/logos/131.png" group-title="Ogolne",Polsat Viasat Nature
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2364.ts
-#EXTINF:-1 tvg-id="Polsat Viasat History" tvg-name="Polsat Viasat History" tvg-logo="https://sat-kom.co.uk/logos/132.png" group-title="Dokumentalne",Polsat Viasat History
+#EXTINF:-1 tvg-id="Polsat Viasat History" tvg-name="Polsat Viasat History" tvg-logo="https://sat-kom.co.uk/logos/132.png" group-title="Ogolne",Polsat Viasat History
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2365.ts
-#EXTINF:-1 tvg-id="POLSAT Viasat Explore" tvg-name="Polsat Viasat Explore HD" tvg-logo="https://sat-kom.co.uk/logos/131.png" group-title="Dokumentalne",Polsat Viasat Explore HD
+#EXTINF:-1 tvg-id="POLSAT Viasat Explore" tvg-name="Polsat Viasat Explore HD" tvg-logo="https://sat-kom.co.uk/logos/131.png" group-title="Ogolne",Polsat Viasat Explore HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2278.ts
-#EXTINF:-1 tvg-id="SCI FI" tvg-name="SciFi" tvg-logo="https://sat-kom.co.uk/logos/108.png" group-title="Dokumentalne",SciFi
+#EXTINF:-1 tvg-id="SCI FI" tvg-name="SciFi" tvg-logo="https://sat-kom.co.uk/logos/108.png" group-title="Ogolne",SciFi
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2367.ts
-#EXTINF:-1 tvg-id="Da Vinci Learning" tvg-name="Da Vinci Learning" tvg-logo="https://sat-kom.co.uk/logos/351.png" group-title="Dokumentalne",Da Vinci Learning
+#EXTINF:-1 tvg-id="Da Vinci Learning" tvg-name="Da Vinci Learning" tvg-logo="https://sat-kom.co.uk/logos/351.png" group-title="Ogolne",Da Vinci Learning
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2368.ts
-#EXTINF:-1 tvg-id="Planete+" tvg-name="Planete+" tvg-logo="https://sat-kom.co.uk/logos/118.png" group-title="Dokumentalne",Planete+
+#EXTINF:-1 tvg-id="Planete+" tvg-name="Planete+" tvg-logo="https://sat-kom.co.uk/logos/118.png" group-title="Ogolne",Planete+
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2369.ts
-#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet HD" tvg-logo="https://sat-kom.co.uk/logos/136.png" group-title="Dokumentalne",Animal Planet HD
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet HD" tvg-logo="https://sat-kom.co.uk/logos/136.png" group-title="Ogolne",Animal Planet HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2370.ts
-#EXTINF:-1 tvg-id="Sundance TV" tvg-name="Sundance Channel HD" tvg-logo="https://sat-kom.co.uk/logos/106.png" group-title="Dokumentalne",Sundance Channel HD
+#EXTINF:-1 tvg-id="Sundance TV" tvg-name="Sundance Channel HD" tvg-logo="https://sat-kom.co.uk/logos/106.png" group-title="Ogolne",Sundance Channel HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2391.ts
-#EXTINF:-1 tvg-id="Adventure" tvg-name="ADVENTURE HD" tvg-logo="" group-title="Dokumentalne",ADVENTURE HD
+#EXTINF:-1 tvg-id="Adventure" tvg-name="ADVENTURE HD" tvg-logo="" group-title="Ogolne",ADVENTURE HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7605.ts
-#EXTINF:-1 tvg-id="Fokus TV" tvg-name="Fokus TV" tvg-logo="https://sat-kom.co.uk/logos/140.png" group-title="Dokumentalne",Fokus TV
+#EXTINF:-1 tvg-id="Fokus TV" tvg-name="Fokus TV" tvg-logo="https://sat-kom.co.uk/logos/140.png" group-title="Ogolne",Fokus TV
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2371.ts
 
 
 
-#EXTINF:-1 tvg-id="Canal+ Now" tvg-name="Canal+ Now" tvg-logo="https://sat-kom.co.uk/logos/371.png" group-title="Filmy",Canal+ Now
+#EXTINF:-1 tvg-id="Canal+ Now" tvg-name="Canal+ Now" tvg-logo="https://sat-kom.co.uk/logos/371.png" group-title="Ogolne",Canal+ Now
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7271.ts
 
 
 
 
-#EXTINF:-1 tvg-id="Stopklatka TV" tvg-name="Stopklatka HD" tvg-logo="https://sat-kom.co.uk/logos/343.png" group-title="Filmy",Stopklatka HD
+#EXTINF:-1 tvg-id="Stopklatka TV" tvg-name="Stopklatka HD" tvg-logo="https://sat-kom.co.uk/logos/343.png" group-title="Ogolne",Stopklatka HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2282.ts
-#EXTINF:-1 tvg-id="TV 6" tvg-name="TV 6 HD" tvg-logo="https://sat-kom.co.uk/logos/40.png" group-title="Tematyczne",TV 6 HD
+#EXTINF:-1 tvg-id="TV 6" tvg-name="TV 6 HD" tvg-logo="https://sat-kom.co.uk/logos/40.png" group-title="Ogolne",TV 6 HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2283.ts
-#EXTINF:-1 tvg-id="Canal+ Kuchnia" tvg-name="Canal+ KUCHNIA HD" tvg-logo="https://sat-kom.co.uk/logos/66.png" group-title="Lifestyle",Canal+ KUCHNIA HD
+#EXTINF:-1 tvg-id="Canal+ Kuchnia" tvg-name="Canal+ KUCHNIA HD" tvg-logo="https://sat-kom.co.uk/logos/66.png" group-title="Ogolne",Canal+ KUCHNIA HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7306.ts
-#EXTINF:-1 tvg-id="Canal+ Premium" tvg-name="CANAL+ PREMIUM HD" tvg-logo="https://sat-kom.co.uk/logos/84.png" group-title="Filmy",CANAL+ PREMIUM HD
+#EXTINF:-1 tvg-id="Canal+ Premium" tvg-name="CANAL+ PREMIUM HD" tvg-logo="https://sat-kom.co.uk/logos/84.png" group-title="Ogolne",CANAL+ PREMIUM HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/4857.ts
-#EXTINF:-1 tvg-id="Canal+ 1" tvg-name="CANAL+ 1" tvg-logo="https://sat-kom.co.uk/logos/85.png" group-title="Filmy",CANAL+ 1
+#EXTINF:-1 tvg-id="Canal+ 1" tvg-name="CANAL+ 1" tvg-logo="https://sat-kom.co.uk/logos/85.png" group-title="Ogolne",CANAL+ 1
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/4858.ts
-#EXTINF:-1 tvg-id="Canal+ Film" tvg-name="Canal+ Film HD" tvg-logo="https://sat-kom.co.uk/logos/86.png" group-title="Filmy",Canal+ Film HD
+#EXTINF:-1 tvg-id="Canal+ Film" tvg-name="Canal+ Film HD" tvg-logo="https://sat-kom.co.uk/logos/86.png" group-title="Ogolne",Canal+ Film HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2285.ts
-#EXTINF:-1 tvg-id="Canal+ Seriale" tvg-name="Canal+ Seriale HD" tvg-logo="https://sat-kom.co.uk/logos/88.png" group-title="Filmy",Canal+ Seriale HD
+#EXTINF:-1 tvg-id="Canal+ Seriale" tvg-name="Canal+ Seriale HD" tvg-logo="https://sat-kom.co.uk/logos/88.png" group-title="Ogolne",Canal+ Seriale HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2286.ts
-#EXTINF:-1 tvg-id="Canal+ Family" tvg-name="Canal+ Family HD" tvg-logo="https://sat-kom.co.uk/logos/87.png" group-title="Filmy",Canal+ Family HD
+#EXTINF:-1 tvg-id="Canal+ Family" tvg-name="Canal+ Family HD" tvg-logo="https://sat-kom.co.uk/logos/87.png" group-title="Ogolne",Canal+ Family HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2287.ts
-#EXTINF:-1 tvg-id="Canal+ Dokument" tvg-name="CANAL+ DOKUMENT HD" tvg-logo="https://sat-kom.co.uk/logos/121.png" group-title="Dokumentalne",CANAL+ DOKUMENT HD
+#EXTINF:-1 tvg-id="Canal+ Dokument" tvg-name="CANAL+ DOKUMENT HD" tvg-logo="https://sat-kom.co.uk/logos/121.png" group-title="Ogolne",CANAL+ DOKUMENT HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2363.ts
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO HD" tvg-logo="https://sat-kom.co.uk/logos/91.png" group-title="Filmy",HBO HD
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO HD" tvg-logo="https://sat-kom.co.uk/logos/91.png" group-title="Ogolne",HBO HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2288.ts
-#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO2 HD" tvg-logo="https://sat-kom.co.uk/logos/92.png" group-title="Filmy",HBO2 HD
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO2 HD" tvg-logo="https://sat-kom.co.uk/logos/92.png" group-title="Ogolne",HBO2 HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2289.ts
-#EXTINF:-1 tvg-id="HBO 3" tvg-name="HBO 3 HD" tvg-logo="https://sat-kom.co.uk/logos/93.png" group-title="Filmy",HBO 3 HD
+#EXTINF:-1 tvg-id="HBO 3" tvg-name="HBO 3 HD" tvg-logo="https://sat-kom.co.uk/logos/93.png" group-title="Ogolne",HBO 3 HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2290.ts
-#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax HD" tvg-logo="https://sat-kom.co.uk/logos/94.png" group-title="Filmy",Cinemax HD
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax HD" tvg-logo="https://sat-kom.co.uk/logos/94.png" group-title="Ogolne",Cinemax HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2291.ts
-#EXTINF:-1 tvg-id="Cinemax 2" tvg-name="Cinemax 2 HD" tvg-logo="https://sat-kom.co.uk/logos/95.png" group-title="Filmy",Cinemax 2 HD
+#EXTINF:-1 tvg-id="Cinemax 2" tvg-name="Cinemax 2 HD" tvg-logo="https://sat-kom.co.uk/logos/95.png" group-title="Ogolne",Cinemax 2 HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2292.ts
-#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central Polska" tvg-logo="https://sat-kom.co.uk/logos/52.png" group-title="Filmy",Comedy Central Polska
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central Polska" tvg-logo="https://sat-kom.co.uk/logos/52.png" group-title="Ogolne",Comedy Central Polska
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2293.ts
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD" tvg-logo="https://sat-kom.co.uk/logos/54.png" group-title="Filmy",AXN HD
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD" tvg-logo="https://sat-kom.co.uk/logos/54.png" group-title="Ogolne",AXN HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2294.ts
-#EXTINF:-1 tvg-id="AXN White" tvg-name="AXN White" tvg-logo="https://sat-kom.co.uk/logos/58.png" group-title="Filmy",AXN White
+#EXTINF:-1 tvg-id="AXN White" tvg-name="AXN White" tvg-logo="https://sat-kom.co.uk/logos/58.png" group-title="Ogolne",AXN White
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2295.ts
-#EXTINF:-1 tvg-id="AXN Black" tvg-name="AXN Black" tvg-logo="https://sat-kom.co.uk/logos/57.png" group-title="Filmy",AXN Black
+#EXTINF:-1 tvg-id="AXN Black" tvg-name="AXN Black" tvg-logo="https://sat-kom.co.uk/logos/57.png" group-title="Ogolne",AXN Black
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2296.ts
-#EXTINF:-1 tvg-id="AXN Spin" tvg-name="AXN Spin" tvg-logo="https://sat-kom.co.uk/logos/56.png" group-title="Filmy",AXN Spin
+#EXTINF:-1 tvg-id="AXN Spin" tvg-name="AXN Spin" tvg-logo="https://sat-kom.co.uk/logos/56.png" group-title="Ogolne",AXN Spin
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2297.ts
-#EXTINF:-1 tvg-id="Filmbox Premium HD" tvg-name="Filmbox Premium" tvg-logo="https://sat-kom.co.uk/logos/101.png" group-title="Filmy",Filmbox Premium
+#EXTINF:-1 tvg-id="Filmbox Premium HD" tvg-name="Filmbox Premium" tvg-logo="https://sat-kom.co.uk/logos/101.png" group-title="Ogolne",Filmbox Premium
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2298.ts
-#EXTINF:-1 tvg-id="FilmBox Action" tvg-name="FilmBox Action" tvg-logo="https://sat-kom.co.uk/logos/103.png" group-title="Filmy",FilmBox Action
+#EXTINF:-1 tvg-id="FilmBox Action" tvg-name="FilmBox Action" tvg-logo="https://sat-kom.co.uk/logos/103.png" group-title="Ogolne",FilmBox Action
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2299.ts
-#EXTINF:-1 tvg-id="Filmbox Extra HD" tvg-name="FilmBox Extra HD" tvg-logo="https://sat-kom.co.uk/logos/102.png" group-title="Filmy",FilmBox Extra HD
+#EXTINF:-1 tvg-id="Filmbox Extra HD" tvg-name="FilmBox Extra HD" tvg-logo="https://sat-kom.co.uk/logos/102.png" group-title="Ogolne",FilmBox Extra HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2300.ts
-#EXTINF:-1 tvg-id="Filmbox Arthouse" tvg-name="Filmbox Arthouse" tvg-logo="https://sat-kom.co.uk/logos/349.png" group-title="Filmy",Filmbox Arthouse
+#EXTINF:-1 tvg-id="Filmbox Arthouse" tvg-name="Filmbox Arthouse" tvg-logo="https://sat-kom.co.uk/logos/349.png" group-title="Ogolne",Filmbox Arthouse
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2301.ts
-#EXTINF:-1 tvg-id="Filmbox Family" tvg-name="FilmBox Family" tvg-logo="https://sat-kom.co.uk/logos/104.png" group-title="Filmy",FilmBox Family
+#EXTINF:-1 tvg-id="Filmbox Family" tvg-name="FilmBox Family" tvg-logo="https://sat-kom.co.uk/logos/104.png" group-title="Ogolne",FilmBox Family
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/4862.ts
-#EXTINF:-1 tvg-id="TVP 1" tvg-name="Fox HD" tvg-logo="https://sat-kom.co.uk/logos/50.png" group-title="Filmy",Fox HD
+#EXTINF:-1 tvg-id="TVP 1" tvg-name="Fox HD" tvg-logo="https://sat-kom.co.uk/logos/50.png" group-title="Ogolne",Fox HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2302.ts
-#EXTINF:-1 tvg-id="TVP 1" tvg-name="Fox Comedy" tvg-logo="https://sat-kom.co.uk/logos/51.png" group-title="Filmy",Fox Comedy
+#EXTINF:-1 tvg-id="TVP 1" tvg-name="Fox Comedy" tvg-logo="https://sat-kom.co.uk/logos/51.png" group-title="Ogolne",Fox Comedy
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2303.ts
-#EXTINF:-1 tvg-id="13 Ulica" tvg-name="13 Ulica HD" tvg-logo="https://sat-kom.co.uk/logos/49.png" group-title="Filmy",13 Ulica HD
+#EXTINF:-1 tvg-id="13 Ulica" tvg-name="13 Ulica HD" tvg-logo="https://sat-kom.co.uk/logos/49.png" group-title="Ogolne",13 Ulica HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2304.ts
-#EXTINF:-1 tvg-id="Kino Polska" tvg-name="Kino Polska" tvg-logo="https://sat-kom.co.uk/logos/99.png" group-title="Filmy",Kino Polska
+#EXTINF:-1 tvg-id="Kino Polska" tvg-name="Kino Polska" tvg-logo="https://sat-kom.co.uk/logos/99.png" group-title="Ogolne",Kino Polska
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2305.ts
-#EXTINF:-1 tvg-id="Ale Kino+" tvg-name="Ale Kino+ HD" tvg-logo="https://sat-kom.co.uk/logos/83.png" group-title="Filmy",Ale Kino+ HD
+#EXTINF:-1 tvg-id="Ale Kino+" tvg-name="Ale Kino+ HD" tvg-logo="https://sat-kom.co.uk/logos/83.png" group-title="Ogolne",Ale Kino+ HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/4860.ts
-#EXTINF:-1 tvg-id="Kino TV" tvg-name="Kino TV" tvg-logo="https://sat-kom.co.uk/logos/100.png" group-title="Filmy",Kino TV
+#EXTINF:-1 tvg-id="Kino TV" tvg-name="Kino TV" tvg-logo="https://sat-kom.co.uk/logos/100.png" group-title="Ogolne",Kino TV
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/4861.ts
-#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel HD" tvg-logo="https://sat-kom.co.uk/logos/82.png" group-title="Filmy",Paramount Channel HD
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel HD" tvg-logo="https://sat-kom.co.uk/logos/82.png" group-title="Ogolne",Paramount Channel HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2306.ts
-#EXTINF:-1 tvg-id="ROMANCE TV" tvg-name="Romance Tv" tvg-logo="https://sat-kom.co.uk/logos/62.png" group-title="Filmy",Romance Tv
+#EXTINF:-1 tvg-id="ROMANCE TV" tvg-name="Romance Tv" tvg-logo="https://sat-kom.co.uk/logos/62.png" group-title="Ogolne",Romance Tv
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2307.ts
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://sat-kom.co.uk/logos/80.png" group-title="Filmy",AMC
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://sat-kom.co.uk/logos/80.png" group-title="Ogolne",AMC
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/4859.ts
-#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://sat-kom.co.uk/logos/76.png" group-title="Lifestyle",TLC
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://sat-kom.co.uk/logos/76.png" group-title="Ogolne",TLC
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2309.ts
-#EXTINF:-1 tvg-id="Warner TV" tvg-name="Warner TV" tvg-logo="" group-title="Filmy",Warner TV
+#EXTINF:-1 tvg-id="Warner TV" tvg-name="Warner TV" tvg-logo="" group-title="Ogolne",Warner TV
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7646.ts
