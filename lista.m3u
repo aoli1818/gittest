@@ -1336,69 +1336,64 @@ http://line.premiumpowers.net:80/84GkDDzqyvUk/r4V2tsBy92/880273
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| CANAL+ EXTRA 1 ᴴᴰ" tvg-logo="http://picons.cmshulk.com/picons/1691171.png" group-title="SPORTOWE111",PLAY+| CANAL+ EXTRA 1 ᴴᴰ
+#EXTINF:-1 tvg-id="Canal+ Extra 1" tvg-name="Canal+ EXTRA 1 HD" tvg-logo="" group-title="12PL | Sport Events & PPV",Canal+ EXTRA 1 HD
+http://bocian.io:8880/lacha76/ODEzNzU1NzQ0/170506
+#EXTINF:-1 tvg-id="Canal+ Extra 2" tvg-name="Canal+ EXTRA 2 HD" tvg-logo="" group-title="12PL | Sport Events & PPV",Canal+ EXTRA 2 HD
+http://bocian.io:8880/lacha76/ODEzNzU1NzQ0/170507
+#EXTINF:-1 tvg-id="Canal+ Extra 3" tvg-name="Canal+ EXTRA 3 HD" tvg-logo="" group-title="12PL | Sport Events & PPV",Canal+ EXTRA 3 HD
+http://bocian.io:8880/lacha76/ODEzNzU1NzQ0/170508
+#EXTINF:-1 tvg-id="Canal+ Extra 4" tvg-name="Canal+ EXTRA 4 HD" tvg-logo="" group-title="12PL | Sport Events & PPV",Canal+ EXTRA 4 HD
+http://bocian.io:8880/lacha76/ODEzNzU1NzQ0/170509
+#EXTINF:-1 tvg-id="Canal+ Extra 5" tvg-name="Canal+ EXTRA 5 HD" tvg-logo="" group-title="12PL | Sport Events & PPV",Canal+ EXTRA 5 HD
+http://bocian.io:8880/lacha76/ODEzNzU1NzQ0/170510
+#EXTINF:-1 tvg-id="Canal+ Extra 6" tvg-name="Canal+ EXTRA 6 HD" tvg-logo="" group-title="12PL | Sport Events & PPV",Canal+ EXTRA 6 HD
+http://bocian.io:8880/lacha76/ODEzNzU1NzQ0/170511
+#EXTINF:-1 tvg-id="Canal+ Extra 7" tvg-name="Canal+ EXTRA 7 HD" tvg-logo="" group-title="12PL | Sport Events & PPV",Canal+ EXTRA 7 HD
+http://bocian.io:8880/lacha76/ODEzNzU1NzQ0/170512
+
+
+#EXTINF:-1 tvg-id="Canal+ Extra 1" tvg-name="Canal+ EXTRA 1 HD" tvg-logo="" group-title="PL | Sport Events & PPV",Canal+ EXTRA 1 HD
+http://bocian.io:8880/zubi03101429/17ufY8C5G9ZM/170506
+#EXTINF:-1 tvg-id="Canal+ Extra 2" tvg-name="Canal+ EXTRA 2 HD" tvg-logo="" group-title="PL | Sport Events & PPV",Canal+ EXTRA 2 HD
+http://bocian.io:8880/zubi03101429/17ufY8C5G9ZM/170507
+#EXTINF:-1 tvg-id="Canal+ Extra 3" tvg-name="Canal+ EXTRA 3 HD" tvg-logo="" group-title="PL | Sport Events & PPV",Canal+ EXTRA 3 HD
+http://bocian.io:8880/zubi03101429/17ufY8C5G9ZM/170508
+#EXTINF:-1 tvg-id="Canal+ Extra 4" tvg-name="Canal+ EXTRA 4 HD" tvg-logo="" group-title="PL | Sport Events & PPV",Canal+ EXTRA 4 HD
+http://bocian.io:8880/zubi03101429/17ufY8C5G9ZM/170509
+#EXTINF:-1 tvg-id="Canal+ Extra 5" tvg-name="Canal+ EXTRA 5 HD" tvg-logo="" group-title="PL | Sport Events & PPV",Canal+ EXTRA 5 HD
+http://bocian.io:8880/zubi03101429/17ufY8C5G9ZM/170510
+#EXTINF:-1 tvg-id="Canal+ Extra 6" tvg-name="Canal+ EXTRA 6 HD" tvg-logo="" group-title="PL | Sport Events & PPV",Canal+ EXTRA 6 HD
+http://bocian.io:8880/zubi03101429/17ufY8C5G9ZM/170511
+#EXTINF:-1 tvg-id="Canal+ Extra 7" tvg-name="Canal+ EXTRA 7 HD" tvg-logo="" group-title="PL | Sport Events & PPV",Canal+ EXTRA 7 HD
+http://bocian.io:8880/zubi03101429/17ufY8C5G9ZM/170512
+
+
+#EXTINF:-1 tvg-id="" tvg-name="PLAY+| CANAL+ EXTRA 1 ᴴᴰ" tvg-logo="http://picons.cmshulk.com/picons/1691171.png" group-title="21PL| CANAL+ ONLINE SPORT ᴴᴰ",PLAY+| CANAL+ EXTRA 1 ᴴᴰ
 http://line.premiumpowers.net:80/84GkDDzqyvUk/r4V2tsBy92/1691171
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| CANAL+ EXTRA 2 ᴴᴰ" tvg-logo="http://picons.cmshulk.com/picons/1691170.png" group-title="SPORTOWE111",PLAY+| CANAL+ EXTRA 2 ᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="PLAY+| CANAL+ EXTRA 2 ᴴᴰ" tvg-logo="http://picons.cmshulk.com/picons/1691170.png" group-title="21PL| CANAL+ ONLINE SPORT ᴴᴰ",PLAY+| CANAL+ EXTRA 2 ᴴᴰ
 http://line.premiumpowers.net:80/84GkDDzqyvUk/r4V2tsBy92/1691170
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| CANAL+ EXTRA 3 ᴴᴰ" tvg-logo="http://picons.cmshulk.com/picons/1691169.png" group-title="SPORTOWE111",PLAY+| CANAL+ EXTRA 3 ᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="PLAY+| CANAL+ EXTRA 3 ᴴᴰ" tvg-logo="http://picons.cmshulk.com/picons/1691169.png" group-title="21PL| CANAL+ ONLINE SPORT ᴴᴰ",PLAY+| CANAL+ EXTRA 3 ᴴᴰ
 http://line.premiumpowers.net:80/84GkDDzqyvUk/r4V2tsBy92/1691169
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| CANAL+ EXTRA 4 ᴴᴰ" tvg-logo="http://picons.cmshulk.com/picons/1691168.png" group-title="SPORTOWE111",PLAY+| CANAL+ EXTRA 4 ᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="PLAY+| CANAL+ EXTRA 4 ᴴᴰ" tvg-logo="http://picons.cmshulk.com/picons/1691168.png" group-title="21PL| CANAL+ ONLINE SPORT ᴴᴰ",PLAY+| CANAL+ EXTRA 4 ᴴᴰ
 http://line.premiumpowers.net:80/84GkDDzqyvUk/r4V2tsBy92/1691168
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| CANAL+ EXTRA 5 ᴴᴰ" tvg-logo="http://picons.cmshulk.com/picons/1691167.png" group-title="SPORTOWE111",PLAY+| CANAL+ EXTRA 5 ᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="PLAY+| CANAL+ EXTRA 5 ᴴᴰ" tvg-logo="http://picons.cmshulk.com/picons/1691167.png" group-title="21PL| CANAL+ ONLINE SPORT ᴴᴰ",PLAY+| CANAL+ EXTRA 5 ᴴᴰ
 http://line.premiumpowers.net:80/84GkDDzqyvUk/r4V2tsBy92/1691167
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| CANAL+ EXTRA 6 ᴴᴰ" tvg-logo="http://picons.cmshulk.com/picons/1691166.png" group-title="SPORTOWE111",PLAY+| CANAL+ EXTRA 6 ᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="PLAY+| CANAL+ EXTRA 6 ᴴᴰ" tvg-logo="http://picons.cmshulk.com/picons/1691166.png" group-title="21PL| CANAL+ ONLINE SPORT ᴴᴰ",PLAY+| CANAL+ EXTRA 6 ᴴᴰ
 http://line.premiumpowers.net:80/84GkDDzqyvUk/r4V2tsBy92/1691166
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| CANAL+ EXTRA 7 ᴴᴰ" tvg-logo="http://picons.cmshulk.com/picons/1691165.png" group-title="SPORTOWE111",PLAY+| CANAL+ EXTRA 7 ᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="PLAY+| CANAL+ EXTRA 7 ᴴᴰ" tvg-logo="http://picons.cmshulk.com/picons/1691165.png" group-title="21PL| CANAL+ ONLINE SPORT ᴴᴰ",PLAY+| CANAL+ EXTRA 7 ᴴᴰ
 http://line.premiumpowers.net:80/84GkDDzqyvUk/r4V2tsBy92/1691165
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| CANAL+ SPORT 1 ᴴᴰ" tvg-logo="http://picons.cmshulk.com/picons/1691164.png" group-title="SPORTOWE111",PLAY+| CANAL+ SPORT 1 ᴴᴰ
-http://line.premiumpowers.net:80/84GkDDzqyvUk/r4V2tsBy92/1691164
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| CANAL+ SPORT 2 ᴴᴰ" tvg-logo="http://picons.cmshulk.com/picons/1691163.png" group-title="SPORTOWE111",PLAY+| CANAL+ SPORT 2 ᴴᴰ
-http://line.premiumpowers.net:80/84GkDDzqyvUk/r4V2tsBy92/1691163
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| CANAL+ SPORT 3 ᴴᴰ" tvg-logo="http://picons.cmshulk.com/picons/1691162.png" group-title="SPORTOWE111",PLAY+| CANAL+ SPORT 3 ᴴᴰ
-http://line.premiumpowers.net:80/84GkDDzqyvUk/r4V2tsBy92/1691162
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| CANAL+ SPORT 4 ᴴᴰ" tvg-logo="http://picons.cmshulk.com/picons/1691161.png" group-title="SPORTOWE111",PLAY+| CANAL+ SPORT 4 ᴴᴰ
-http://line.premiumpowers.net:80/84GkDDzqyvUk/r4V2tsBy92/1691161
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| CANAL+ SPORT 5 ᴴᴰ" tvg-logo="http://picons.cmshulk.com/picons/1691160.png" group-title="SPORTOWE111",PLAY+| CANAL+ SPORT 5 ᴴᴰ
-http://line.premiumpowers.net:80/84GkDDzqyvUk/r4V2tsBy92/1691160
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| ELEVEN SPORTS 1 ᴴᴰ" tvg-logo="http://picons.cmshulk.com/picons/1691159.png" group-title="SPORTOWE111",PLAY+| ELEVEN SPORTS 1 ᴴᴰ
-http://line.premiumpowers.net:80/84GkDDzqyvUk/r4V2tsBy92/1691159
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| ELEVEN SPORTS 2 ᴴᴰ" tvg-logo="http://picons.cmshulk.com/picons/1691158.png" group-title="SPORTOWE111",PLAY+| ELEVEN SPORTS 2 ᴴᴰ
-http://line.premiumpowers.net:80/84GkDDzqyvUk/r4V2tsBy92/1691158
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| ELEVEN SPORTS 3 ᴴᴰ" tvg-logo="http://picons.cmshulk.com/picons/1691157.png" group-title="SPORTOWE111",PLAY+| ELEVEN SPORTS 3 ᴴᴰ
-http://line.premiumpowers.net:80/84GkDDzqyvUk/r4V2tsBy92/1691157
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| ELEVEN SPORTS 4 ᴴᴰ" tvg-logo="http://picons.cmshulk.com/picons/1691156.png" group-title="SPORTOWE111",PLAY+| ELEVEN SPORTS 4 ᴴᴰ
-http://line.premiumpowers.net:80/84GkDDzqyvUk/r4V2tsBy92/1691156
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| TVP SPORT ᴴᴰ" tvg-logo="http://picons.cmshulk.com/picons/1691155.png" group-title="SPORTOWE111",PLAY+| TVP SPORT ᴴᴰ
-http://line.premiumpowers.net:80/84GkDDzqyvUk/r4V2tsBy92/1691155
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| EUROSPORT 1 ᴴᴰ" tvg-logo="http://picons.cmshulk.com/picons/1691154.png" group-title="SPORTOWE111",PLAY+| EUROSPORT 1 ᴴᴰ
-http://line.premiumpowers.net:80/84GkDDzqyvUk/r4V2tsBy92/1691154
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| EUROSPORT 2 ᴴᴰ" tvg-logo="http://picons.cmshulk.com/picons/1691153.png" group-title="SPORTOWE111",PLAY+| EUROSPORT 2 ᴴᴰ
-http://line.premiumpowers.net:80/84GkDDzqyvUk/r4V2tsBy92/1691153
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| FIGHT KLUB ᴴᴰ" tvg-logo="http://picons.cmshulk.com/picons/1691152.png" group-title="SPORTOWE111",PLAY+| FIGHT KLUB ᴴᴰ
-http://line.premiumpowers.net:80/84GkDDzqyvUk/r4V2tsBy92/1691152
-#EXTINF:-1 tvg-id="" tvg-name="#### CANAL+ ONLINE SPORT ᴿᴬᵂ ####" tvg-logo="" group-title="SPORTOWE111",#### CANAL+ ONLINE SPORT ᴿᴬᵂ ####
-http://line.premiumpowers.net:80/84GkDDzqyvUk/r4V2tsBy92/1697744
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| CANAL+ EVENT 1 ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1697743.png" group-title="SPORTOWE111",PLAY+| CANAL+ EVENT 1 ᴿᴬᵂ
-http://line.premiumpowers.net:80/84GkDDzqyvUk/r4V2tsBy92/1697743
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| CANAL+ EVENT 2 ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1697742.png" group-title="SPORTOWE111",PLAY+| CANAL+ EVENT 2 ᴿᴬᵂ
-http://line.premiumpowers.net:80/84GkDDzqyvUk/r4V2tsBy92/1697742
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| CANAL+ EVENT 3 ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1697741.png" group-title="SPORTOWE111",PLAY+| CANAL+ EVENT 3 ᴿᴬᵂ
-http://line.premiumpowers.net:80/84GkDDzqyvUk/r4V2tsBy92/1697741
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| CANAL+ EVENT 4 ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1697740.png" group-title="SPORTOWE111",PLAY+| CANAL+ EVENT 4 ᴿᴬᵂ
-http://line.premiumpowers.net:80/84GkDDzqyvUk/r4V2tsBy92/1697740
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| CANAL+ 360 ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1697739.png" group-title="SPORTOWE111",PLAY+| CANAL+ 360 ᴿᴬᵂ
-http://line.premiumpowers.net:80/84GkDDzqyvUk/r4V2tsBy92/1697739
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| CANAL+ EXTRA 1 ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1697738.png" group-title="SPORTOWE111",PLAY+| CANAL+ EXTRA 1 ᴿᴬᵂ
+
+#EXTINF:-1 tvg-id="" tvg-name="PLAY+| CANAL+ EXTRA 1 ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1697738.png" group-title="22PL| CANAL+ ONLINE SPORT ᴿᴬᵂ",PLAY+| CANAL+ EXTRA 1 ᴿᴬᵂ
 http://line.premiumpowers.net:80/84GkDDzqyvUk/r4V2tsBy92/1697738
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| CANAL+ EXTRA 2 ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1697737.png" group-title="SPORTOWE111",PLAY+| CANAL+ EXTRA 2 ᴿᴬᵂ
+#EXTINF:-1 tvg-id="" tvg-name="PLAY+| CANAL+ EXTRA 2 ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1697737.png" group-title="22PL| CANAL+ ONLINE SPORT ᴿᴬᵂ",PLAY+| CANAL+ EXTRA 2 ᴿᴬᵂ
 http://line.premiumpowers.net:80/84GkDDzqyvUk/r4V2tsBy92/1697737
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| CANAL+ EXTRA 3 ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1697736.png" group-title="SPORTOWE111",PLAY+| CANAL+ EXTRA 3 ᴿᴬᵂ
+#EXTINF:-1 tvg-id="" tvg-name="PLAY+| CANAL+ EXTRA 3 ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1697736.png" group-title="22PL| CANAL+ ONLINE SPORT ᴿᴬᵂ",PLAY+| CANAL+ EXTRA 3 ᴿᴬᵂ
 http://line.premiumpowers.net:80/84GkDDzqyvUk/r4V2tsBy92/1697736
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| CANAL+ EXTRA 4 ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1697735.png" group-title="SPORTOWE111",PLAY+| CANAL+ EXTRA 4 ᴿᴬᵂ
+#EXTINF:-1 tvg-id="" tvg-name="PLAY+| CANAL+ EXTRA 4 ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1697735.png" group-title="22PL| CANAL+ ONLINE SPORT ᴿᴬᵂ",PLAY+| CANAL+ EXTRA 4 ᴿᴬᵂ
 http://line.premiumpowers.net:80/84GkDDzqyvUk/r4V2tsBy92/1697735
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| CANAL+ EXTRA 5 ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1697734.png" group-title="SPORTOWE111",PLAY+| CANAL+ EXTRA 5 ᴿᴬᵂ
+#EXTINF:-1 tvg-id="" tvg-name="PLAY+| CANAL+ EXTRA 5 ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1697734.png" group-title="22PL| CANAL+ ONLINE SPORT ᴿᴬᵂ",PLAY+| CANAL+ EXTRA 5 ᴿᴬᵂ
 http://line.premiumpowers.net:80/84GkDDzqyvUk/r4V2tsBy92/1697734
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| CANAL+ EXTRA 6 ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1697733.png" group-title="SPORTOWE111",PLAY+| CANAL+ EXTRA 6 ᴿᴬᵂ
+#EXTINF:-1 tvg-id="" tvg-name="PLAY+| CANAL+ EXTRA 6 ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1697733.png" group-title="22PL| CANAL+ ONLINE SPORT ᴿᴬᵂ",PLAY+| CANAL+ EXTRA 6 ᴿᴬᵂ
 http://line.premiumpowers.net:80/84GkDDzqyvUk/r4V2tsBy92/1697733
-#EXTINF:-1 tvg-id="" tvg-name="PLAY+| CANAL+ EXTRA 7 ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1697732.png" group-title="SPORTOWE111",PLAY+| CANAL+ EXTRA 7 ᴿᴬᵂ
+#EXTINF:-1 tvg-id="" tvg-name="PLAY+| CANAL+ EXTRA 7 ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1697732.png" group-title="22PL| CANAL+ ONLINE SPORT ᴿᴬᵂ",PLAY+| CANAL+ EXTRA 7 ᴿᴬᵂ
 http://line.premiumpowers.net:80/84GkDDzqyvUk/r4V2tsBy92/1697732
