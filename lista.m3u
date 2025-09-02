@@ -1036,17 +1036,17 @@ https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7601.ts
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7602.ts
 #EXTINF:-1 tvg-id="" tvg-name="[RADIO]-Zlote Przeboje" tvg-logo="" group-title="Polskie Radio",[RADIO]-Zlote Przeboje
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7609.ts
-#EXTINF:-1 tvg-id="0.via" tvg-name="ViaPlay 0" tvg-logo="" group-title="Viaplay/PPV",ViaPlay 0
+#EXTINF:-1 tvg-id="0.via" tvg-name="ViaPlay 0" tvg-logo="" group-title="Sporty",ViaPlay 0
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7318.ts
-#EXTINF:-1 tvg-id="0.via" tvg-name="Viaplay 1" tvg-logo="https://sat-kom.co.uk/logos/304.png" group-title="Viaplay/PPV",Viaplay 1
+#EXTINF:-1 tvg-id="0.via" tvg-name="Viaplay 1" tvg-logo="https://sat-kom.co.uk/logos/304.png" group-title="Sporty",Viaplay 1
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7274.ts
-#EXTINF:-1 tvg-id="1.via" tvg-name="Viaplay 2" tvg-logo="https://sat-kom.co.uk/logos/304.png" group-title="Viaplay/PPV",Viaplay 2
+#EXTINF:-1 tvg-id="1.via" tvg-name="Viaplay 2" tvg-logo="https://sat-kom.co.uk/logos/304.png" group-title="Sporty",Viaplay 2
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7275.ts
-#EXTINF:-1 tvg-id="2.via" tvg-name="Viaplay 3" tvg-logo="https://sat-kom.co.uk/logos/304.png" group-title="Viaplay/PPV",Viaplay 3
+#EXTINF:-1 tvg-id="2.via" tvg-name="Viaplay 3" tvg-logo="https://sat-kom.co.uk/logos/304.png" group-title="Sporty",Viaplay 3
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7276.ts
-#EXTINF:-1 tvg-id="3.via" tvg-name="Viaplay 4" tvg-logo="https://sat-kom.co.uk/logos/304.png" group-title="Viaplay/PPV",Viaplay 4
+#EXTINF:-1 tvg-id="3.via" tvg-name="Viaplay 4" tvg-logo="https://sat-kom.co.uk/logos/304.png" group-title="Sporty",Viaplay 4
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7277.ts
-#EXTINF:-1 tvg-id="4.via" tvg-name="ViaPlay 5" tvg-logo="https://sat-kom.co.uk/logos/304.png" group-title="Viaplay/PPV",ViaPlay 5
+#EXTINF:-1 tvg-id="4.via" tvg-name="ViaPlay 5" tvg-logo="https://sat-kom.co.uk/logos/304.png" group-title="Sporty",ViaPlay 5
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7278.ts
 
 #EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="https://sat-kom.co.uk/logos/194.png" group-title="Bajki",Disney Channel
