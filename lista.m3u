@@ -1203,131 +1203,131 @@ https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7646.ts
 
 
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://103.176.90.118/picons/logos/logos/POLAND.png" group-title="PL| SPORTOWE",##### PL SPORTOWE #####
-http://cdnpro.marovis.xyz:80/play/live.php?mac=00:1A:79:57:d5:1e&stream=1288918&extension=ts
-#EXTINF:0 tvg-id="ElevenSports1.pl" tvg-name="ElevenSports1.pl" tvg-logo="http://103.176.90.118/picons/logos/POLAND/ELEVEN-SPORTS-1--PL.png" group-title="PL| SPORTOWE",PL| ELEVEN SPORTS 1 4K/UHD
-http://cdnpro.marovis.xyz:80/play/live.php?mac=00:1A:79:57:d5:1e&stream=1498959&extension=ts
-#EXTINF:0 tvg-id="ElevenSport1.pl" tvg-name="ElevenSport1.pl" tvg-logo="http://103.176.90.118/picons/logos/POLAND/ELEVEN-SPORTS-1--PL.png" group-title="PL| SPORTOWE",PL| ELEVEN SPORTS 1 4K+
-http://cdnpro.marovis.xyz:80/play/live.php?mac=00:1A:79:57:d5:1e&stream=905665&extension=ts
-#EXTINF:0 tvg-id="ElevenSports1.pl" tvg-name="ElevenSports1.pl" tvg-logo="http://103.176.90.118/picons/logos/POLAND/ELEVEN-SPORTS-1--PL.png" group-title="PL| SPORTOWE",PL| ELEVEN SPORTS 1 FHD
-http://cdnpro.marovis.xyz:80/play/live.php?mac=00:1A:79:57:d5:1e&stream=880457&extension=ts
-#EXTINF:0 tvg-id="ElevenSport1.pl" tvg-name="ElevenSport1.pl" tvg-logo="http://103.176.90.118/picons/logos/POLAND/ELEVEN-SPORTS-1--PL.png" group-title="PL| SPORTOWE",PL| ELEVEN SPORTS 1 HD
-http://cdnpro.marovis.xyz:80/play/live.php?mac=00:1A:79:57:d5:1e&stream=880317&extension=ts
-#EXTINF:0 tvg-id="ElevenSports2.pl" tvg-name="ElevenSports2.pl" tvg-logo="http://103.176.90.118/picons/logos/POLAND/ELEVEN-SPORTS-2--PL.png" group-title="PL| SPORTOWE",PL| ELEVEN SPORTS 2 FHD
-http://cdnpro.marovis.xyz:80/play/live.php?mac=00:1A:79:57:d5:1e&stream=880456&extension=ts
-#EXTINF:0 tvg-id="ElevenSport2.pl" tvg-name="ElevenSport2.pl" tvg-logo="http://103.176.90.118/picons/logos/POLAND/ELEVEN-SPORTS-2--PL.png" group-title="PL| SPORTOWE",PL| ELEVEN SPORTS 2 HD
-http://cdnpro.marovis.xyz:80/play/live.php?mac=00:1A:79:57:d5:1e&stream=880316&extension=ts
-#EXTINF:0 tvg-id="ElevenSports3.pl" tvg-name="ElevenSports3.pl" tvg-logo="http://103.176.90.118/picons/logos/POLAND/ELEVEN-SPORTS-3--PL.png" group-title="PL| SPORTOWE",PL| ELEVEN SPORTS 3 FHD
-http://cdnpro.marovis.xyz:80/play/live.php?mac=00:1A:79:57:d5:1e&stream=880455&extension=ts
-#EXTINF:0 tvg-id="ElevenSport3.pl" tvg-name="ElevenSport3.pl" tvg-logo="http://103.176.90.118/picons/logos/POLAND/ELEVEN-SPORTS-3--PL.png" group-title="PL| SPORTOWE",PL| ELEVEN SPORTS 3 HD
-http://cdnpro.marovis.xyz:80/play/live.php?mac=00:1A:79:57:d5:1e&stream=880315&extension=ts
-#EXTINF:0 tvg-id="ElevenSports4.pl" tvg-name="ElevenSports4.pl" tvg-logo="http://103.176.90.118/picons/logos/POLAND/ELEVEN-SPORTS-4--PL.png" group-title="PL| SPORTOWE",PL| ELEVEN SPORTS 4 FHD
-http://cdnpro.marovis.xyz:80/play/live.php?mac=00:1A:79:57:d5:1e&stream=880454&extension=ts
-#EXTINF:0 tvg-id="ElevenSport4.pl" tvg-name="ElevenSport4.pl" tvg-logo="http://103.176.90.118/picons/logos/POLAND/ELEVEN-SPORTS-4--PL.png" group-title="PL| SPORTOWE",PL| ELEVEN SPORTS 4 HD
-http://cdnpro.marovis.xyz:80/play/live.php?mac=00:1A:79:57:d5:1e&stream=880314&extension=ts
-#EXTINF:0 tvg-id="Eurosport" tvg-name="Eurosport" tvg-logo="http://103.176.90.118/picons/logos/POLAND/EUROSPORT-1--PL.png" group-title="PL| SPORTOWE",PL| EUROSPORT 1 FHD
-http://cdnpro.marovis.xyz:80/play/live.php?mac=00:1A:79:57:d5:1e&stream=880453&extension=ts
-#EXTINF:0 tvg-id="Eurosport1.pl" tvg-name="Eurosport1.pl" tvg-logo="http://103.176.90.118/picons/logos/POLAND/EUROSPORT-1--PL.png" group-title="PL| SPORTOWE",PL| EUROSPORT 1 HD
-http://cdnpro.marovis.xyz:80/play/live.php?mac=00:1A:79:57:d5:1e&stream=880313&extension=ts
-#EXTINF:0 tvg-id="Eurosport2.pl" tvg-name="Eurosport2.pl" tvg-logo="http://103.176.90.118/picons/logos/POLAND/EUROSPORT-2--PL.png" group-title="PL| SPORTOWE",PL| EUROSPORT 2 FHD
-http://cdnpro.marovis.xyz:80/play/live.php?mac=00:1A:79:57:d5:1e&stream=880452&extension=ts
-#EXTINF:0 tvg-id="Eurosport2.pl" tvg-name="Eurosport2.pl" tvg-logo="http://103.176.90.118/picons/logos/POLAND/EUROSPORT-2--PL.png" group-title="PL| SPORTOWE",PL| EUROSPORT 2 HD
-http://cdnpro.marovis.xyz:80/play/live.php?mac=00:1A:79:57:d5:1e&stream=880312&extension=ts
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://103.176.90.118/picons/logos/logos/CANAL-PLUS-360.png" group-title="PL| SPORTOWE",PL| CANAL+ 360 FHD
-http://cdnpro.marovis.xyz:80/play/live.php?mac=00:1A:79:57:d5:1e&stream=880500&extension=ts
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://103.176.90.118/picons/logos/logos/CANAL-PLUS-360.png" group-title="PL| SPORTOWE",PL| CANAL+ 360 HD
-http://cdnpro.marovis.xyz:80/play/live.php?mac=00:1A:79:57:d5:1e&stream=880360&extension=ts
-#EXTINF:0 tvg-id="C+Now.pl" tvg-name="C+Now.pl" tvg-logo="http://103.176.90.118/picons/logos/logos/CANAL-NOW.png" group-title="PL| SPORTOWE",PL| CANAL+ NOW FHD
-http://cdnpro.marovis.xyz:80/play/live.php?mac=00:1A:79:57:d5:1e&stream=880499&extension=ts
-#EXTINF:0 tvg-id="C+Now.pl" tvg-name="C+Now.pl" tvg-logo="http://103.176.90.118/picons/logos/logos/CANAL-NOW.png" group-title="PL| SPORTOWE",PL| CANAL+ NOW HD
-http://cdnpro.marovis.xyz:80/play/live.php?mac=00:1A:79:57:d5:1e&stream=880359&extension=ts
-#EXTINF:0 tvg-id="CanalPlusSport.pl" tvg-name="CanalPlusSport.pl" tvg-logo="http://103.176.90.118/picons/logos/logos/CANAL-SPORT.png" group-title="PL| SPORTOWE",PL| CANAL+ SPORT FHD
-http://cdnpro.marovis.xyz:80/play/live.php?mac=00:1A:79:57:d5:1e&stream=880461&extension=ts
-#EXTINF:0 tvg-id="CanalPlusSport.pl" tvg-name="CanalPlusSport.pl" tvg-logo="http://103.176.90.118/picons/logos/logos/CANAL-SPORT.png" group-title="PL| SPORTOWE",PL| CANAL+ SPORT HD
-http://cdnpro.marovis.xyz:80/play/live.php?mac=00:1A:79:57:d5:1e&stream=880321&extension=ts
-#EXTINF:0 tvg-id="CanalPlusSport2.pl" tvg-name="CanalPlusSport2.pl" tvg-logo="http://103.176.90.118/picons/logos/logos/CANAL-SPORT-2.png" group-title="PL| SPORTOWE",PL| CANAL+ SPORT 2 FHD
-http://cdnpro.marovis.xyz:80/play/live.php?mac=00:1A:79:57:d5:1e&stream=880460&extension=ts
-#EXTINF:0 tvg-id="CanalPlusSport2.pl" tvg-name="CanalPlusSport2.pl" tvg-logo="http://103.176.90.118/picons/logos/logos/CANAL-SPORT-2.png" group-title="PL| SPORTOWE",PL| CANAL+ SPORT 2 HD
-http://cdnpro.marovis.xyz:80/play/live.php?mac=00:1A:79:57:d5:1e&stream=880320&extension=ts
-#EXTINF:0 tvg-id="CanalPlusSport3.pl" tvg-name="CanalPlusSport3.pl" tvg-logo="http://103.176.90.118/picons/logos/logos/CANAL-SPORT-3.png" group-title="PL| SPORTOWE",PL| CANAL+ SPORT 3 FHD
-http://cdnpro.marovis.xyz:80/play/live.php?mac=00:1A:79:57:d5:1e&stream=880459&extension=ts
-#EXTINF:0 tvg-id="CanalPlusSport3.pl" tvg-name="CanalPlusSport3.pl" tvg-logo="http://103.176.90.118/picons/logos/logos/CANAL-SPORT-3.png" group-title="PL| SPORTOWE",PL| CANAL+ SPORT 3 HD
-http://cdnpro.marovis.xyz:80/play/live.php?mac=00:1A:79:57:d5:1e&stream=880319&extension=ts
-#EXTINF:0 tvg-id="CanalPlusSport4.pl" tvg-name="CanalPlusSport4.pl" tvg-logo="http://103.176.90.118/picons/logos/logos/CANAL-SPORT-4.png" group-title="PL| SPORTOWE",PL| CANAL+ SPORT 4 FHD
-http://cdnpro.marovis.xyz:80/play/live.php?mac=00:1A:79:57:d5:1e&stream=880458&extension=ts
-#EXTINF:0 tvg-id="CanalPlusSport4.pl" tvg-name="CanalPlusSport4.pl" tvg-logo="http://103.176.90.118/picons/logos/logos/CANAL-SPORT-4.png" group-title="PL| SPORTOWE",PL| CANAL+ SPORT 4 HD
-http://cdnpro.marovis.xyz:80/play/live.php?mac=00:1A:79:57:d5:1e&stream=880318&extension=ts
-#EXTINF:0 tvg-id="CanalPlusSport5.pl" tvg-name="CanalPlusSport5.pl" tvg-logo="http://103.176.90.118/picons/logos/logos/CANAL-SPORT-5.png" group-title="PL| SPORTOWE",PL| CANAL+ SPORT 5 FHD
-http://cdnpro.marovis.xyz:80/play/live.php?mac=00:1A:79:57:d5:1e&stream=880406&extension=ts
-#EXTINF:0 tvg-id="CanalPlusSport5.pl" tvg-name="CanalPlusSport5.pl" tvg-logo="http://103.176.90.118/picons/logos/logos/CANAL-SPORT-5.png" group-title="PL| SPORTOWE",PL| CANAL+ SPORT 5 HD
-http://cdnpro.marovis.xyz:80/play/live.php?mac=00:1A:79:57:d5:1e&stream=880266&extension=ts
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-SPORT-EXTRA.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT 1 FHD
-http://cdnpro.marovis.xyz:80/play/live.php?mac=00:1A:79:57:d5:1e&stream=880471&extension=ts
-#EXTINF:0 tvg-id="Polsat Sport 1" tvg-name="Polsat Sport 1" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-SPORT-EXTRA.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT 1 HD
-http://cdnpro.marovis.xyz:80/play/live.php?mac=00:1A:79:57:d5:1e&stream=880331&extension=ts
-#EXTINF:0 tvg-id="PolsatSport.pl" tvg-name="PolsatSport.pl" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-SPORT.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT 2 FHD
-http://cdnpro.marovis.xyz:80/play/live.php?mac=00:1A:79:57:d5:1e&stream=880470&extension=ts
-#EXTINF:0 tvg-id="Polsat Sport 2" tvg-name="Polsat Sport 2" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-SPORT.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT 2 HD
-http://cdnpro.marovis.xyz:80/play/live.php?mac=00:1A:79:57:d5:1e&stream=880330&extension=ts
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://103.176.90.118/picons/logos/logos/POLSAT-SPORT-3.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT 3 FHD
-http://cdnpro.marovis.xyz:80/play/live.php?mac=00:1A:79:57:d5:1e&stream=880468&extension=ts
-#EXTINF:0 tvg-id="Polsat Sport 3" tvg-name="Polsat Sport 3" tvg-logo="http://103.176.90.118/picons/logos/logos/POLSAT-SPORT-3.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT 3 HD
-http://cdnpro.marovis.xyz:80/play/live.php?mac=00:1A:79:57:d5:1e&stream=880328&extension=ts
-#EXTINF:0 tvg-id="PolsatSportPremium1.pl" tvg-name="PolsatSportPremium1.pl" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-SPORT-PREMIUM-1.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT PREMIUM 1 FHD
-http://cdnpro.marovis.xyz:80/play/live.php?mac=00:1A:79:57:d5:1e&stream=880467&extension=ts
-#EXTINF:0 tvg-id="PolsatSportPremium1.pl" tvg-name="PolsatSportPremium1.pl" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-SPORT-PREMIUM-1.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT PREMIUM 1 HD
-http://cdnpro.marovis.xyz:80/play/live.php?mac=00:1A:79:57:d5:1e&stream=880327&extension=ts
-#EXTINF:0 tvg-id="PolsatSportPremium2.pl" tvg-name="PolsatSportPremium2.pl" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-SPORT-PREMIUM-2.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT PREMIUM 2 FHD
-http://cdnpro.marovis.xyz:80/play/live.php?mac=00:1A:79:57:d5:1e&stream=880466&extension=ts
-#EXTINF:0 tvg-id="PolsatSportPremium2.pl" tvg-name="PolsatSportPremium2.pl" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-SPORT-PREMIUM-2.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT PREMIUM 2 HD
-http://cdnpro.marovis.xyz:80/play/live.php?mac=00:1A:79:57:d5:1e&stream=880326&extension=ts
-#EXTINF:0 tvg-id="PolsatSportPremium3.pl" tvg-name="PolsatSportPremium3.pl" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-SPORT-PREMIUM-3.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT PREMIUM 3 FHD
-http://cdnpro.marovis.xyz:80/play/live.php?mac=00:1A:79:57:d5:1e&stream=880465&extension=ts
-#EXTINF:0 tvg-id="PolsatSportPremium3.pl" tvg-name="PolsatSportPremium3.pl" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-SPORT-PREMIUM-3.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT PREMIUM 3 HD
-http://cdnpro.marovis.xyz:80/play/live.php?mac=00:1A:79:57:d5:1e&stream=880325&extension=ts
-#EXTINF:0 tvg-id="PolsatSportPremium4.pl" tvg-name="PolsatSportPremium4.pl" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-SPORT-PREMIUM-4.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT PREMIUM 4 FHD
-http://cdnpro.marovis.xyz:80/play/live.php?mac=00:1A:79:57:d5:1e&stream=880464&extension=ts
-#EXTINF:0 tvg-id="PolsatSportPremium4.pl" tvg-name="PolsatSportPremium4.pl" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-SPORT-PREMIUM-4.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT PREMIUM 4 HD
-http://cdnpro.marovis.xyz:80/play/live.php?mac=00:1A:79:57:d5:1e&stream=880324&extension=ts
-#EXTINF:0 tvg-id="PolsatSportPremium5.pl" tvg-name="PolsatSportPremium5.pl" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-SPORT-PREMIUM-5.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT PREMIUM 5 FHD
-http://cdnpro.marovis.xyz:80/play/live.php?mac=00:1A:79:57:d5:1e&stream=880463&extension=ts
-#EXTINF:0 tvg-id="PolsatSportPremium5.pl" tvg-name="PolsatSportPremium5.pl" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-SPORT-PREMIUM-5.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT PREMIUM 5 HD
-http://cdnpro.marovis.xyz:80/play/live.php?mac=00:1A:79:57:d5:1e&stream=880323&extension=ts
-#EXTINF:0 tvg-id="PolsatSportPremium6.pl" tvg-name="PolsatSportPremium6.pl" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-SPORT-PREMIUM-6.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT PREMIUM 6 FHD
-http://cdnpro.marovis.xyz:80/play/live.php?mac=00:1A:79:57:d5:1e&stream=880462&extension=ts
-#EXTINF:0 tvg-id="PolsatSportPremium6.pl" tvg-name="PolsatSportPremium6.pl" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-SPORT-PREMIUM-6.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT PREMIUM 6 HD
-http://cdnpro.marovis.xyz:80/play/live.php?mac=00:1A:79:57:d5:1e&stream=880322&extension=ts
-#EXTINF:0 tvg-id="PolsatSportFight.pl" tvg-name="PolsatSportFight.pl" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-SPORT-FIGHT.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT FIGHT FHD
-http://cdnpro.marovis.xyz:80/play/live.php?mac=00:1A:79:57:d5:1e&stream=880469&extension=ts
-#EXTINF:0 tvg-id="PolsatSportFight.pl" tvg-name="PolsatSportFight.pl" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-SPORT-FIGHT.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT FIGHT HD
-http://cdnpro.marovis.xyz:80/play/live.php?mac=00:1A:79:57:d5:1e&stream=880329&extension=ts
-#EXTINF:0 tvg-id="TVPSport.pl" tvg-name="TVPSport.pl" tvg-logo="http://103.176.90.118/picons/logos/POLAND/TVP-SPORT.png" group-title="PL| SPORTOWE",PL| TVP SPORT FHD
-http://cdnpro.marovis.xyz:80/play/live.php?mac=00:1A:79:57:d5:1e&stream=880502&extension=ts
-#EXTINF:0 tvg-id="TVPSport.pl" tvg-name="TVPSport.pl" tvg-logo="http://103.176.90.118/picons/logos/POLAND/TVP-SPORT.png" group-title="PL| SPORTOWE",PL| TVP SPORT HD
-http://cdnpro.marovis.xyz:80/play/live.php?mac=00:1A:79:57:d5:1e&stream=880362&extension=ts
-#EXTINF:0 tvg-id="SportKlub.pl" tvg-name="SportKlub.pl" tvg-logo="http://103.176.90.118/picons/logos/POLAND/SPORTKLUB--PL.png" group-title="PL| SPORTOWE",PL| SPORTKLUB FHD
-http://cdnpro.marovis.xyz:80/play/live.php?mac=00:1A:79:57:d5:1e&stream=880447&extension=ts
-#EXTINF:0 tvg-id="SportKlub.pl" tvg-name="SportKlub.pl" tvg-logo="http://103.176.90.118/picons/logos/POLAND/SPORTKLUB--PL.png" group-title="PL| SPORTOWE",PL| SPORTKLUB HD
-http://cdnpro.marovis.xyz:80/play/live.php?mac=00:1A:79:57:d5:1e&stream=880307&extension=ts
-#EXTINF:0 tvg-id="FightKlub.pl" tvg-name="FightKlub.pl" tvg-logo="http://103.176.90.118/picons/logos/POLAND/FIGHTKLUB.png" group-title="PL| SPORTOWE",PL| FIGHTKLUB FHD
-http://cdnpro.marovis.xyz:80/play/live.php?mac=00:1A:79:57:d5:1e&stream=880420&extension=ts
-#EXTINF:0 tvg-id="FightKlub.pl" tvg-name="FightKlub.pl" tvg-logo="http://103.176.90.118/picons/logos/POLAND/FIGHTKLUB.png" group-title="PL| SPORTOWE",PL| FIGHTKLUB HD
-http://cdnpro.marovis.xyz:80/play/live.php?mac=00:1A:79:57:d5:1e&stream=880280&extension=ts
-#EXTINF:0 tvg-id="FightBox.pl" tvg-name="FightBox.pl" tvg-logo="http://103.176.90.118/picons/logos/POLAND/FIGHTBOX.png" group-title="PL| SPORTOWE",PL| FIGHTBOX FHD
-http://cdnpro.marovis.xyz:80/play/live.php?mac=00:1A:79:57:d5:1e&stream=880446&extension=ts
-#EXTINF:0 tvg-id="FightBox.pl" tvg-name="FightBox.pl" tvg-logo="http://103.176.90.118/picons/logos/POLAND/FIGHTBOX.png" group-title="PL| SPORTOWE",PL| FIGHTBOX HD
-http://cdnpro.marovis.xyz:80/play/live.php?mac=00:1A:79:57:d5:1e&stream=880306&extension=ts
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://103.176.90.118/picons/logos/POLAND/PRIME-FIGHT.png" group-title="PL| SPORTOWE",PL| PRIME FIGHT HD
-http://cdnpro.marovis.xyz:80/play/live.php?mac=00:1A:79:57:d5:1e&stream=1121749&extension=ts
-#EXTINF:0 tvg-id="ExtremeSports.pl" tvg-name="ExtremeSports.pl" tvg-logo="http://103.176.90.118/picons/logos/EXTREME-SPORTS-TV.png" group-title="PL| SPORTOWE",PL| EXTREME SPORTS FHD
-http://cdnpro.marovis.xyz:80/play/live.php?mac=00:1A:79:57:d5:1e&stream=880448&extension=ts
-#EXTINF:0 tvg-id="ExtremeSports.pl" tvg-name="ExtremeSports.pl" tvg-logo="http://103.176.90.118/picons/logos/EXTREME-SPORTS-TV.png" group-title="PL| SPORTOWE",PL| EXTREME SPORTS HD
-http://cdnpro.marovis.xyz:80/play/live.php?mac=00:1A:79:57:d5:1e&stream=880308&extension=ts
-#EXTINF:0 tvg-id="GolfChannel.pl" tvg-name="GolfChannel.pl" tvg-logo="http://103.176.90.118/picons/logos/GOLF-CHANNEL-NP.png" group-title="PL| SPORTOWE",PL| GOLF CHANNEL FHD
-http://cdnpro.marovis.xyz:80/play/live.php?mac=00:1A:79:57:d5:1e&stream=880419&extension=ts
-#EXTINF:0 tvg-id="GolfChannel.pl" tvg-name="GolfChannel.pl" tvg-logo="http://103.176.90.118/picons/logos/GOLF-CHANNEL-NP.png" group-title="PL| SPORTOWE",PL| GOLF CHANNEL HD
-http://cdnpro.marovis.xyz:80/play/live.php?mac=00:1A:79:57:d5:1e&stream=880279&extension=ts
-#EXTINF:0 tvg-id="MotowizjaTV.pl" tvg-name="MotowizjaTV.pl" tvg-logo="http://103.176.90.118/picons/logos/POLAND/MOTOWIZJA.png" group-title="PL| SPORTOWE",PL| MOTOWIZJA FHD
-http://cdnpro.marovis.xyz:80/play/live.php?mac=00:1A:79:57:d5:1e&stream=880413&extension=ts
-#EXTINF:0 tvg-id="MotowizjaTV.pl" tvg-name="MotowizjaTV.pl" tvg-logo="http://103.176.90.118/picons/logos/POLAND/MOTOWIZJA.png" group-title="PL| SPORTOWE",PL| MOTOWIZJA HD
-http://cdnpro.marovis.xyz:80/play/live.php?mac=00:1A:79:57:d5:1e&stream=880273&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/POLAND.png" group-title="PL| SPORTOWE1",##### PL SPORTOWE #####
+http://line.ult-ott.com:80/play/live.php?mac=00:1A:79:C6:CA:54&stream=1288918&extension=ts&play_token=pRh3B9Hbpn
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/POLAND/ELEVEN-SPORTS-1--PL.png" group-title="PL| SPORTOWE",PL| ELEVEN SPORTS 1 4K/UHD
+http://line.ult-ott.com:80/play/live.php?mac=00:1A:79:C6:CA:54&stream=1498959&extension=ts&play_token=jCN3iEI3YY
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/POLAND/ELEVEN-SPORTS-1--PL.png" group-title="PL| SPORTOWE",PL| ELEVEN SPORTS 1 4K+
+http://line.ult-ott.com:80/play/live.php?mac=00:1A:79:C6:CA:54&stream=905665&extension=ts&play_token=KjglrRhtmZ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/POLAND/ELEVEN-SPORTS-1--PL.png" group-title="PL| SPORTOWE",PL| ELEVEN SPORTS 1 FHD
+http://line.ult-ott.com:80/play/live.php?mac=00:1A:79:C6:CA:54&stream=880457&extension=ts&play_token=u2aemRKGBA
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/POLAND/ELEVEN-SPORTS-1--PL.png" group-title="PL| SPORTOWE",PL| ELEVEN SPORTS 1 HD
+http://line.ult-ott.com:80/play/live.php?mac=00:1A:79:C6:CA:54&stream=880317&extension=ts&play_token=WepYm7cBQQ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/POLAND/ELEVEN-SPORTS-2--PL.png" group-title="PL| SPORTOWE",PL| ELEVEN SPORTS 2 FHD
+http://line.ult-ott.com:80/play/live.php?mac=00:1A:79:C6:CA:54&stream=880456&extension=ts&play_token=m698eSaU6L
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/POLAND/ELEVEN-SPORTS-2--PL.png" group-title="PL| SPORTOWE",PL| ELEVEN SPORTS 2 HD
+http://line.ult-ott.com:80/play/live.php?mac=00:1A:79:C6:CA:54&stream=880316&extension=ts&play_token=yk5WrI05GK
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/POLAND/ELEVEN-SPORTS-3--PL.png" group-title="PL| SPORTOWE",PL| ELEVEN SPORTS 3 FHD
+http://line.ult-ott.com:80/play/live.php?mac=00:1A:79:C6:CA:54&stream=880455&extension=ts&play_token=tKx3qYJWoc
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/POLAND/ELEVEN-SPORTS-3--PL.png" group-title="PL| SPORTOWE",PL| ELEVEN SPORTS 3 HD
+http://line.ult-ott.com:80/play/live.php?mac=00:1A:79:C6:CA:54&stream=880315&extension=ts&play_token=6irWkRyyhX
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/POLAND/ELEVEN-SPORTS-4--PL.png" group-title="PL| SPORTOWE",PL| ELEVEN SPORTS 4 FHD
+http://line.ult-ott.com:80/play/live.php?mac=00:1A:79:C6:CA:54&stream=880454&extension=ts&play_token=Wca6A45wqg
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/POLAND/ELEVEN-SPORTS-4--PL.png" group-title="PL| SPORTOWE",PL| ELEVEN SPORTS 4 HD
+http://line.ult-ott.com:80/play/live.php?mac=00:1A:79:C6:CA:54&stream=880314&extension=ts&play_token=BhDWAmSQBm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/POLAND/EUROSPORT-1--PL.png" group-title="PL| SPORTOWE",PL| EUROSPORT 1 FHD
+http://line.ult-ott.com:80/play/live.php?mac=00:1A:79:C6:CA:54&stream=880453&extension=ts&play_token=jT1nJFXyfc
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/POLAND/EUROSPORT-1--PL.png" group-title="PL| SPORTOWE",PL| EUROSPORT 1 HD
+http://line.ult-ott.com:80/play/live.php?mac=00:1A:79:C6:CA:54&stream=880313&extension=ts&play_token=GzEn0xKVir
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/POLAND/EUROSPORT-2--PL.png" group-title="PL| SPORTOWE",PL| EUROSPORT 2 FHD
+http://line.ult-ott.com:80/play/live.php?mac=00:1A:79:C6:CA:54&stream=880452&extension=ts&play_token=lbCl9V5Nxa
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/POLAND/EUROSPORT-2--PL.png" group-title="PL| SPORTOWE",PL| EUROSPORT 2 HD
+http://line.ult-ott.com:80/play/live.php?mac=00:1A:79:C6:CA:54&stream=880312&extension=ts&play_token=xYDsx8qzR7
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/CANAL-PLUS-360.png" group-title="PL| SPORTOWE",PL| CANAL+ 360 FHD
+http://line.ult-ott.com:80/play/live.php?mac=00:1A:79:C6:CA:54&stream=880500&extension=ts&play_token=cTpZrYTzwe
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/CANAL-PLUS-360.png" group-title="PL| SPORTOWE",PL| CANAL+ 360 HD
+http://line.ult-ott.com:80/play/live.php?mac=00:1A:79:C6:CA:54&stream=880360&extension=ts&play_token=WaxkiZ4hvo
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/CANAL-NOW.png" group-title="PL| SPORTOWE",PL| CANAL+ NOW FHD
+http://line.ult-ott.com:80/play/live.php?mac=00:1A:79:C6:CA:54&stream=880499&extension=ts&play_token=mg4WRIfLJF
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/CANAL-NOW.png" group-title="PL| SPORTOWE",PL| CANAL+ NOW HD
+http://line.ult-ott.com:80/play/live.php?mac=00:1A:79:C6:CA:54&stream=880359&extension=ts&play_token=e2UiS0tLct
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/CANAL-SPORT.png" group-title="PL| SPORTOWE",PL| CANAL+ SPORT FHD
+http://line.ult-ott.com:80/play/live.php?mac=00:1A:79:C6:CA:54&stream=880461&extension=ts&play_token=pNRNFWRAEi
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/CANAL-SPORT.png" group-title="PL| SPORTOWE",PL| CANAL+ SPORT HD
+http://line.ult-ott.com:80/play/live.php?mac=00:1A:79:C6:CA:54&stream=880321&extension=ts&play_token=TIzetXyspG
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/CANAL-SPORT-2.png" group-title="PL| SPORTOWE",PL| CANAL+ SPORT 2 FHD
+http://line.ult-ott.com:80/play/live.php?mac=00:1A:79:C6:CA:54&stream=880460&extension=ts&play_token=TOvWKxgO2j
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/CANAL-SPORT-2.png" group-title="PL| SPORTOWE",PL| CANAL+ SPORT 2 HD
+http://line.ult-ott.com:80/play/live.php?mac=00:1A:79:C6:CA:54&stream=880320&extension=ts&play_token=HrV54oY4mi
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/CANAL-SPORT-3.png" group-title="PL| SPORTOWE",PL| CANAL+ SPORT 3 FHD
+http://line.ult-ott.com:80/play/live.php?mac=00:1A:79:C6:CA:54&stream=880459&extension=ts&play_token=QxFcoR7oOB
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/CANAL-SPORT-3.png" group-title="PL| SPORTOWE",PL| CANAL+ SPORT 3 HD
+http://line.ult-ott.com:80/play/live.php?mac=00:1A:79:C6:CA:54&stream=880319&extension=ts&play_token=dLP7MSQMWO
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/CANAL-SPORT-4.png" group-title="PL| SPORTOWE",PL| CANAL+ SPORT 4 FHD
+http://line.ult-ott.com:80/play/live.php?mac=00:1A:79:C6:CA:54&stream=880458&extension=ts&play_token=dNqJr6zacx
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/CANAL-SPORT-4.png" group-title="PL| SPORTOWE",PL| CANAL+ SPORT 4 HD
+http://line.ult-ott.com:80/play/live.php?mac=00:1A:79:C6:CA:54&stream=880318&extension=ts&play_token=tNogxtCKRp
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/CANAL-SPORT-5.png" group-title="PL| SPORTOWE",PL| CANAL+ SPORT 5 FHD
+http://line.ult-ott.com:80/play/live.php?mac=00:1A:79:C6:CA:54&stream=880406&extension=ts&play_token=sL8qpveGkk
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/CANAL-SPORT-5.png" group-title="PL| SPORTOWE",PL| CANAL+ SPORT 5 HD
+http://line.ult-ott.com:80/play/live.php?mac=00:1A:79:C6:CA:54&stream=880266&extension=ts&play_token=rKM7MdPFxh
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-SPORT-EXTRA.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT 1 FHD
+http://line.ult-ott.com:80/play/live.php?mac=00:1A:79:C6:CA:54&stream=880471&extension=ts&play_token=VpoyzqNGJr
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-SPORT-EXTRA.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT 1 HD
+http://line.ult-ott.com:80/play/live.php?mac=00:1A:79:C6:CA:54&stream=880331&extension=ts&play_token=vj3Jtv8ylS
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-SPORT.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT 2 FHD
+http://line.ult-ott.com:80/play/live.php?mac=00:1A:79:C6:CA:54&stream=880470&extension=ts&play_token=cm3TXGbOCL
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-SPORT.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT 2 HD
+http://line.ult-ott.com:80/play/live.php?mac=00:1A:79:C6:CA:54&stream=880330&extension=ts&play_token=XEAToF9rSB
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/POLSAT-SPORT-3.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT 3 FHD
+http://line.ult-ott.com:80/play/live.php?mac=00:1A:79:C6:CA:54&stream=880468&extension=ts&play_token=ZOtwtRj2HG
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/POLSAT-SPORT-3.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT 3 HD
+http://line.ult-ott.com:80/play/live.php?mac=00:1A:79:C6:CA:54&stream=880328&extension=ts&play_token=V5EgwNicw2
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-SPORT-PREMIUM-1.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT PREMIUM 1 FHD
+http://line.ult-ott.com:80/play/live.php?mac=00:1A:79:C6:CA:54&stream=880467&extension=ts&play_token=CyCJppWUAc
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-SPORT-PREMIUM-1.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT PREMIUM 1 HD
+http://line.ult-ott.com:80/play/live.php?mac=00:1A:79:C6:CA:54&stream=880327&extension=ts&play_token=zKwJQObfyn
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-SPORT-PREMIUM-2.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT PREMIUM 2 FHD
+http://line.ult-ott.com:80/play/live.php?mac=00:1A:79:C6:CA:54&stream=880466&extension=ts&play_token=6FxxPhlCOs
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-SPORT-PREMIUM-2.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT PREMIUM 2 HD
+http://line.ult-ott.com:80/play/live.php?mac=00:1A:79:C6:CA:54&stream=880326&extension=ts&play_token=wY40iBZhnf
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-SPORT-PREMIUM-3.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT PREMIUM 3 FHD
+http://line.ult-ott.com:80/play/live.php?mac=00:1A:79:C6:CA:54&stream=880465&extension=ts&play_token=ZYOPsSpf7D
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-SPORT-PREMIUM-3.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT PREMIUM 3 HD
+http://line.ult-ott.com:80/play/live.php?mac=00:1A:79:C6:CA:54&stream=880325&extension=ts&play_token=RQaviebSlD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-SPORT-PREMIUM-4.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT PREMIUM 4 FHD
+http://line.ult-ott.com:80/play/live.php?mac=00:1A:79:C6:CA:54&stream=880464&extension=ts&play_token=k4zIGgbniN
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-SPORT-PREMIUM-4.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT PREMIUM 4 HD
+http://line.ult-ott.com:80/play/live.php?mac=00:1A:79:C6:CA:54&stream=880324&extension=ts&play_token=Lw0mxfAUp2
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-SPORT-PREMIUM-5.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT PREMIUM 5 FHD
+http://line.ult-ott.com:80/play/live.php?mac=00:1A:79:C6:CA:54&stream=880463&extension=ts&play_token=FjLQIyMn6E
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-SPORT-PREMIUM-5.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT PREMIUM 5 HD
+http://line.ult-ott.com:80/play/live.php?mac=00:1A:79:C6:CA:54&stream=880323&extension=ts&play_token=fegCPQMp41
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-SPORT-PREMIUM-6.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT PREMIUM 6 FHD
+http://line.ult-ott.com:80/play/live.php?mac=00:1A:79:C6:CA:54&stream=880462&extension=ts&play_token=01pQ8FgSkT
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-SPORT-PREMIUM-6.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT PREMIUM 6 HD
+http://line.ult-ott.com:80/play/live.php?mac=00:1A:79:C6:CA:54&stream=880322&extension=ts&play_token=QQvzFpxLL7
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-SPORT-FIGHT.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT FIGHT FHD
+http://line.ult-ott.com:80/play/live.php?mac=00:1A:79:C6:CA:54&stream=880469&extension=ts&play_token=QjnyvWjSSl
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-SPORT-FIGHT.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT FIGHT HD
+http://line.ult-ott.com:80/play/live.php?mac=00:1A:79:C6:CA:54&stream=880329&extension=ts&play_token=tebMmh5cSK
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/POLAND/TVP-SPORT.png" group-title="PL| SPORTOWE",PL| TVP SPORT FHD
+http://line.ult-ott.com:80/play/live.php?mac=00:1A:79:C6:CA:54&stream=880502&extension=ts&play_token=Ek7DMYBdyJ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/POLAND/TVP-SPORT.png" group-title="PL| SPORTOWE",PL| TVP SPORT HD
+http://line.ult-ott.com:80/play/live.php?mac=00:1A:79:C6:CA:54&stream=880362&extension=ts&play_token=FqRTbW4j0Q
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/POLAND/SPORTKLUB--PL.png" group-title="PL| SPORTOWE",PL| SPORTKLUB FHD
+http://line.ult-ott.com:80/play/live.php?mac=00:1A:79:C6:CA:54&stream=880447&extension=ts&play_token=6ZbBlykBLi
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/POLAND/SPORTKLUB--PL.png" group-title="PL| SPORTOWE",PL| SPORTKLUB HD
+http://line.ult-ott.com:80/play/live.php?mac=00:1A:79:C6:CA:54&stream=880307&extension=ts&play_token=Bliot2nwDU
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/POLAND/FIGHTKLUB.png" group-title="PL| SPORTOWE",PL| FIGHTKLUB FHD
+http://line.ult-ott.com:80/play/live.php?mac=00:1A:79:C6:CA:54&stream=880420&extension=ts&play_token=8CTVPVFLyT
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/POLAND/FIGHTKLUB.png" group-title="PL| SPORTOWE",PL| FIGHTKLUB HD
+http://line.ult-ott.com:80/play/live.php?mac=00:1A:79:C6:CA:54&stream=880280&extension=ts&play_token=xlp1IYxfZ8
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/POLAND/FIGHTBOX.png" group-title="PL| SPORTOWE",PL| FIGHTBOX FHD
+http://line.ult-ott.com:80/play/live.php?mac=00:1A:79:C6:CA:54&stream=880446&extension=ts&play_token=6AP2Wg47iy
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/POLAND/FIGHTBOX.png" group-title="PL| SPORTOWE",PL| FIGHTBOX HD
+http://line.ult-ott.com:80/play/live.php?mac=00:1A:79:C6:CA:54&stream=880306&extension=ts&play_token=AxhbhTSfgt
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/POLAND/PRIME-FIGHT.png" group-title="PL| SPORTOWE",PL| PRIME FIGHT HD
+http://line.ult-ott.com:80/play/live.php?mac=00:1A:79:C6:CA:54&stream=1121749&extension=ts&play_token=4OXLxDJJ5z
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EXTREME-SPORTS-TV.png" group-title="PL| SPORTOWE",PL| EXTREME SPORTS FHD
+http://line.ult-ott.com:80/play/live.php?mac=00:1A:79:C6:CA:54&stream=880448&extension=ts&play_token=CvOGcYE7Bd
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EXTREME-SPORTS-TV.png" group-title="PL| SPORTOWE",PL| EXTREME SPORTS HD
+http://line.ult-ott.com:80/play/live.php?mac=00:1A:79:C6:CA:54&stream=880308&extension=ts&play_token=GOfYkHLtsH
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/GOLF-CHANNEL-NP.png" group-title="PL| SPORTOWE",PL| GOLF CHANNEL FHD
+http://line.ult-ott.com:80/play/live.php?mac=00:1A:79:C6:CA:54&stream=880419&extension=ts&play_token=DRGX5Jxf0Z
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/GOLF-CHANNEL-NP.png" group-title="PL| SPORTOWE",PL| GOLF CHANNEL HD
+http://line.ult-ott.com:80/play/live.php?mac=00:1A:79:C6:CA:54&stream=880279&extension=ts&play_token=AuXtqAJmtn
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/POLAND/MOTOWIZJA.png" group-title="PL| SPORTOWE",PL| MOTOWIZJA FHD
+http://line.ult-ott.com:80/play/live.php?mac=00:1A:79:C6:CA:54&stream=880413&extension=ts&play_token=1wNNd3sBrT
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/POLAND/MOTOWIZJA.png" group-title="PL| SPORTOWE",PL| MOTOWIZJA HD
+http://line.ult-ott.com:80/play/live.php?mac=00:1A:79:C6:CA:54&stream=880273&extension=ts&play_token=79Y8PoJv3p
