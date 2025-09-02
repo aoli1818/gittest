@@ -888,7 +888,7 @@ https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2264.ts
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2265.ts
 #EXTINF:-1 tvg-id="Polsat News Polityka" tvg-name="Polsat News Polityka" tvg-logo="" group-title="Ogolne",Polsat News Polityka
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7645.ts
-#EXTINF:-1 tvg-id="Polsat Doku" tvg-name="Polsat Doku HD" tvg-logo="https://sat-kom.co.uk/logos/135.png" group-title="Bajki",Polsat Doku HD
+#EXTINF:-1 tvg-id="Polsat Doku" tvg-name="Polsat Doku HD" tvg-logo="https://sat-kom.co.uk/logos/135.png" group-title="Ogolne",Polsat Doku HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/4867.ts
 #EXTINF:-1 tvg-id="Polonia 1" tvg-name="Polonia 1" tvg-logo="https://sat-kom.co.uk/logos/332.png" group-title="Ogolne",Polonia 1
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2266.ts
@@ -1049,33 +1049,33 @@ https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7277.ts
 #EXTINF:-1 tvg-id="4.via" tvg-name="ViaPlay 5" tvg-logo="https://sat-kom.co.uk/logos/304.png" group-title="Sporty",ViaPlay 5
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7278.ts
 
-#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="https://sat-kom.co.uk/logos/194.png" group-title="Bajki",Disney Channel
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="https://sat-kom.co.uk/logos/194.png" group-title="Ogolne",Disney Channel
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2333.ts
-#EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD" tvg-logo="https://sat-kom.co.uk/logos/193.png" group-title="Bajki",Disney XD
+#EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD" tvg-logo="https://sat-kom.co.uk/logos/193.png" group-title="Ogolne",Disney XD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2334.ts
-#EXTINF:-1 tvg-id="Baby TV" tvg-name="Baby Tv HD" tvg-logo="https://sat-kom.co.uk/logos/197.png" group-title="Bajki",Baby Tv HD
+#EXTINF:-1 tvg-id="Baby TV" tvg-name="Baby Tv HD" tvg-logo="https://sat-kom.co.uk/logos/197.png" group-title="Ogolne",Baby Tv HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2335.ts
-#EXTINF:-1 tvg-id="TVP ABC" tvg-name="TVP ABC" tvg-logo="https://sat-kom.co.uk/logos/192.png" group-title="Bajki",TVP ABC
+#EXTINF:-1 tvg-id="TVP ABC" tvg-name="TVP ABC" tvg-logo="https://sat-kom.co.uk/logos/192.png" group-title="Ogolne",TVP ABC
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2336.ts
-#EXTINF:-1 tvg-id="Minimini+" tvg-name="MiniMini+ HD" tvg-logo="https://sat-kom.co.uk/logos/205.png" group-title="Bajki",MiniMini+ HD
+#EXTINF:-1 tvg-id="Minimini+" tvg-name="MiniMini+ HD" tvg-logo="https://sat-kom.co.uk/logos/205.png" group-title="Ogolne",MiniMini+ HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2337.ts
-#EXTINF:-1 tvg-id="Teletoon" tvg-name="TeleToon" tvg-logo="" group-title="Bajki",TeleToon
+#EXTINF:-1 tvg-id="Teletoon" tvg-name="TeleToon" tvg-logo="" group-title="Ogolne",TeleToon
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/10131.ts
-#EXTINF:-1 tvg-id="CARTOONITO" tvg-name="Cartoonito PL" tvg-logo="https://sat-kom.co.uk/logos/204.png" group-title="Bajki",Cartoonito PL
+#EXTINF:-1 tvg-id="CARTOONITO" tvg-name="Cartoonito PL" tvg-logo="https://sat-kom.co.uk/logos/204.png" group-title="Ogolne",Cartoonito PL
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2339.ts
-#EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Junior" tvg-logo="https://sat-kom.co.uk/logos/195.png" group-title="Bajki",Disney Junior
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Junior" tvg-logo="https://sat-kom.co.uk/logos/195.png" group-title="Ogolne",Disney Junior
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2340.ts
-#EXTINF:-1 tvg-id="Polsat JimJam" tvg-name="JimJam" tvg-logo="https://sat-kom.co.uk/logos/199.png" group-title="Bajki",JimJam
+#EXTINF:-1 tvg-id="Polsat JimJam" tvg-name="JimJam" tvg-logo="https://sat-kom.co.uk/logos/199.png" group-title="Ogolne",JimJam
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2341.ts
-#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://sat-kom.co.uk/logos/196.png" group-title="Bajki",Cartoon Network
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://sat-kom.co.uk/logos/196.png" group-title="Ogolne",Cartoon Network
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2342.ts
-#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon Polska" tvg-logo="https://sat-kom.co.uk/logos/202.png" group-title="Bajki",Nickelodeon Polska
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon Polska" tvg-logo="https://sat-kom.co.uk/logos/202.png" group-title="Ogolne",Nickelodeon Polska
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2343.ts
-#EXTINF:-1 tvg-id="Nicktoons" tvg-name="Nicktoons" tvg-logo="https://sat-kom.co.uk/logos/203.png" group-title="Bajki",Nicktoons
+#EXTINF:-1 tvg-id="Nicktoons" tvg-name="Nicktoons" tvg-logo="https://sat-kom.co.uk/logos/203.png" group-title="Ogolne",Nicktoons
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7322.ts
-#EXTINF:-1 tvg-id="Nick Jr." tvg-name="Nick Jr Polska" tvg-logo="https://sat-kom.co.uk/logos/201.png" group-title="Bajki",Nick Jr Polska
+#EXTINF:-1 tvg-id="Nick Jr." tvg-name="Nick Jr Polska" tvg-logo="https://sat-kom.co.uk/logos/201.png" group-title="Ogolne",Nick Jr Polska
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2344.ts
-#EXTINF:-1 tvg-id="BBC CBeebies" tvg-name="BBC CBeebies" tvg-logo="https://sat-kom.co.uk/logos/198.png" group-title="Bajki",BBC CBeebies
+#EXTINF:-1 tvg-id="BBC CBeebies" tvg-name="BBC CBeebies" tvg-logo="https://sat-kom.co.uk/logos/198.png" group-title="Ogolne",BBC CBeebies
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2345.ts
 
 #EXTINF:-1 tvg-id="Travel Channel" tvg-name="Travel Channel HD" tvg-logo="" group-title="Ogolne",Travel Channel HD
