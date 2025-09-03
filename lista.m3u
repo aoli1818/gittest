@@ -7,6 +7,29 @@ http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/53106.m3u8
 http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/117404.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 HD" tvg-logo="https://lo1.in/pol/eu2.png" group-title="Sporty",EUROSPORT 2 HD
 http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/53105.m3u8
+
+#EXTINF:-1 tvg-id="Canal+ Sport" tvg-name="Canal+ Sport HD" tvg-logo="https://sat-kom.co.uk/logos/167.png" group-title="Sporty",Canal+ Sport HD
+https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2315.ts
+#EXTINF:-1 tvg-id="Canal+ Sport 2" tvg-name="Canal+ Sport 2 HD" tvg-logo="https://sat-kom.co.uk/logos/168.png" group-title="Sporty",Canal+ Sport 2 HD
+https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2316.ts
+#EXTINF:-1 tvg-id="Canal+ Sport 3" tvg-name="Canal+ Sport 3 HD" tvg-logo="https://sat-kom.co.uk/logos/169.png" group-title="Sporty",Canal+ Sport 3 HD
+https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2317.ts
+#EXTINF:-1 tvg-id="Canal+ Sport 4" tvg-name="Canal+ Sport 4 HD" tvg-logo="https://sat-kom.co.uk/logos/170.png" group-title="Sporty",Canal+ Sport 4 HD
+https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2318.ts
+#EXTINF:-1 tvg-id="Canal+ Sport 5" tvg-name="CANAL+ Sport 5 HD" tvg-logo="https://sat-kom.co.uk/logos/172.png" group-title="Sporty",CANAL+ Sport 5 HD
+https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2321.ts
+#EXTINF:-1 tvg-id="Canal+ Extra 1" tvg-name="CANAL+ EXTRA 1" tvg-logo="" group-title="Sporty",CANAL+ EXTRA 1
+https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7694.ts
+#EXTINF:-1 tvg-id="Canal+ Extra 2" tvg-name="CANAL+ EXTRA 2" tvg-logo="" group-title="Sporty",CANAL+ EXTRA 2
+https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7695.ts
+#EXTINF:-1 tvg-id="Canal+ Extra 3" tvg-name="CANAL+ EXTRA 3" tvg-logo="" group-title="Sporty",CANAL+ EXTRA 3
+https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7696.ts
+#EXTINF:-1 tvg-id="Canal+ Extra 4" tvg-name="CANAL+ EXTRA 4" tvg-logo="" group-title="Sporty",CANAL+ EXTRA 4
+https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7693.ts
+#EXTINF:-1 tvg-id="Canal+ Now" tvg-name="Canal+ Now" tvg-logo="https://sat-kom.co.uk/logos/371.png" group-title="Sporty",Canal+ Now
+https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7271.ts
+
+
 #EXTINF:-1 tvg-id="canalplussport.pl" tvg-name="CANAL+ SPORT 1 FHD" tvg-logo="https://lo1.in/pol/cs.png" group-title="Sporty",CANAL+ SPORT 1 FHD
 http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/117348.m3u8
 #EXTINF:-1 tvg-id="canalplussport.pl" tvg-name="CANAL+ SPORT 1 HD" tvg-logo="https://lo1.in/pol/cs.png" group-title="Sporty",CANAL+ SPORT 1 HD
@@ -335,26 +358,6 @@ https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2312.ts
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2313.ts
 #EXTINF:-1 tvg-id="Eleven Sports 4" tvg-name="Eleven Sports 4 HD" tvg-logo="https://sat-kom.co.uk/logos/150.png" group-title="Sporty",Eleven Sports 4 HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2314.ts
-#EXTINF:-1 tvg-id="Canal+ Sport" tvg-name="Canal+ Sport HD" tvg-logo="https://sat-kom.co.uk/logos/167.png" group-title="Sporty",Canal+ Sport HD
-https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2315.ts
-#EXTINF:-1 tvg-id="Canal+ Sport 2" tvg-name="Canal+ Sport 2 HD" tvg-logo="https://sat-kom.co.uk/logos/168.png" group-title="Sporty",Canal+ Sport 2 HD
-https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2316.ts
-#EXTINF:-1 tvg-id="Canal+ Sport 3" tvg-name="Canal+ Sport 3 HD" tvg-logo="https://sat-kom.co.uk/logos/169.png" group-title="Sporty",Canal+ Sport 3 HD
-https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2317.ts
-#EXTINF:-1 tvg-id="Canal+ Sport 4" tvg-name="Canal+ Sport 4 HD" tvg-logo="https://sat-kom.co.uk/logos/170.png" group-title="Sporty",Canal+ Sport 4 HD
-https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2318.ts
-#EXTINF:-1 tvg-id="Canal+ Sport 5" tvg-name="CANAL+ Sport 5 HD" tvg-logo="https://sat-kom.co.uk/logos/172.png" group-title="Sporty",CANAL+ Sport 5 HD
-https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2321.ts
-#EXTINF:-1 tvg-id="Canal+ Extra 1" tvg-name="CANAL+ EXTRA 1" tvg-logo="" group-title="Sporty",CANAL+ EXTRA 1
-https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7694.ts
-#EXTINF:-1 tvg-id="Canal+ Extra 2" tvg-name="CANAL+ EXTRA 2" tvg-logo="" group-title="Sporty",CANAL+ EXTRA 2
-https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7695.ts
-#EXTINF:-1 tvg-id="Canal+ Extra 3" tvg-name="CANAL+ EXTRA 3" tvg-logo="" group-title="Sporty",CANAL+ EXTRA 3
-https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7696.ts
-#EXTINF:-1 tvg-id="Canal+ Extra 4" tvg-name="CANAL+ EXTRA 4" tvg-logo="" group-title="Sporty",CANAL+ EXTRA 4
-https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7693.ts
-#EXTINF:-1 tvg-id="Canal+ Now" tvg-name="Canal+ Now" tvg-logo="https://sat-kom.co.uk/logos/371.png" group-title="Sporty",Canal+ Now
-https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7271.ts
 #EXTINF:-1 tvg-id="Eurosport" tvg-name="Eurosport 1 HD" tvg-logo="https://sat-kom.co.uk/logos/144.png" group-title="Sporty",Eurosport 1 HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2319.ts
 #EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2 HD" tvg-logo="https://sat-kom.co.uk/logos/145.png" group-title="Sporty",Eurosport 2 HD
