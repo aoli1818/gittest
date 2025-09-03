@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="PPV KSW FIGHTS FHD (SOLO EVENTO)" tvg-logo="https://lo1.in/pol/pfh.png" group-title="Sporty",PPV KSW FIGHTS FHD (SOLO EVENTO)
+http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/378832.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PPV-Sporty Walki" tvg-logo="https://sat-kom.co.uk/logos/242.png" group-title="Sporty",PPV-Sporty Walki
+https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/4869.ts
 
 #EXTINF:-1 tvg-id="canalplussport.pl" tvg-name="CANAL+ SPORT 1 FHD" tvg-logo="https://lo1.in/pol/cs.png" group-title="Sporty",CANAL+ SPORT 1 FHD
 http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/117348.m3u8
@@ -199,8 +203,6 @@ http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/117406.m3u8
 http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/117407.m3u8
 #EXTINF:-1 tvg-id="fightklub.pl" tvg-name="FIGHT KLUB FHD" tvg-logo="https://lo1.in/pol/fcl.png" group-title="Sporty",FIGHT KLUB FHD
 http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/117411.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PPV KSW FIGHTS FHD (SOLO EVENTO)" tvg-logo="https://lo1.in/pol/pfh.png" group-title="Sporty",PPV KSW FIGHTS FHD (SOLO EVENTO)
-http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/378832.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VIAPLAY XTRA 01 HD" tvg-logo="https://lo1.in/dan/vxtr.png" group-title="Sporty",VIAPLAY XTRA 01 HD
 http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/52473.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VIAPLAY XTRA 02 HD" tvg-logo="https://lo1.in/dan/vxtr.png" group-title="Sporty",VIAPLAY XTRA 02 HD
@@ -378,8 +380,6 @@ https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2323.ts
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7307.ts
 #EXTINF:-1 tvg-id="Extreme Sports Channel" tvg-name="Extreme Sports HD" tvg-logo="https://sat-kom.co.uk/logos/176.png" group-title="Sporty",Extreme Sports HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2324.ts
-#EXTINF:-1 tvg-id="" tvg-name="PPV-Sporty Walki" tvg-logo="https://sat-kom.co.uk/logos/242.png" group-title="Sporty",PPV-Sporty Walki
-https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/4869.ts
 #EXTINF:-1 tvg-id="Polsat Sport Fight" tvg-name="Polsat Sport Fight HD" tvg-logo="https://sat-kom.co.uk/logos/154.png" group-title="Sporty",Polsat Sport Fight HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2326.ts
 #EXTINF:-1 tvg-id="Polsat Sport" tvg-name="Polsat Sport HD" tvg-logo="https://sat-kom.co.uk/logos/151.png" group-title="Sporty",Polsat Sport HD
