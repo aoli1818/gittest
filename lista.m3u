@@ -1,14 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="eurosport1.pl" tvg-name="EUROSPORT 1 FHD" tvg-logo="https://lo1.in/pol/eu1.png" group-title="Sporty",EUROSPORT 1 FHD
-http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/117403.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 HD" tvg-logo="https://lo1.in/pol/eu1.png" group-title="Sporty",EUROSPORT 1 HD
-http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/53106.m3u8
-#EXTINF:-1 tvg-id="eurosport2.pl" tvg-name="EUROSPORT 2 FHD" tvg-logo="https://lo1.in/pol/eu2.png" group-title="Sporty",EUROSPORT 2 FHD
-http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/117404.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 HD" tvg-logo="https://lo1.in/pol/eu2.png" group-title="Sporty",EUROSPORT 2 HD
-http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/53105.m3u8
 
-#EXTINF:-1 tvg-id="Canal+ Sport" tvg-name="Canal+ Sport HD" tvg-logo="https://sat-kom.co.uk/logos/167.png" group-title="Sporty",Canal+ Sport HD
+#EXTINF:-1 tvg-id="Canal+ Sport" tvg-name="Canal+ Sport 1 HD" tvg-logo="https://sat-kom.co.uk/logos/167.png" group-title="Sporty",Canal+ Sport 1 HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2315.ts
 #EXTINF:-1 tvg-id="Canal+ Sport 2" tvg-name="Canal+ Sport 2 HD" tvg-logo="https://sat-kom.co.uk/logos/168.png" group-title="Sporty",Canal+ Sport 2 HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2316.ts
@@ -18,17 +10,6 @@ https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2317.ts
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2318.ts
 #EXTINF:-1 tvg-id="Canal+ Sport 5" tvg-name="CANAL+ Sport 5 HD" tvg-logo="https://sat-kom.co.uk/logos/172.png" group-title="Sporty",CANAL+ Sport 5 HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2321.ts
-#EXTINF:-1 tvg-id="Canal+ Extra 1" tvg-name="CANAL+ EXTRA 1" tvg-logo="" group-title="Sporty",CANAL+ EXTRA 1
-https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7694.ts
-#EXTINF:-1 tvg-id="Canal+ Extra 2" tvg-name="CANAL+ EXTRA 2" tvg-logo="" group-title="Sporty",CANAL+ EXTRA 2
-https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7695.ts
-#EXTINF:-1 tvg-id="Canal+ Extra 3" tvg-name="CANAL+ EXTRA 3" tvg-logo="" group-title="Sporty",CANAL+ EXTRA 3
-https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7696.ts
-#EXTINF:-1 tvg-id="Canal+ Extra 4" tvg-name="CANAL+ EXTRA 4" tvg-logo="" group-title="Sporty",CANAL+ EXTRA 4
-https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7693.ts
-#EXTINF:-1 tvg-id="Canal+ Now" tvg-name="Canal+ Now" tvg-logo="https://sat-kom.co.uk/logos/371.png" group-title="Sporty",Canal+ Now
-https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7271.ts
-
 
 #EXTINF:-1 tvg-id="canalplussport.pl" tvg-name="CANAL+ SPORT 1 FHD" tvg-logo="https://lo1.in/pol/cs.png" group-title="Sporty",CANAL+ SPORT 1 FHD
 http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/117348.m3u8
@@ -48,6 +29,20 @@ http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/117353.m3u8
 http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/9632.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 5 FHD" tvg-logo="https://lo1.in/pol/CANAL+ SPORT 5.png" group-title="Sporty",CANAL+ SPORT 5 FHD
 http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/157144.m3u8
+
+
+#EXTINF:-1 tvg-id="Canal+ Extra 1" tvg-name="CANAL+ EXTRA 1" tvg-logo="" group-title="Sporty",CANAL+ EXTRA 1
+https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7694.ts
+#EXTINF:-1 tvg-id="Canal+ Extra 2" tvg-name="CANAL+ EXTRA 2" tvg-logo="" group-title="Sporty",CANAL+ EXTRA 2
+https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7695.ts
+#EXTINF:-1 tvg-id="Canal+ Extra 3" tvg-name="CANAL+ EXTRA 3" tvg-logo="" group-title="Sporty",CANAL+ EXTRA 3
+https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7696.ts
+#EXTINF:-1 tvg-id="Canal+ Extra 4" tvg-name="CANAL+ EXTRA 4" tvg-logo="" group-title="Sporty",CANAL+ EXTRA 4
+https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7693.ts
+#EXTINF:-1 tvg-id="Canal+ Now" tvg-name="Canal+ Now" tvg-logo="https://sat-kom.co.uk/logos/371.png" group-title="Sporty",Canal+ Now
+https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7271.ts
+
+
 #EXTINF:-1 tvg-id="" tvg-name="CANAL+ EXTRA 01" tvg-logo="https://lo1.in/pol/CANAL+ 1.png" group-title="Sporty",CANAL+ EXTRA 01
 http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/401349321.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CANAL+ EXTRA 02" tvg-logo="https://lo1.in/pol/CANAL+ 1.png" group-title="Sporty",CANAL+ EXTRA 02
@@ -84,6 +79,14 @@ http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/401576340.m3u8
 http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/401576339.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CANAL+ EXTRA 18" tvg-logo="https://lo1.in/pol/CANAL+ 1.png" group-title="Sporty",CANAL+ EXTRA 18
 http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/401576338.m3u8
+#EXTINF:-1 tvg-id="eurosport1.pl" tvg-name="EUROSPORT 1 FHD" tvg-logo="https://lo1.in/pol/eu1.png" group-title="Sporty",EUROSPORT 1 FHD
+http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/117403.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 HD" tvg-logo="https://lo1.in/pol/eu1.png" group-title="Sporty",EUROSPORT 1 HD
+http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/53106.m3u8
+#EXTINF:-1 tvg-id="eurosport2.pl" tvg-name="EUROSPORT 2 FHD" tvg-logo="https://lo1.in/pol/eu2.png" group-title="Sporty",EUROSPORT 2 FHD
+http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/117404.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 HD" tvg-logo="https://lo1.in/pol/eu2.png" group-title="Sporty",EUROSPORT 2 HD
+http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/53105.m3u8
 #EXTINF:-1 tvg-id="elevensports1.pl" tvg-name="ELEVEN SPORTS 1 FHD" tvg-logo="https://lo1.in/pol/ele.png" group-title="Sporty",ELEVEN SPORTS 1 FHD
 http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/117392.m3u8
 #EXTINF:-1 tvg-id="elevensports1.pl" tvg-name="ELEVEN SPORTS 1 HD" tvg-logo="https://lo1.in/pol/ele.png" group-title="Sporty",ELEVEN SPORTS 1 HD
