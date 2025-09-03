@@ -57,9 +57,9 @@ http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/117348.m3u8
 http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/9634.m3u8
 #EXTINF:-1 tvg-id="Canal+ Sport" tvg-name="CANAL+ SPORT 1 HD" tvg-logo="https://sat-kom.co.uk/logos/167.png" group-title="Sporty",CANAL+ SPORT 1 HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2315.ts
-#EXTINF:-1 tvg-id="CanalPlusSport.pl" tvg-name="PL| CANAL+ SPORT FHD" tvg-logo="http://picons.cmshulk.com/picons/880461.png" group-title="Sporty",PL| CANAL+ SPORT FHD
+#EXTINF:-1 tvg-id="CanalPlusSport.pl" tvg-name="PL| CANAL+ SPORT FHD" tvg-logo="https://sat-kom.co.uk/logos/167.png" group-title="Sporty",PL| CANAL+ SPORT FHD
 http://line.premiumpowers.net:80/84GkDDzqyvUk/r4V2tsBy92/880461
-#EXTINF:-1 tvg-id="CanalPlusSport.pl" tvg-name="PL| CANAL+ SPORT HD" tvg-logo="http://picons.cmshulk.com/picons/880321.png" group-title="Sporty",PL| CANAL+ SPORT HD
+#EXTINF:-1 tvg-id="CanalPlusSport.pl" tvg-name="PL| CANAL+ SPORT HD" tvg-logo="https://sat-kom.co.uk/logos/167.png" group-title="Sporty",PL| CANAL+ SPORT HD
 http://line.premiumpowers.net:80/84GkDDzqyvUk/r4V2tsBy92/880321
 #EXTINF:-1 tvg-id="canalplussport2.pl" tvg-name="CANAL+ SPORT 2 FHD" tvg-logo="https://lo1.in/pol/cs2.png" group-title="Sporty",CANAL+ SPORT 2 FHD
 http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/117351.m3u8
