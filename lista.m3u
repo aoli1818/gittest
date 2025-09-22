@@ -19,36 +19,9 @@ http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/401349319.m3u8
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7696.ts
 #EXTINF:-1 tvg-id="" tvg-name="CANAL+ EXTRA 4" tvg-logo="https://logo.itvn.io/Canal++Extra+4.png" group-title="Sporty",CANAL+ EXTRA 4
 http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/401349318.m3u8
-#EXTINF:-1 tvg-id="Canal+ Extra 4" tvg-name="CANAL+ EXTRA 04" tvg-logo="https://logo.itvn.io/Canal++Extra+4.png" group-title="Sporty",CANAL+ EXTRA 4
+#EXTINF:-1 tvg-id="Canal+ EXTRA 4" tvg-name="CANAL+ EXTRA 04" tvg-logo="https://logo.itvn.io/Canal++Extra+4.png" group-title="Sporty",CANAL+ EXTRA 4
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7693.ts
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ EXTRA 5" tvg-logo="https://logo.itvn.io/Canal++Extra+5.png" group-title="Sporty",CANAL+ EXTRA 5
-http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/401349317.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ EXTRA 6" tvg-logo="https://logo.itvn.io/Canal++Extra+6.png" group-title="Sporty",CANAL+ EXTRA 6
-http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/401349316.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ EXTRA 7" tvg-logo="https://logo.itvn.io/Canal++Extra+7.png" group-title="Sporty",CANAL+ EXTRA 7
-http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/401349315.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ EXTRA 8" tvg-logo="https://logo.itvn.io/Canal++Extra+7.png" group-title="Sporty",CANAL+ EXTRA 8
-http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/401576348.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ EXTRA 9" tvg-logo="https://logo.itvn.io/Canal++Extra+7.png" group-title="Sporty",CANAL+ EXTRA 9
-http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/401576347.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ EXTRA 10" tvg-logo="https://logo.itvn.io/Canal++Extra+7.png" group-title="Sporty",CANAL+ EXTRA 10
-http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/401576346.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ EXTRA 11" tvg-logo="https://logo.itvn.io/Canal++Extra+7.png" group-title="Sporty",CANAL+ EXTRA 11
-http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/401576345.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ EXTRA 12" tvg-logo="https://logo.itvn.io/Canal++Extra+7.png" group-title="Sporty",CANAL+ EXTRA 12
-http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/401576344.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ EXTRA 13" tvg-logo="https://logo.itvn.io/Canal++Extra+7.png" group-title="Sporty",CANAL+ EXTRA 13
-http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/401576343.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ EXTRA 14" tvg-logo="https://logo.itvn.io/Canal++Extra+7.png" group-title="Sporty",CANAL+ EXTRA 14
-http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/401576342.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ EXTRA 15" tvg-logo="https://logo.itvn.io/Canal++Extra+7.png" group-title="Sporty",CANAL+ EXTRA 15
-http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/401576341.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ EXTRA 16" tvg-logo="https://logo.itvn.io/Canal++Extra+7.png" group-title="Sporty",CANAL+ EXTRA 16
-http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/401576340.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ EXTRA 17" tvg-logo="https://logo.itvn.io/Canal++Extra+7.png" group-title="Sporty",CANAL+ EXTRA 17
-http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/401576339.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ EXTRA 18" tvg-logo="https://logo.itvn.io/Canal++Extra+7.png" group-title="Sporty",CANAL+ EXTRA 18
-http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/401576338.m3u8
+
 
 
 #EXTINF:-1 tvg-id="canalplussport.pl" tvg-name="CANAL+ SPORT 1 FHD" tvg-logo="https://lo1.in/pol/cs.png" group-title="Sporty",CANAL+ SPORT 1 FHD
@@ -1396,13 +1369,13 @@ http://visioblp4k.xyz:8080/Erayyasin/Eray1/8483
 http://visioblp4k.xyz:8080/Erayyasin/Eray1/8484
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canalplussport5.pl" tvg-name="CANAL+ SPORT 5 HD" tvg-logo="https://i.imgur.com/9Fr1uwn.png" group-title="15.08.2026",CANAL+ SPORT 5 HD
 http://visioblp4k.xyz:8080/Erayyasin/Eray1/510216
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canalplusextra1.pl" tvg-name="CANAL+ EXTRA 1 FHD" tvg-logo="https://epg.ovh/logo/Canal++Extra+1.png" group-title="15.08.2026",CANAL+ EXTRA 1 FHD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canalplusextra1.pl" tvg-name="CANAL+ EXTRA 1" tvg-logo="https://epg.ovh/logo/Canal++Extra+1.png" group-title="15.08.2026",CANAL+ EXTRA 1
 http://visioblp4k.xyz:8080/Erayyasin/Eray1/561375
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canalplusextra2.pl" tvg-name="CANAL+ EXTRA 2 FHD" tvg-logo="https://epg.ovh/logo/Canal++Extra+2.png" group-title="15.08.2026",CANAL+ EXTRA 2 FHD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canalplusextra2.pl" tvg-name="CANAL+ EXTRA 2" tvg-logo="https://epg.ovh/logo/Canal++Extra+2.png" group-title="15.08.2026",CANAL+ EXTRA 2
 http://visioblp4k.xyz:8080/Erayyasin/Eray1/561374
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canalplusextra3.pl" tvg-name="CANAL+ EXTRA 3 FHD" tvg-logo="https://epg.ovh/logo/Canal++Extra+3.png" group-title="15.08.2026",CANAL+ EXTRA 3 FHD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canalplusextra3.pl" tvg-name="CANAL+ EXTRA 3" tvg-logo="https://epg.ovh/logo/Canal++Extra+3.png" group-title="15.08.2026",CANAL+ EXTRA 3
 http://visioblp4k.xyz:8080/Erayyasin/Eray1/561373
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canalplusextra4.pl" tvg-name="CANAL+ EXTRA 4 FHD" tvg-logo="https://epg.ovh/logo/Canal++Extra+4.png" group-title="15.08.2026",CANAL+ EXTRA 4 FHD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canalplusextra4.pl" tvg-name="CANAL+ EXTRA 4" tvg-logo="https://epg.ovh/logo/Canal++Extra+4.png" group-title="15.08.2026",CANAL+ EXTRA 4
 http://visioblp4k.xyz:8080/Erayyasin/Eray1/561372
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="eurosport1.pl" tvg-name="EUROSPORT 1 HD" tvg-logo="https://i.imgur.com/xsOmB3z.png" group-title="15.08.2026",EUROSPORT 1 HD
 http://visioblp4k.xyz:8080/Erayyasin/Eray1/8491
@@ -1661,18 +1634,14 @@ http://rstm.tvsapp.xyz:8080/besmircanajjj/ku1hmfwA8/13060
 http://extraott-iptv.com:88/live/0229477349/8104258135/53106.m3u8
 #EXTINF:-1, group-title="Sporty",EUROSPORT 2 HD
 http://extraott-iptv.com:88/live/0229477349/8104258135/53105.m3u8
-#EXTINF:-1, group-title="Sporty",CANAL+ extra 1
+#EXTINF:-1, group-title="Sporty",CANAL+ EXTRA 1
 http://extraott-iptv.com:88/live/0229477349/8104258135/401349321.m3u8
-#EXTINF:-1, group-title="Sporty",CANAL+ extra 2
+#EXTINF:-1, group-title="Sporty",CANAL+ EXTRA 2
 http://extraott-iptv.com:88/live/0229477349/8104258135/401349320.m3u8
-#EXTINF:-1, group-title="Sporty",CANAL+ extra 3
+#EXTINF:-1, group-title="Sporty",CANAL+ EXTRA 3
 http://extraott-iptv.com:88/live/0229477349/8104258135/401349319.m3u8
-#EXTINF:-1, group-title="Sporty",CANAL+ extra 4
+#EXTINF:-1, group-title="Sporty",CANAL+ EXTRA 4
 http://extraott-iptv.com:88/live/0229477349/8104258135/401349318.m3u8
-#EXTINF:-1, group-title="Sporty",CANAL+ EXTRA 5
-http://extraott-iptv.com:88/live/0229477349/8104258135/401349317.m3u8
-#EXTINF:-1, group-title="Sporty",CANAL+ EXTRA 6
-http://extraott-iptv.com:88/live/0229477349/8104258135/401349316.m3u8
 #EXTINF:-1, group-title="Sporty",CANAL+ EXTRA 07
 http://extraott-iptv.com:88/live/0229477349/8104258135/401349315.m3u8
 #EXTINF:-1, group-title="Sporty",POLSAT SPORT 2 FHD
@@ -1809,8 +1778,6 @@ http://199.115.193.116:8080/4434642241884585/4434642241884585/395664
 http://199.115.193.116:8080/4434642241884585/4434642241884585/395663
 #EXTINF:-1 tvg-id="" tvg-name="POLSAT SPORT PREMIUM 2 HD" tvg-logo="https://epg.ovh/logo/Polsat+Sport+Premium+2a.png" group-title="23.05.2027",POLSAT SPORT PREMIUM 2 HD
 http://199.115.193.116:8080/4434642241884585/4434642241884585/395662
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 2 HD" tvg-logo="https://epg.ovh/logo/Canal++Sport+2.png" group-title="23.05.2027",CANAL+ SPORT 2 HD
-http://199.115.193.116:8080/4434642241884585/4434642241884585/395658
 #EXTINF:-1 tvg-id="" tvg-name="TVP SPORT HD" tvg-logo="http://sltv-logo.cms-s.com/logo/POLONIA/TVPSPORT.png" group-title="23.05.2027",TVP SPORT HD
 http://199.115.193.116:8080/4434642241884585/4434642241884585/395647
 #EXTINF:-1 tvg-id="" tvg-name="POLSAT SPORT EXTRA HD" tvg-logo="https://epg.ovh/logo/Polsat+Sport+Extra+HD.png" group-title="23.05.2027",POLSAT SPORT EXTRA HD
@@ -1839,6 +1806,8 @@ http://199.115.193.116:8080/4434642241884585/4434642241884585/395730
 http://199.115.193.116:8080/4434642241884585/4434642241884585/395729
 #EXTINF:-1 tvg-id="" tvg-name="POLSAT SPORT PREMIUM 5 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/POLONIA/Polsat_Sport_Premium_PPV.png" group-title="23.05.2027",POLSAT SPORT PREMIUM 5 HD
 http://199.115.193.116:8080/4434642241884585/4434642241884585/395728
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 2 HD" tvg-logo="https://epg.ovh/logo/Canal++Sport+2.png" group-title="23.05.2027",CANAL+ SPORT 2 HD
+http://199.115.193.116:8080/4434642241884585/4434642241884585/395658
 #EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 4 HD" tvg-logo="https://epg.ovh/logo/Canal++Sport+4+HD.png" group-title="23.05.2027",CANAL+ SPORT 4 HD
 http://199.115.193.116:8080/4434642241884585/4434642241884585/395749
 #EXTINF:-1 tvg-id="" tvg-name="GOLF CHANNEL HD" tvg-logo="http://sltv-logo.cms-s.com/logo/POLONIA/GOLFCHANNEL.png" group-title="23.05.2027",GOLF CHANNEL HD
@@ -1870,13 +1839,13 @@ http://vip.atlantistv.de:2086/29DSTRta7Q/5ZMu2AoZnb/52725
 http://vip.atlantistv.de:2086/29DSTRta7Q/5ZMu2AoZnb/52683
 #EXTINF:-1, group-title="27.08.2026", Eurosport 2
 http://vip.atlantistv.de:2086/29DSTRta7Q/5ZMu2AoZnb/52654
-#EXTINF:-1, group-title="27.08.2026",  Canal+Extra 1
+#EXTINF:-1, group-title="27.08.2026", Canal+ EXTRA 1
 http://vip.atlantistv.de:2086/29DSTRta7Q/5ZMu2AoZnb/52758
-#EXTINF:-1, group-title="27.08.2026", Canal+Extra 2
+#EXTINF:-1, group-title="27.08.2026", Canal+ EXTRA 2
 http://vip.atlantistv.de:2086/29DSTRta7Q/5ZMu2AoZnb/76349
-#EXTINF:-1, group-title="27.08.2026", Canal+Extra 3
+#EXTINF:-1, group-title="27.08.2026", Canal+ EXTRA 3
 http://vip.atlantistv.de:2086/29DSTRta7Q/5ZMu2AoZnb/52714
-#EXTINF:-1, group-title="27.08.2026", Canal+Extra 4
+#EXTINF:-1, group-title="27.08.2026", Canal+ EXTRA 4
 http://vip.atlantistv.de:2086/29DSTRta7Q/5ZMu2AoZnb/52751
 
 
