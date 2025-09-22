@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="PPV KSW FIGHTS FHD (SOLO EVENTO)" tvg-logo="https://lo1.in/pol/pfh.png" group-title="Sporty",PPV KSW FIGHTS FHD (SOLO EVENTO)
+#EXTINF:-1 tvg-id="" tvg-name="PPV KSW FIGHTS FHD (SOLO EVENTO)" tvg-logo="https://lo1.in/pol/pfh.png" group-title="Reszta",PPV KSW FIGHTS FHD (SOLO EVENTO)
 http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/378832.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PPV-Sporty Walki" tvg-logo="https://sat-kom.co.uk/logos/242.png" group-title="Sporty",PPV-Sporty Walki
+#EXTINF:-1 tvg-id="" tvg-name="PPV-Sporty Walki" tvg-logo="https://sat-kom.co.uk/logos/242.png" group-title="Reszta",PPV-Sporty Walki
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/4869.ts
 
 
@@ -266,126 +266,87 @@ http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/53105.m3u8
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2320.ts
 
 
-#EXTINF:-1 tvg-id="nsport.pl" tvg-name="NSPORT+ HD" tvg-logo="https://lo1.in/pol/nsp.png" group-title="Sporty",NSPORT+ HD
+#EXTINF:-1 tvg-id="nsport.pl" tvg-name="NSPORT+ HD" tvg-logo="https://lo1.in/pol/nsp.png" group-title="Reszta",NSPORT+ HD
 http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/9627.m3u8
-#EXTINF:-1 tvg-id="nsport.pl" tvg-name="NSPORT+ FHD" tvg-logo="https://lo1.in/pol/nsp.png" group-title="Sporty",NSPORT+ FHD
+#EXTINF:-1 tvg-id="nsport.pl" tvg-name="NSPORT+ FHD" tvg-logo="https://lo1.in/pol/nsp.png" group-title="Reszta",NSPORT+ FHD
 http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/117468.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GOLF CHANNEL HD" tvg-logo="https://lo1.in/pol/glch.png" group-title="Sporty",GOLF CHANNEL HD
+#EXTINF:-1 tvg-id="" tvg-name="GOLF CHANNEL HD" tvg-logo="https://lo1.in/pol/glch.png" group-title="Reszta",GOLF CHANNEL HD
 http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/53104.m3u8
-#EXTINF:-1 tvg-id="gold.pl" tvg-name="GOLF CHANNEL FHD" tvg-logo="https://lo1.in/pol/glch.png" group-title="Sporty",GOLF CHANNEL FHD
+#EXTINF:-1 tvg-id="gold.pl" tvg-name="GOLF CHANNEL FHD" tvg-logo="https://lo1.in/pol/glch.png" group-title="Reszta",GOLF CHANNEL FHD
 http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/117424.m3u8
-#EXTINF:-1 tvg-id="sportklub.pl" tvg-name="SPORT KLUB FHD" tvg-logo="https://lo1.in/pol/sprt.png" group-title="Sporty",SPORT KLUB FHD
+#EXTINF:-1 tvg-id="sportklub.pl" tvg-name="SPORT KLUB FHD" tvg-logo="https://lo1.in/pol/sprt.png" group-title="Reszta",SPORT KLUB FHD
 http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/117511.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV TORUŃ SD" tvg-logo="https://lo1.in/pol/TV TORUŃ.png" group-title="Sporty",TV TORUŃ SD
+#EXTINF:-1 tvg-id="" tvg-name="TV TORUŃ SD" tvg-logo="https://lo1.in/pol/TV TORUŃ.png" group-title="Reszta",TV TORUŃ SD
 http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/117543.m3u8
-#EXTINF:-1 tvg-id="tvpsport.pl" tvg-name="TVP SPORT  HD" tvg-logo="https://lo1.in/pol/tvsp.png" group-title="Sporty",TVP SPORT  HD
+#EXTINF:-1 tvg-id="tvpsport.pl" tvg-name="TVP SPORT  HD" tvg-logo="https://lo1.in/pol/tvsp.png" group-title="Reszta",TVP SPORT  HD
 http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/117581.m3u8
 
-#EXTINF:-1 tvg-id="extremesports.pl" tvg-name="EXTREME SPORTS HD" tvg-logo="https://lo1.in/pol/extrs.png" group-title="Sporty",EXTREME SPORTS HD
+#EXTINF:-1 tvg-id="extremesports.pl" tvg-name="EXTREME SPORTS HD" tvg-logo="https://lo1.in/pol/extrs.png" group-title="Reszta",EXTREME SPORTS HD
 http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/117406.m3u8
-#EXTINF:-1 tvg-id="fightbox.pl" tvg-name="FIGHT BOX HD" tvg-logo="https://lo1.in/pol/FIGHT BOX.png" group-title="Sporty",FIGHT BOX HD
+#EXTINF:-1 tvg-id="fightbox.pl" tvg-name="FIGHT BOX HD" tvg-logo="https://lo1.in/pol/FIGHT BOX.png" group-title="Reszta",FIGHT BOX HD
 http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/117407.m3u8
-#EXTINF:-1 tvg-id="fightklub.pl" tvg-name="FIGHT KLUB FHD" tvg-logo="https://lo1.in/pol/fcl.png" group-title="Sporty",FIGHT KLUB FHD
+#EXTINF:-1 tvg-id="fightklub.pl" tvg-name="FIGHT KLUB FHD" tvg-logo="https://lo1.in/pol/fcl.png" group-title="Reszta",FIGHT KLUB FHD
 http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/117411.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY XTRA 01 HD" tvg-logo="https://lo1.in/dan/vxtr.png" group-title="Sporty",VIAPLAY XTRA 01 HD
-http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/52473.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY XTRA 02 HD" tvg-logo="https://lo1.in/dan/vxtr.png" group-title="Sporty",VIAPLAY XTRA 02 HD
-http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/52472.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY XTRA 03 HD" tvg-logo="https://lo1.in/dan/vxtr.png" group-title="Sporty",VIAPLAY XTRA 03 HD
-http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/52471.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY XTRA 04 HD" tvg-logo="https://lo1.in/dan/vxtr.png" group-title="Sporty",VIAPLAY XTRA 04 HD
-http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/52470.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY XTRA 05 HD" tvg-logo="https://lo1.in/dan/vxtr.png" group-title="Sporty",VIAPLAY XTRA 05 HD
-http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/52469.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY XTRA 06 HD" tvg-logo="https://lo1.in/dan/vxtr.png" group-title="Sporty",VIAPLAY XTRA 06 HD
-http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/52468.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY XTRA 07 HD" tvg-logo="https://lo1.in/dan/vxtr.png" group-title="Sporty",VIAPLAY XTRA 07 HD
-http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/52467.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY XTRA 08 HD" tvg-logo="https://lo1.in/dan/vxtr.png" group-title="Sporty",VIAPLAY XTRA 08 HD
-http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/52466.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY XTRA 09 HD" tvg-logo="https://lo1.in/dan/vxtr.png" group-title="Sporty",VIAPLAY XTRA 09 HD
-http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/52465.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY XTRA 10 HD" tvg-logo="https://lo1.in/dan/vxtr.png" group-title="Sporty",VIAPLAY XTRA 10 HD
-http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/52464.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY XTRA 11 HD" tvg-logo="https://lo1.in/dan/vxtr.png" group-title="Sporty",VIAPLAY XTRA 11 HD
-http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/52463.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY XTRA 12 HD" tvg-logo="https://lo1.in/dan/vxtr.png" group-title="Sporty",VIAPLAY XTRA 12 HD
-http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/52462.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY XTRA 13 HD" tvg-logo="https://lo1.in/dan/vxtr.png" group-title="Sporty",VIAPLAY XTRA 13 HD
-http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/52461.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY XTRA 14 HD" tvg-logo="https://lo1.in/dan/vxtr.png" group-title="Sporty",VIAPLAY XTRA 14 HD
-http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/52450.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY XTRA 15 HD" tvg-logo="https://lo1.in/dan/vxtr.png" group-title="Sporty",VIAPLAY XTRA 15 HD
-http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/52460.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY XTRA 16 HD" tvg-logo="https://lo1.in/dan/vxtr.png" group-title="Sporty",VIAPLAY XTRA 16 HD
-http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/52459.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY XTRA 17 HD" tvg-logo="https://lo1.in/dan/vxtr.png" group-title="Sporty",VIAPLAY XTRA 17 HD
-http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/52458.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY XTRA 18 HD" tvg-logo="https://lo1.in/dan/vxtr.png" group-title="Sporty",VIAPLAY XTRA 18 HD
-http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/52457.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY XTRA 19 HD" tvg-logo="https://lo1.in/dan/vxtr.png" group-title="Sporty",VIAPLAY XTRA 19 HD
-http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/52456.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY XTRA 20 HD" tvg-logo="https://lo1.in/dan/vxtr.png" group-title="Sporty",VIAPLAY XTRA 20 HD
-http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/52455.m3u8
 
-#EXTINF:-1 tvg-id="0.via" tvg-name="ViaPlay 0" tvg-logo="" group-title="Sporty",ViaPlay 0
+
+#EXTINF:-1 tvg-id="0.via" tvg-name="ViaPlay 0" tvg-logo="" group-title="Reszta",ViaPlay 0
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7318.ts
-#EXTINF:-1 tvg-id="0.via" tvg-name="Viaplay 1" tvg-logo="https://sat-kom.co.uk/logos/304.png" group-title="Sporty",Viaplay 1
+#EXTINF:-1 tvg-id="0.via" tvg-name="Viaplay 1" tvg-logo="https://sat-kom.co.uk/logos/304.png" group-title="Reszta",Viaplay 1
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7274.ts
-#EXTINF:-1 tvg-id="1.via" tvg-name="Viaplay 2" tvg-logo="https://sat-kom.co.uk/logos/304.png" group-title="Sporty",Viaplay 2
+#EXTINF:-1 tvg-id="1.via" tvg-name="Viaplay 2" tvg-logo="https://sat-kom.co.uk/logos/304.png" group-title="Reszta",Viaplay 2
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7275.ts
-#EXTINF:-1 tvg-id="2.via" tvg-name="Viaplay 3" tvg-logo="https://sat-kom.co.uk/logos/304.png" group-title="Sporty",Viaplay 3
+#EXTINF:-1 tvg-id="2.via" tvg-name="Viaplay 3" tvg-logo="https://sat-kom.co.uk/logos/304.png" group-title="Reszta",Viaplay 3
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7276.ts
-#EXTINF:-1 tvg-id="3.via" tvg-name="Viaplay 4" tvg-logo="https://sat-kom.co.uk/logos/304.png" group-title="Sporty",Viaplay 4
+#EXTINF:-1 tvg-id="3.via" tvg-name="Viaplay 4" tvg-logo="https://sat-kom.co.uk/logos/304.png" group-title="Reszta",Viaplay 4
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7277.ts
-#EXTINF:-1 tvg-id="4.via" tvg-name="ViaPlay 5" tvg-logo="https://sat-kom.co.uk/logos/304.png" group-title="Sporty",ViaPlay 5
+#EXTINF:-1 tvg-id="4.via" tvg-name="ViaPlay 5" tvg-logo="https://sat-kom.co.uk/logos/304.png" group-title="Reszta",ViaPlay 5
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7278.ts
 
 
-#EXTINF:-1 tvg-id="TVPSport.pl" tvg-name="TVP SPORT FHD" tvg-logo="http://picons.cmshulk.com/picons/880502.png" group-title="Sporty",TVP SPORT FHD
+#EXTINF:-1 tvg-id="TVPSport.pl" tvg-name="TVP SPORT FHD" tvg-logo="http://picons.cmshulk.com/picons/880502.png" group-title="Reszta",TVP SPORT FHD
 http://line.premiumpowers.net:80/84GkDDzqyvUk/r4V2tsBy92/880502
-#EXTINF:-1 tvg-id="TVPSport.pl" tvg-name="TVP SPORT HD" tvg-logo="http://picons.cmshulk.com/picons/880362.png" group-title="Sporty",TVP SPORT HD
+#EXTINF:-1 tvg-id="TVPSport.pl" tvg-name="TVP SPORT HD" tvg-logo="http://picons.cmshulk.com/picons/880362.png" group-title="Reszta",TVP SPORT HD
 http://line.premiumpowers.net:80/84GkDDzqyvUk/r4V2tsBy92/880362
-#EXTINF:-1 tvg-id="SportKlub.pl" tvg-name="SPORTKLUB FHD" tvg-logo="http://picons.cmshulk.com/picons/880447.png" group-title="Sporty",SPORTKLUB FHD
+#EXTINF:-1 tvg-id="SportKlub.pl" tvg-name="SPORTKLUB FHD" tvg-logo="http://picons.cmshulk.com/picons/880447.png" group-title="Reszta",SPORTKLUB FHD
 http://line.premiumpowers.net:80/84GkDDzqyvUk/r4V2tsBy92/880447
-#EXTINF:-1 tvg-id="SportKlub.pl" tvg-name="SPORTKLUB HD" tvg-logo="http://picons.cmshulk.com/picons/880307.png" group-title="Sporty",SPORTKLUB HD
+#EXTINF:-1 tvg-id="SportKlub.pl" tvg-name="SPORTKLUB HD" tvg-logo="http://picons.cmshulk.com/picons/880307.png" group-title="Reszta",SPORTKLUB HD
 http://line.premiumpowers.net:80/84GkDDzqyvUk/r4V2tsBy92/880307
-#EXTINF:-1 tvg-id="FightKlub.pl" tvg-name="FIGHTKLUB FHD" tvg-logo="http://picons.cmshulk.com/picons/880420.png" group-title="Sporty",FIGHTKLUB FHD
+#EXTINF:-1 tvg-id="FightKlub.pl" tvg-name="FIGHTKLUB FHD" tvg-logo="http://picons.cmshulk.com/picons/880420.png" group-title="Reszta",FIGHTKLUB FHD
 http://line.premiumpowers.net:80/84GkDDzqyvUk/r4V2tsBy92/880420
-#EXTINF:-1 tvg-id="FightKlub.pl" tvg-name="FIGHTKLUB HD" tvg-logo="http://picons.cmshulk.com/picons/880280.png" group-title="Sporty",FIGHTKLUB HD
+#EXTINF:-1 tvg-id="FightKlub.pl" tvg-name="FIGHTKLUB HD" tvg-logo="http://picons.cmshulk.com/picons/880280.png" group-title="Reszta",FIGHTKLUB HD
 http://line.premiumpowers.net:80/84GkDDzqyvUk/r4V2tsBy92/880280
-#EXTINF:-1 tvg-id="FightBox.pl" tvg-name="FIGHTBOX FHD" tvg-logo="http://picons.cmshulk.com/picons/880446.png" group-title="Sporty",FIGHTBOX FHD
+#EXTINF:-1 tvg-id="FightBox.pl" tvg-name="FIGHTBOX FHD" tvg-logo="http://picons.cmshulk.com/picons/880446.png" group-title="Reszta",FIGHTBOX FHD
 http://line.premiumpowers.net:80/84GkDDzqyvUk/r4V2tsBy92/880446
-#EXTINF:-1 tvg-id="FightBox.pl" tvg-name="FIGHTBOX HD" tvg-logo="http://picons.cmshulk.com/picons/880306.png" group-title="Sporty",FIGHTBOX HD
+#EXTINF:-1 tvg-id="FightBox.pl" tvg-name="FIGHTBOX HD" tvg-logo="http://picons.cmshulk.com/picons/880306.png" group-title="Reszta",FIGHTBOX HD
 http://line.premiumpowers.net:80/84GkDDzqyvUk/r4V2tsBy92/880306
-#EXTINF:-1 tvg-id="" tvg-name="PRIME FIGHT HD" tvg-logo="http://picons.cmshulk.com/picons/1121749.png" group-title="Sporty",PRIME FIGHT HD
+#EXTINF:-1 tvg-id="" tvg-name="PRIME FIGHT HD" tvg-logo="http://picons.cmshulk.com/picons/1121749.png" group-title="Reszta",PRIME FIGHT HD
 http://line.premiumpowers.net:80/84GkDDzqyvUk/r4V2tsBy92/1121749
-#EXTINF:-1 tvg-id="ExtremeSports.pl" tvg-name="EXTREME SPORTS FHD" tvg-logo="http://picons.cmshulk.com/picons/880448.png" group-title="Sporty",EXTREME SPORTS FHD
+#EXTINF:-1 tvg-id="ExtremeSports.pl" tvg-name="EXTREME SPORTS FHD" tvg-logo="http://picons.cmshulk.com/picons/880448.png" group-title="Reszta",EXTREME SPORTS FHD
 http://line.premiumpowers.net:80/84GkDDzqyvUk/r4V2tsBy92/880448
-#EXTINF:-1 tvg-id="ExtremeSports.pl" tvg-name="EXTREME SPORTS HD" tvg-logo="http://picons.cmshulk.com/picons/880308.png" group-title="Sporty",EXTREME SPORTS HD
+#EXTINF:-1 tvg-id="ExtremeSports.pl" tvg-name="EXTREME SPORTS HD" tvg-logo="http://picons.cmshulk.com/picons/880308.png" group-title="Reszta",EXTREME SPORTS HD
 http://line.premiumpowers.net:80/84GkDDzqyvUk/r4V2tsBy92/880308
-#EXTINF:-1 tvg-id="GolfChannel.pl" tvg-name="GOLF CHANNEL FHD" tvg-logo="http://picons.cmshulk.com/picons/880419.png" group-title="Sporty",GOLF CHANNEL FHD
+#EXTINF:-1 tvg-id="GolfChannel.pl" tvg-name="GOLF CHANNEL FHD" tvg-logo="http://picons.cmshulk.com/picons/880419.png" group-title="Reszta",GOLF CHANNEL FHD
 http://line.premiumpowers.net:80/84GkDDzqyvUk/r4V2tsBy92/880419
-#EXTINF:-1 tvg-id="GolfChannel.pl" tvg-name="GOLF CHANNEL HD" tvg-logo="http://picons.cmshulk.com/picons/880279.png" group-title="Sporty",GOLF CHANNEL HD
+#EXTINF:-1 tvg-id="GolfChannel.pl" tvg-name="GOLF CHANNEL HD" tvg-logo="http://picons.cmshulk.com/picons/880279.png" group-title="Reszta",GOLF CHANNEL HD
 http://line.premiumpowers.net:80/84GkDDzqyvUk/r4V2tsBy92/880279
-#EXTINF:-1 tvg-id="MotowizjaTV.pl" tvg-name="MOTOWIZJA FHD" tvg-logo="http://picons.cmshulk.com/picons/880413.png" group-title="Sporty",MOTOWIZJA FHD
+#EXTINF:-1 tvg-id="MotowizjaTV.pl" tvg-name="MOTOWIZJA FHD" tvg-logo="http://picons.cmshulk.com/picons/880413.png" group-title="Reszta",MOTOWIZJA FHD
 http://line.premiumpowers.net:80/84GkDDzqyvUk/r4V2tsBy92/880413
-#EXTINF:-1 tvg-id="MotowizjaTV.pl" tvg-name="MOTOWIZJA HD" tvg-logo="http://picons.cmshulk.com/picons/880273.png" group-title="Sporty",MOTOWIZJA HD
+#EXTINF:-1 tvg-id="MotowizjaTV.pl" tvg-name="MOTOWIZJA HD" tvg-logo="http://picons.cmshulk.com/picons/880273.png" group-title="Reszta",MOTOWIZJA HD
 http://line.premiumpowers.net:80/84GkDDzqyvUk/r4V2tsBy92/880273
 
 
 #EXTINF:-1 tvg-id="Canal+ Now" tvg-name="Canal+ Now" tvg-logo="https://sat-kom.co.uk/logos/371.png" group-title="CANAL+ NOW",Canal+ Now
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7271.ts
-#EXTINF:-1 tvg-id="TVP Sport" tvg-name="TVP Sport HD" tvg-logo="https://sat-kom.co.uk/logos/173.png" group-title="Sporty",TVP Sport HD
+#EXTINF:-1 tvg-id="TVP Sport" tvg-name="TVP Sport HD" tvg-logo="https://sat-kom.co.uk/logos/173.png" group-title="Reszta",TVP Sport HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2310.ts
 
-#EXTINF:-1 tvg-id="Sportklub" tvg-name="Sportklub HD" tvg-logo="https://sat-kom.co.uk/logos/177.png" group-title="Sporty",Sportklub HD
+#EXTINF:-1 tvg-id="Sportklub" tvg-name="Sportklub HD" tvg-logo="https://sat-kom.co.uk/logos/177.png" group-title="Reszta",Sportklub HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2322.ts
-#EXTINF:-1 tvg-id="FightBox" tvg-name="FightBOX HD" tvg-logo="https://sat-kom.co.uk/logos/179.png" group-title="Sporty",FightBOX HD
+#EXTINF:-1 tvg-id="FightBox" tvg-name="FightBOX HD" tvg-logo="https://sat-kom.co.uk/logos/179.png" group-title="Reszta",FightBOX HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2323.ts
-#EXTINF:-1 tvg-id="FIGHTKLUB" tvg-name="FightKlub" tvg-logo="https://sat-kom.co.uk/logos/178.png" group-title="Sporty",FightKlub
+#EXTINF:-1 tvg-id="FIGHTKLUB" tvg-name="FightKlub" tvg-logo="https://sat-kom.co.uk/logos/178.png" group-title="Reszta",FightKlub
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7307.ts
-#EXTINF:-1 tvg-id="Extreme Sports Channel" tvg-name="Extreme Sports HD" tvg-logo="https://sat-kom.co.uk/logos/176.png" group-title="Sporty",Extreme Sports HD
+#EXTINF:-1 tvg-id="Extreme Sports Channel" tvg-name="Extreme Sports HD" tvg-logo="https://sat-kom.co.uk/logos/176.png" group-title="Reszta",Extreme Sports HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2324.ts
 
 
@@ -445,21 +406,21 @@ http://visioblp4k.xyz:8080/Erayyasin/Eray1/561372
 http://visioblp4k.xyz:8080/Erayyasin/Eray1/8491
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="eurosport2.pl" tvg-name="EUROSPORT 2 HD" tvg-logo="https://i.imgur.com/ClaNGPU.png" group-title="EUROSPORT",EUROSPORT 2 HD
 http://visioblp4k.xyz:8080/Erayyasin/Eray1/8492
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nsport.pl" tvg-name="NSPORT+ HD" tvg-logo="https://i.imgur.com/sIhN04D.png" group-title="15.08.2026",NSPORT+ HD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nsport.pl" tvg-name="NSPORT+ HD" tvg-logo="https://i.imgur.com/sIhN04D.png" group-title="Reszta",NSPORT+ HD
 http://visioblp4k.xyz:8080/Erayyasin/Eray1/8480
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tvpsport.pl" tvg-name="TVP SPORT HD" tvg-logo="https://i.imgur.com/M6mNY9D.png" group-title="15.08.2026",TVP SPORT HD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tvpsport.pl" tvg-name="TVP SPORT HD" tvg-logo="https://i.imgur.com/M6mNY9D.png" group-title="Reszta",TVP SPORT HD
 http://visioblp4k.xyz:8080/Erayyasin/Eray1/8490
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="golfchannel.pl" tvg-name="GOLF CHANNEL HD" tvg-logo="https://i.imgur.com/89czsXV.png" group-title="15.08.2026",GOLF CHANNEL HD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="golfchannel.pl" tvg-name="GOLF CHANNEL HD" tvg-logo="https://i.imgur.com/89czsXV.png" group-title="Reszta",GOLF CHANNEL HD
 http://visioblp4k.xyz:8080/Erayyasin/Eray1/8493
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sportklub.pl" tvg-name="SPORTKLUB HD" tvg-logo="https://i.imgur.com/rzcZ8qT.png" group-title="15.08.2026",SPORTKLUB HD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sportklub.pl" tvg-name="SPORTKLUB HD" tvg-logo="https://i.imgur.com/rzcZ8qT.png" group-title="Reszta",SPORTKLUB HD
 http://visioblp4k.xyz:8080/Erayyasin/Eray1/8494
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="extremesports.pl" tvg-name="EXTREME SPORTS HD" tvg-logo="https://i.imgur.com/8XLqDsc.png" group-title="15.08.2026",EXTREME SPORTS HD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="extremesports.pl" tvg-name="EXTREME SPORTS HD" tvg-logo="https://i.imgur.com/8XLqDsc.png" group-title="Reszta",EXTREME SPORTS HD
 http://visioblp4k.xyz:8080/Erayyasin/Eray1/8495
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="motowizja.pl" tvg-name="MOTOWIZJA HD" tvg-logo="https://i.imgur.com/VQwfuKM.png" group-title="15.08.2026",MOTOWIZJA HD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="motowizja.pl" tvg-name="MOTOWIZJA HD" tvg-logo="https://i.imgur.com/VQwfuKM.png" group-title="Reszta",MOTOWIZJA HD
 http://visioblp4k.xyz:8080/Erayyasin/Eray1/8496
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="fightbox.pl" tvg-name="PL | FIGHTBOX HD" tvg-logo="https://i.imgur.com/7Oe77fX.png" group-title="15.08.2026",PL | FIGHTBOX HD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="fightbox.pl" tvg-name="PL | FIGHTBOX HD" tvg-logo="https://i.imgur.com/7Oe77fX.png" group-title="Reszta",PL | FIGHTBOX HD
 http://visioblp4k.xyz:8080/Erayyasin/Eray1/8497
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="fightklub.pl" tvg-name="FIGHTKLUB FHD" tvg-logo="https://i.imgur.com/dTnRTpu.png" group-title="15.08.2026",FIGHTKLUB FHD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="fightklub.pl" tvg-name="FIGHTKLUB FHD" tvg-logo="https://i.imgur.com/dTnRTpu.png" group-title="Reszta",FIGHTKLUB FHD
 http://visioblp4k.xyz:8080/Erayyasin/Eray1/8471
 
 
@@ -473,7 +434,7 @@ http://visioblp4k.xyz:8080/Erayyasin/Eray1/8471
 http://apptv.xyz:8080/702ad56da375/j68Zf2fGA/13034
 #EXTINF:-1 tvg-id="" tvg-name="Eurosport 2 HD" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.7w39B9DUQFFRtHyqQrL3rAHaAv&pid=Api&P=0&h=220" group-title="EUROSPORT",Eurosport 2 HD
 http://apptv.xyz:8080/702ad56da375/j68Zf2fGA/13060
-#EXTINF:-1 tvg-id="" tvg-name="Extreme Sports" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.poczM0UAkSeA3cfEXDCW6wHaFr&pid=Api&P=0&h=220" group-title="29.12.2025",Extreme Sports
+#EXTINF:-1 tvg-id="" tvg-name="Extreme Sports" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.poczM0UAkSeA3cfEXDCW6wHaFr&pid=Api&P=0&h=220" group-title="Reszta",Extreme Sports
 http://apptv.xyz:8080/702ad56da375/j68Zf2fGA/8142
 #EXTINF:-1 tvg-id="" tvg-name="Polsat Sport" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.YWVHGT2YGYDRH6ulWhtWNQAAAA&pid=Api&P=0&h=220" group-title="POLSAT SPORT",Polsat Sport
 http://apptv.xyz:8080/702ad56da375/j68Zf2fGA/13053
@@ -481,9 +442,9 @@ http://apptv.xyz:8080/702ad56da375/j68Zf2fGA/13053
 http://apptv.xyz:8080/702ad56da375/j68Zf2fGA/13052
 #EXTINF:-1 tvg-id="" tvg-name="Polsat Sport News" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.5UKj6cXp-UHbhZ1Vn8RiRwAAAA&pid=Api&P=0&h=220" group-title="POLSAT SPORT",Polsat Sport News
 http://apptv.xyz:8080/702ad56da375/j68Zf2fGA/13077
-#EXTINF:-1 tvg-id="" tvg-name="nSport" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.UaZn2Pj878spTxdLkyImGQAAAA&pid=Api&P=0&h=220" group-title="29.12.2025",nSport
+#EXTINF:-1 tvg-id="" tvg-name="nSport" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.UaZn2Pj878spTxdLkyImGQAAAA&pid=Api&P=0&h=220" group-title="Reszta",nSport
 http://apptv.xyz:8080/702ad56da375/j68Zf2fGA/13030
-#EXTINF:-1 tvg-id="" tvg-name="nSport  HD" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.XTPUoPu3dOhyyQeGLLl6FgAAAA&pid=Api&P=0&h=220" group-title="29.12.2025",nSport  HD
+#EXTINF:-1 tvg-id="" tvg-name="nSport  HD" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.XTPUoPu3dOhyyQeGLLl6FgAAAA&pid=Api&P=0&h=220" group-title="Reszta",nSport  HD
 http://apptv.xyz:8080/702ad56da375/j68Zf2fGA/13028
 #EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 1 ᵁᴴᴰ" tvg-logo="" group-title="ELEVEN SPORTS 1 4K",Eleven Sports 1 ᵁᴴᴰ
 http://apptv.xyz:8080/702ad56da375/j68Zf2fGA/86266
@@ -578,19 +539,19 @@ http://4host.cc:8080/05524940541/336699225/411391
 http://4host.cc:8080/05524940541/336699225/411392
 #EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 4 SD" tvg-logo="https://soft.dreamtv.top/logo/logo_category/Poland.png" group-title="ELEVEN  SPORTS 4",ELEVEN SPORTS 4 SD
 http://4host.cc:8080/05524940541/336699225/411393
-#EXTINF:-1 tvg-id="" tvg-name="NSPORT+ SD" tvg-logo="https://soft.dreamtv.top/logo/logo_category/Poland.png" group-title="12.11.2025",NSPORT+ SD
+#EXTINF:-1 tvg-id="" tvg-name="NSPORT+ SD" tvg-logo="https://soft.dreamtv.top/logo/logo_category/Poland.png" group-title="Reszta",NSPORT+ SD
 http://4host.cc:8080/05524940541/336699225/411394
-#EXTINF:-1 tvg-id="" tvg-name="NSPORT+ HD" tvg-logo="https://soft.dreamtv.top/logo/logo_category/Poland.png" group-title="12.11.2025",NSPORT+ HD
+#EXTINF:-1 tvg-id="" tvg-name="NSPORT+ HD" tvg-logo="https://soft.dreamtv.top/logo/logo_category/Poland.png" group-title="Reszta",NSPORT+ HD
 http://4host.cc:8080/05524940541/336699225/411395
-#EXTINF:-1 tvg-id="" tvg-name="GOLF CHANNEL FHD" tvg-logo="https://soft.dreamtv.top/logo/logo_category/Poland.png" group-title="12.11.2025",GOLF CHANNEL FHD
+#EXTINF:-1 tvg-id="" tvg-name="GOLF CHANNEL FHD" tvg-logo="https://soft.dreamtv.top/logo/logo_category/Poland.png" group-title="Reszta",GOLF CHANNEL FHD
 http://4host.cc:8080/05524940541/336699225/411396
-#EXTINF:-1 tvg-id="" tvg-name="NSPORT+ FHD" tvg-logo="https://soft.dreamtv.top/logo/logo_category/Poland.png" group-title="12.11.2025",NSPORT+ FHD
+#EXTINF:-1 tvg-id="" tvg-name="NSPORT+ FHD" tvg-logo="https://soft.dreamtv.top/logo/logo_category/Poland.png" group-title="Reszta",NSPORT+ FHD
 http://4host.cc:8080/05524940541/336699225/411397
-#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB FHD" tvg-logo="https://soft.dreamtv.top/logo/logo_category/Poland.png" group-title="12.11.2025",SPORT KLUB FHD
+#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB FHD" tvg-logo="https://soft.dreamtv.top/logo/logo_category/Poland.png" group-title="Reszta",SPORT KLUB FHD
 http://4host.cc:8080/05524940541/336699225/411398
-#EXTINF:-1 tvg-id="" tvg-name="TV TORUŃ SD" tvg-logo="https://soft.dreamtv.top/logo/logo_category/Poland.png" group-title="12.11.2025",TV TORUŃ SD
+#EXTINF:-1 tvg-id="" tvg-name="TV TORUŃ SD" tvg-logo="https://soft.dreamtv.top/logo/logo_category/Poland.png" group-title="Reszta",TV TORUŃ SD
 http://4host.cc:8080/05524940541/336699225/411399
-#EXTINF:-1 tvg-id="" tvg-name="TVP SPORT  HD" tvg-logo="https://soft.dreamtv.top/logo/logo_category/Poland.png" group-title="12.11.2025",TVP SPORT  HD
+#EXTINF:-1 tvg-id="" tvg-name="TVP SPORT  HD" tvg-logo="https://soft.dreamtv.top/logo/logo_category/Poland.png" group-title="Reszta",TVP SPORT  HD
 http://4host.cc:8080/05524940541/336699225/411400
 #EXTINF:-1 tvg-id="" tvg-name="POLSAT SPORT FHD" tvg-logo="https://soft.dreamtv.top/logo/logo_category/Poland.png" group-title="POLSAT SPORT",POLSAT SPORT FHD
 http://4host.cc:8080/05524940541/336699225/411401
@@ -638,11 +599,11 @@ http://4host.cc:8080/05524940541/336699225/411421
 http://4host.cc:8080/05524940541/336699225/411422
 #EXTINF:-1 tvg-id="" tvg-name="POLSAT SPORT PREMIUM PPV 6 SD" tvg-logo="https://soft.dreamtv.top/logo/logo_category/Poland.png" group-title="POLSAT SPORT PREMIUM 6",POLSAT SPORT PREMIUM PPV 6 SD
 http://4host.cc:8080/05524940541/336699225/411423
-#EXTINF:-1 tvg-id="" tvg-name="EXTREME SPORTS FHD" tvg-logo="https://soft.dreamtv.top/logo/logo_category/Poland.png" group-title="12.11.2025",EXTREME SPORTS FHD
+#EXTINF:-1 tvg-id="" tvg-name="EXTREME SPORTS FHD" tvg-logo="https://soft.dreamtv.top/logo/logo_category/Poland.png" group-title="Reszta",EXTREME SPORTS FHD
 http://4host.cc:8080/05524940541/336699225/411424
-#EXTINF:-1 tvg-id="" tvg-name="FIGHT BOX FHD" tvg-logo="https://soft.dreamtv.top/logo/logo_category/Poland.png" group-title="12.11.2025",FIGHT BOX FHD
+#EXTINF:-1 tvg-id="" tvg-name="FIGHT BOX FHD" tvg-logo="https://soft.dreamtv.top/logo/logo_category/Poland.png" group-title="Reszta",FIGHT BOX FHD
 http://4host.cc:8080/05524940541/336699225/411425
-#EXTINF:-1 tvg-id="" tvg-name="FIGHT KLUB FHD" tvg-logo="https://soft.dreamtv.top/logo/logo_category/Poland.png" group-title="12.11.2025",FIGHT KLUB FHD
+#EXTINF:-1 tvg-id="" tvg-name="FIGHT KLUB FHD" tvg-logo="https://soft.dreamtv.top/logo/logo_category/Poland.png" group-title="Reszta",FIGHT KLUB FHD
 http://4host.cc:8080/05524940541/336699225/411426
 
 
@@ -659,7 +620,7 @@ http://rstm.tvsapp.xyz:8080/besmircanajjj/ku1hmfwA8/11411
 http://rstm.tvsapp.xyz:8080/besmircanajjj/ku1hmfwA8/51961
 #EXTINF:-1, group-title="CANAL+ SPORT 4",Canal+ Sport 4 ᶠᴴᴰ
 http://rstm.tvsapp.xyz:8080/besmircanajjj/ku1hmfwA8/51962
-#EXTINF:-1, group-title="Sporty",PTV SPORTS
+#EXTINF:-1, group-title="Reszta",PTV SPORTS
 http://rstm.tvsapp.xyz:8080/besmircanajjj/ku1hmfwA8/87764
 #EXTINF:-1, group-title="POLSAT SPORT",POLSAT Sport
 http://rstm.tvsapp.xyz:8080/besmircanajjj/ku1hmfwA8/13053
@@ -716,7 +677,7 @@ http://extraott-iptv.com:88/live/0229477349/8104258135/401729919.m3u8
 http://extraott-iptv.com:88/live/0229477349/8104258135/401729918.m3u8
 #EXTINF:-1, group-title="POLSAT SPORT",POLSAT SPORT FIGHT FHD
 http://extraott-iptv.com:88/live/0229477349/8104258135/117493.m3u8
-#EXTINF:-1, group-title="Sporty",TVP SPORT  HD
+#EXTINF:-1, group-title="Reszta",TVP SPORT  HD
 http://extraott-iptv.com:88/live/0229477349/8104258135/117581.m3u8
 #EXTINF:-1, group-title="CANAL+ SPORT 1",CANAL+ SPORT 1 FHD
 http://extraott-iptv.com:88/live/0229477349/8104258135/117348.m3u8
@@ -728,7 +689,7 @@ http://extraott-iptv.com:88/live/0229477349/8104258135/117352.m3u8
 http://extraott-iptv.com:88/live/0229477349/8104258135/117353.m3u8
 #EXTINF:-1, group-title="POLSAT SPORT", POLSAT SPORT HD
 http://extraott-iptv.com:88/live/0229477349/8104258135/33622.m3u8
-#EXTINF:-1, group-title="Sporty", SPORT KLUB FHD
+#EXTINF:-1, group-title="Reszta", SPORT KLUB FHD
 http://extraott-iptv.com:88/live/0229477349/8104258135/117511.m3u8
 #EXTINF:-1, group-title="EUROSPORT", EUROSPORT 1 FHD
 http://extraott-iptv.com:88/live/0229477349/8104258135/117403.m3u8
@@ -736,7 +697,7 @@ http://extraott-iptv.com:88/live/0229477349/8104258135/117403.m3u8
 http://extraott-iptv.com:88/live/0229477349/8104258135/117404.m3u8
 #EXTINF:-1, group-title="POLSAT SPORT", POLSAT SPORT FHD
 http://extraott-iptv.com:88/live/0229477349/8104258135/117492.m3u8
-#EXTINF:-1, group-title="Sporty", EXTREME SPORTS HD
+#EXTINF:-1, group-title="Reszta", EXTREME SPORTS HD
 http://extraott-iptv.com:88/live/0229477349/8104258135/117406.m3u8
 #EXTINF:-1, group-title="POLSAT SPORT PREMIUM 1", POLSAT SPORT PREMIUM SUPER 1 FHD
 http://extraott-iptv.com:88/live/0229477349/8104258135/117495.m3u8
@@ -758,13 +719,13 @@ http://extraott-iptv.com:88/live/0229477349/8104258135/117393.m3u8
 http://extraott-iptv.com:88/live/0229477349/8104258135/117394.m3u8
 #EXTINF:-1, group-title="ELEVEN  SPORTS 4", ELEVEN SPORTS 4 FHD
 http://extraott-iptv.com:88/live/0229477349/8104258135/117395.m3u8
-#EXTINF:-1, group-title="Sporty", GOLF CHANNEL FHD
+#EXTINF:-1, group-title="Reszta", GOLF CHANNEL FHD
 http://extraott-iptv.com:88/live/0229477349/8104258135/117424.m3u8
-#EXTINF:-1, group-title="Sporty", FIGHT BOX HD
+#EXTINF:-1, group-title="Reszta", FIGHT BOX HD
 http://extraott-iptv.com:88/live/0229477349/8104258135/117407.m3u8
-#EXTINF:-1, group-title="Sporty", FIGHT KLUB FHD
+#EXTINF:-1, group-title="Reszta", FIGHT KLUB FHD
 http://extraott-iptv.com:88/live/0229477349/8104258135/117411.m3u8
-#EXTINF:-1, group-title="Sporty", PPV KSW FIGHTS FHD (SOLO EVENTO)
+#EXTINF:-1, group-title="Reszta", PPV KSW FIGHTS FHD (SOLO EVENTO)
 http://extraott-iptv.com:88/live/0229477349/8104258135/378832.m3u8
 
 
@@ -810,7 +771,7 @@ http://apptv.xyz:8080/702ad56da375/j68Zf2fGA/13077
 http://apptv.xyz:8080/702ad56da375/j68Zf2fGA/13034
 #EXTINF:-1 tvg-id="" tvg-name="Eurosport 2 HD" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.7w39B9DUQFFRtHyqQrL3rAHaAv&pid=Api&P=0&h=220" group-title="EUROSPORT",Eurosport 2 HD
 http://apptv.xyz:8080/702ad56da375/j68Zf2fGA/13060
-#EXTINF:-1 tvg-id="" tvg-name="Extreme Sports" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.poczM0UAkSeA3cfEXDCW6wHaFr&pid=Api&P=0&h=220" group-title="03.11.2025",Extreme Sports
+#EXTINF:-1 tvg-id="" tvg-name="Extreme Sports" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.poczM0UAkSeA3cfEXDCW6wHaFr&pid=Api&P=0&h=220" group-title="Reszta",Extreme Sports
 http://apptv.xyz:8080/702ad56da375/j68Zf2fGA/8142
 
 
@@ -828,9 +789,9 @@ http://199.115.193.116:8080/4434642241884585/4434642241884585/395652
 http://199.115.193.116:8080/4434642241884585/4434642241884585/395719
 #EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORT HD" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="ELEVEN  SPORTS 1",ELEVEN SPORT HD
 http://199.115.193.116:8080/4434642241884585/4434642241884585/395702
-#EXTINF:-1 tvg-id="" tvg-name="FIGHTBOX HD" tvg-logo="http://sltv-logo.cms-s.com/logo/POLONIA/FIGHTBOXHD.png" group-title="23.05.2027",FIGHTBOX HD
+#EXTINF:-1 tvg-id="" tvg-name="FIGHTBOX HD" tvg-logo="http://sltv-logo.cms-s.com/logo/POLONIA/FIGHTBOXHD.png" group-title="Reszta",FIGHTBOX HD
 http://199.115.193.116:8080/4434642241884585/4434642241884585/395667
-#EXTINF:-1 tvg-id="" tvg-name="EXTREME SPORTS HD" tvg-logo="https://i7.pngguru.com/preview/332/795/720/extreme-sports-channel-television-channel-logo-tv-others.jpg" group-title="23.05.2027",EXTREME SPORTS HD
+#EXTINF:-1 tvg-id="" tvg-name="EXTREME SPORTS HD" tvg-logo="https://i7.pngguru.com/preview/332/795/720/extreme-sports-channel-television-channel-logo-tv-others.jpg" group-title="Reszta",EXTREME SPORTS HD
 http://199.115.193.116:8080/4434642241884585/4434642241884585/395666
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/2021mixlogo/eurosport2.png" group-title="EUROSPORT",EUROSPORT 2 HD
 http://199.115.193.116:8080/4434642241884585/4434642241884585/395665
@@ -840,7 +801,7 @@ http://199.115.193.116:8080/4434642241884585/4434642241884585/395664
 http://199.115.193.116:8080/4434642241884585/4434642241884585/395663
 #EXTINF:-1 tvg-id="" tvg-name="POLSAT SPORT PREMIUM 2 HD" tvg-logo="https://epg.ovh/logo/Polsat+Sport+Premium+2a.png" group-title="POLSAT SPORT PREMIUM 2",POLSAT SPORT PREMIUM 2 HD
 http://199.115.193.116:8080/4434642241884585/4434642241884585/395662
-#EXTINF:-1 tvg-id="" tvg-name="TVP SPORT HD" tvg-logo="http://sltv-logo.cms-s.com/logo/POLONIA/TVPSPORT.png" group-title="23.05.2027",TVP SPORT HD
+#EXTINF:-1 tvg-id="" tvg-name="TVP SPORT HD" tvg-logo="http://sltv-logo.cms-s.com/logo/POLONIA/TVPSPORT.png" group-title="Reszta",TVP SPORT HD
 http://199.115.193.116:8080/4434642241884585/4434642241884585/395647
 #EXTINF:-1 tvg-id="" tvg-name="POLSAT SPORT EXTRA HD" tvg-logo="https://epg.ovh/logo/Polsat+Sport+Extra+HD.png" group-title="POLSAT SPORT",POLSAT SPORT EXTRA HD
 http://199.115.193.116:8080/4434642241884585/4434642241884585/395685
@@ -848,9 +809,9 @@ http://199.115.193.116:8080/4434642241884585/4434642241884585/395685
 http://199.115.193.116:8080/4434642241884585/4434642241884585/395684
 #EXTINF:-1 tvg-id="" tvg-name="POLSAT SPORT NEWS HD" tvg-logo="http://sltv-logo.cms-s.com/logo/POLONIA/POLSATSPORTNEWS.png" group-title="POLSAT SPORT",POLSAT SPORT NEWS HD
 http://199.115.193.116:8080/4434642241884585/4434642241884585/395683
-#EXTINF:-1 tvg-id="" tvg-name="SUPER POLSAT FHD" tvg-logo="http://sltv-logo.cms-s.com/logo/2021mixlogo/SPOLSAT.png" group-title="23.05.2027",SUPER POLSAT FHD
+#EXTINF:-1 tvg-id="" tvg-name="SUPER POLSAT FHD" tvg-logo="http://sltv-logo.cms-s.com/logo/2021mixlogo/SPOLSAT.png" group-title="Reszta",SUPER POLSAT FHD
 http://199.115.193.116:8080/4434642241884585/4434642241884585/395682
-#EXTINF:-1 tvg-id="" tvg-name="SUPER POLSAT HD" tvg-logo="http://sltv-logo.cms-s.com/logo/2021mixlogo/SPOLSAT.png" group-title="23.05.2027",SUPER POLSAT HD
+#EXTINF:-1 tvg-id="" tvg-name="SUPER POLSAT HD" tvg-logo="http://sltv-logo.cms-s.com/logo/2021mixlogo/SPOLSAT.png" group-title="Reszta",SUPER POLSAT HD
 http://199.115.193.116:8080/4434642241884585/4434642241884585/395681395736
 #EXTINF:-1 tvg-id="" tvg-name="POLSAT SPORT PREMIUM 1 FHD" tvg-logo="https://epg.ovh/logo/Polsat+Sport+Premium+1a.png" group-title="POLSAT SPORT PREMIUM 1",POLSAT SPORT PREMIUM 1 FHD
 http://199.115.193.116:8080/4434642241884585/4434642241884585/395735
@@ -872,9 +833,9 @@ http://199.115.193.116:8080/4434642241884585/4434642241884585/395728
 http://199.115.193.116:8080/4434642241884585/4434642241884585/395658
 #EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 4 HD" tvg-logo="https://epg.ovh/logo/Canal++Sport+4+HD.png" group-title="CANAL+ SPORT 4",CANAL+ SPORT 4 HD
 http://199.115.193.116:8080/4434642241884585/4434642241884585/395749
-#EXTINF:-1 tvg-id="" tvg-name="GOLF CHANNEL HD" tvg-logo="http://sltv-logo.cms-s.com/logo/POLONIA/GOLFCHANNEL.png" group-title="23.05.2027",GOLF CHANNEL HD
+#EXTINF:-1 tvg-id="" tvg-name="GOLF CHANNEL HD" tvg-logo="http://sltv-logo.cms-s.com/logo/POLONIA/GOLFCHANNEL.png" group-title="Reszta",GOLF CHANNEL HD
 http://199.115.193.116:8080/4434642241884585/4434642241884585/395748
-#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB HD" tvg-logo="http://sltv-logo.cms-s.com/logo/POLONIA/SPORTKLUBHD.png" group-title="23.05.2027",SPORT KLUB HD
+#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB HD" tvg-logo="http://sltv-logo.cms-s.com/logo/POLONIA/SPORTKLUBHD.png" group-title="Reszta",SPORT KLUB HD
 http://199.115.193.116:8080/4434642241884585/4434642241884585/395747
 
 
