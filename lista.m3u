@@ -244,25 +244,25 @@ http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/53125.m3u8
 #EXTINF:-1 tvg-id="polsatsportfight.pl" tvg-name="POLSAT SPORT FIGHT FHD" tvg-logo="https://logo.itvn.io/Polsat+Sport+Fight.png" group-title="POLSAT SPORT",POLSAT SPORT FIGHT FHD
 http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/117493.m3u8
 
-#EXTINF:-1 tvg-id="Eurosport" tvg-name="EUROSPORT 1 FHD" tvg-logo="https://logo.itvn.io/Eurosport.png" group-title="Sporty",EUROSPORT 1 FHD
+#EXTINF:-1 tvg-id="Eurosport" tvg-name="EUROSPORT 1 FHD" tvg-logo="https://logo.itvn.io/Eurosport.png" group-title="EUROSPORT",EUROSPORT 1 FHD
 http://line.premiumpowers.net:80/84GkDDzqyvUk/r4V2tsBy92/880453
-#EXTINF:-1 tvg-id="Eurosport" tvg-name="EUROSPORT 1 HD" tvg-logo="https://logo.itvn.io/Eurosport.png" group-title="Sporty",EUROSPORT 1 HD
+#EXTINF:-1 tvg-id="Eurosport" tvg-name="EUROSPORT 1 HD" tvg-logo="https://logo.itvn.io/Eurosport.png" group-title="EUROSPORT",EUROSPORT 1 HD
 http://line.premiumpowers.net:80/84GkDDzqyvUk/r4V2tsBy92/880313
-#EXTINF:-1 tvg-id="eurosport1.pl" tvg-name="EUROSPORT 1 FHD" tvg-logo="https://logo.itvn.io/Eurosport.png" group-title="Sporty",EUROSPORT 1 FHD
+#EXTINF:-1 tvg-id="eurosport1.pl" tvg-name="EUROSPORT 1 FHD" tvg-logo="https://logo.itvn.io/Eurosport.png" group-title="EUROSPORT",EUROSPORT 1 FHD
 http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/117403.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 HD" tvg-logo="https://logo.itvn.io/Eurosport.png" group-title="Sporty",EUROSPORT 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 HD" tvg-logo="https://logo.itvn.io/Eurosport.png" group-title="EUROSPORT",EUROSPORT 1 HD
 http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/53106.m3u8
-#EXTINF:-1 tvg-id="Eurosport" tvg-name="Eurosport 1 HD" tvg-logo="https://logo.itvn.io/Eurosport.png" group-title="Sporty",Eurosport 1 HD
+#EXTINF:-1 tvg-id="Eurosport" tvg-name="Eurosport 1 HD" tvg-logo="https://logo.itvn.io/Eurosport.png" group-title="EUROSPORT",Eurosport 1 HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2319.ts
-#EXTINF:-1 tvg-id="Eurosport2.pl" tvg-name="EUROSPORT 2 FHD" tvg-logo="https://logo.itvn.io/Eurosport+2.png" group-title="Sporty",EUROSPORT 2 FHD
+#EXTINF:-1 tvg-id="Eurosport2.pl" tvg-name="EUROSPORT 2 FHD" tvg-logo="https://logo.itvn.io/Eurosport+2.png" group-title="EUROSPORT",EUROSPORT 2 FHD
 http://line.premiumpowers.net:80/84GkDDzqyvUk/r4V2tsBy92/880452
-#EXTINF:-1 tvg-id="Eurosport2.pl" tvg-name="EUROSPORT 2 HD" tvg-logo="https://logo.itvn.io/Eurosport+2.png" group-title="Sporty",EUROSPORT 2 HD
+#EXTINF:-1 tvg-id="Eurosport2.pl" tvg-name="EUROSPORT 2 HD" tvg-logo="https://logo.itvn.io/Eurosport+2.png" group-title="EUROSPORT",EUROSPORT 2 HD
 http://line.premiumpowers.net:80/84GkDDzqyvUk/r4V2tsBy92/880312
-#EXTINF:-1 tvg-id="eurosport2.pl" tvg-name="EUROSPORT 2 FHD" tvg-logo="https://logo.itvn.io/Eurosport+2.png" group-title="Sporty",EUROSPORT 2 FHD
+#EXTINF:-1 tvg-id="eurosport2.pl" tvg-name="EUROSPORT 2 FHD" tvg-logo="https://logo.itvn.io/Eurosport+2.png" group-title="EUROSPORT",EUROSPORT 2 FHD
 http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/117404.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 HD" tvg-logo="https://logo.itvn.io/Eurosport+2.png" group-title="Sporty",EUROSPORT 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 HD" tvg-logo="https://logo.itvn.io/Eurosport+2.png" group-title="EUROSPORT",EUROSPORT 2 HD
 http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/53105.m3u8
-#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2 HD" tvg-logo="https://logo.itvn.io/Eurosport+2.png" group-title="Sporty",Eurosport 2 HD
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2 HD" tvg-logo="https://logo.itvn.io/Eurosport+2.png" group-title="EUROSPORT",Eurosport 2 HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2320.ts
 
 
@@ -441,9 +441,9 @@ http://visioblp4k.xyz:8080/Erayyasin/Eray1/561374
 http://visioblp4k.xyz:8080/Erayyasin/Eray1/561373
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canalplusextra4.pl" tvg-name="CANAL+ EXTRA 4" tvg-logo="https://epg.ovh/logo/Canal++Extra+4.png" group-title="CANAL+ EXTRA 4",CANAL+ EXTRA 4
 http://visioblp4k.xyz:8080/Erayyasin/Eray1/561372
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="eurosport1.pl" tvg-name="EUROSPORT 1 HD" tvg-logo="https://i.imgur.com/xsOmB3z.png" group-title="15.08.2026",EUROSPORT 1 HD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="eurosport1.pl" tvg-name="EUROSPORT 1 HD" tvg-logo="https://i.imgur.com/xsOmB3z.png" group-title="EUROSPORT",EUROSPORT 1 HD
 http://visioblp4k.xyz:8080/Erayyasin/Eray1/8491
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="eurosport2.pl" tvg-name="EUROSPORT 2 HD" tvg-logo="https://i.imgur.com/ClaNGPU.png" group-title="15.08.2026",EUROSPORT 2 HD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="eurosport2.pl" tvg-name="EUROSPORT 2 HD" tvg-logo="https://i.imgur.com/ClaNGPU.png" group-title="EUROSPORT",EUROSPORT 2 HD
 http://visioblp4k.xyz:8080/Erayyasin/Eray1/8492
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nsport.pl" tvg-name="NSPORT+ HD" tvg-logo="https://i.imgur.com/sIhN04D.png" group-title="15.08.2026",NSPORT+ HD
 http://visioblp4k.xyz:8080/Erayyasin/Eray1/8480
@@ -469,9 +469,9 @@ http://visioblp4k.xyz:8080/Erayyasin/Eray1/8471
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 HD" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.i-w1YVtr8NUPf7uN2w48agHaAq&pid=Api&P=0&h=220" group-title="29.12.2025",Eurosport 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 HD" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.i-w1YVtr8NUPf7uN2w48agHaAq&pid=Api&P=0&h=220" group-title="EUROSPORT",Eurosport 1 HD
 http://apptv.xyz:8080/702ad56da375/j68Zf2fGA/13034
-#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2 HD" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.7w39B9DUQFFRtHyqQrL3rAHaAv&pid=Api&P=0&h=220" group-title="29.12.2025",Eurosport 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2 HD" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.7w39B9DUQFFRtHyqQrL3rAHaAv&pid=Api&P=0&h=220" group-title="EUROSPORT",Eurosport 2 HD
 http://apptv.xyz:8080/702ad56da375/j68Zf2fGA/13060
 #EXTINF:-1 tvg-id="" tvg-name="Extreme Sports" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.poczM0UAkSeA3cfEXDCW6wHaFr&pid=Api&P=0&h=220" group-title="29.12.2025",Extreme Sports
 http://apptv.xyz:8080/702ad56da375/j68Zf2fGA/8142
@@ -524,9 +524,9 @@ http://apptv.xyz:8080/702ad56da375/j68Zf2fGA/51961
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 FHD" tvg-logo="https://soft.dreamtv.top/logo/logo_category/Poland.png" group-title="12.11.2025",EUROSPORT 1 FHD
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 FHD" tvg-logo="https://soft.dreamtv.top/logo/logo_category/Poland.png" group-title="EUROSPORT",EUROSPORT 1 FHD
 http://4host.cc:8080/05524940541/336699225/411367
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 FHD" tvg-logo="https://soft.dreamtv.top/logo/logo_category/Poland.png" group-title="12.11.2025",EUROSPORT 2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 FHD" tvg-logo="https://soft.dreamtv.top/logo/logo_category/Poland.png" group-title="EUROSPORT",EUROSPORT 2 FHD
 http://4host.cc:8080/05524940541/336699225/411368
 #EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 1 FHD" tvg-logo="https://soft.dreamtv.top/logo/logo_category/Poland.png" group-title="CANAL+ SPORT 1",CANAL+ SPORT 1 FHD
 http://4host.cc:8080/05524940541/336699225/411369
@@ -687,16 +687,16 @@ http://rstm.tvsapp.xyz:8080/besmircanajjj/ku1hmfwA8/86385
 http://rstm.tvsapp.xyz:8080/besmircanajjj/ku1hmfwA8/86386
 #EXTINF:-1, group-title="POLSAT SPORT PREMIUM 6",Polsat Sport Premium PPV 6
 http://rstm.tvsapp.xyz:8080/besmircanajjj/ku1hmfwA8/86387
-#EXTINF:-1, group-title="Sporty",Eurosport 1 HD
+#EXTINF:-1, group-title="EUROSPORT",Eurosport 1 HD
 http://rstm.tvsapp.xyz:8080/besmircanajjj/ku1hmfwA8/13034
-#EXTINF:-1, group-title="Sporty",Eurosport 2 HD
+#EXTINF:-1, group-title="EUROSPORT",Eurosport 2 HD
 http://rstm.tvsapp.xyz:8080/besmircanajjj/ku1hmfwA8/13060
 
 
 
-#EXTINF:-1, group-title="Sporty",EUROSPORT 1 HD
+#EXTINF:-1, group-title="EUROSPORT",EUROSPORT 1 HD
 http://extraott-iptv.com:88/live/0229477349/8104258135/53106.m3u8
-#EXTINF:-1, group-title="Sporty",EUROSPORT 2 HD
+#EXTINF:-1, group-title="EUROSPORT",EUROSPORT 2 HD
 http://extraott-iptv.com:88/live/0229477349/8104258135/53105.m3u8
 #EXTINF:-1, group-title="CANAL+ EXTRA 1",CANAL+ EXTRA 1
 http://extraott-iptv.com:88/live/0229477349/8104258135/401349321.m3u8
@@ -730,9 +730,9 @@ http://extraott-iptv.com:88/live/0229477349/8104258135/117353.m3u8
 http://extraott-iptv.com:88/live/0229477349/8104258135/33622.m3u8
 #EXTINF:-1, group-title="Sporty", SPORT KLUB FHD
 http://extraott-iptv.com:88/live/0229477349/8104258135/117511.m3u8
-#EXTINF:-1, group-title="Sporty", EUROSPORT 1 FHD
+#EXTINF:-1, group-title="EUROSPORT", EUROSPORT 1 FHD
 http://extraott-iptv.com:88/live/0229477349/8104258135/117403.m3u8
-#EXTINF:-1, group-title="Sporty", EUROSPORT 2 FHD
+#EXTINF:-1, group-title="EUROSPORT", EUROSPORT 2 FHD
 http://extraott-iptv.com:88/live/0229477349/8104258135/117404.m3u8
 #EXTINF:-1, group-title="POLSAT SPORT", POLSAT SPORT FHD
 http://extraott-iptv.com:88/live/0229477349/8104258135/117492.m3u8
@@ -806,9 +806,9 @@ http://apptv.xyz:8080/702ad56da375/j68Zf2fGA/13053
 http://apptv.xyz:8080/702ad56da375/j68Zf2fGA/13052
 #EXTINF:-1 tvg-id="" tvg-name="Polsat Sport News" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.5UKj6cXp-UHbhZ1Vn8RiRwAAAA&pid=Api&P=0&h=220" group-title="POLSAT SPORT",Polsat Sport News
 http://apptv.xyz:8080/702ad56da375/j68Zf2fGA/13077
-#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 HD" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.i-w1YVtr8NUPf7uN2w48agHaAq&pid=Api&P=0&h=220" group-title="03.11.2025",Eurosport 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 HD" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.i-w1YVtr8NUPf7uN2w48agHaAq&pid=Api&P=0&h=220" group-title="EUROSPORT",Eurosport 1 HD
 http://apptv.xyz:8080/702ad56da375/j68Zf2fGA/13034
-#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2 HD" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.7w39B9DUQFFRtHyqQrL3rAHaAv&pid=Api&P=0&h=220" group-title="03.11.2025",Eurosport 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2 HD" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.7w39B9DUQFFRtHyqQrL3rAHaAv&pid=Api&P=0&h=220" group-title="EUROSPORT",Eurosport 2 HD
 http://apptv.xyz:8080/702ad56da375/j68Zf2fGA/13060
 #EXTINF:-1 tvg-id="" tvg-name="Extreme Sports" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.poczM0UAkSeA3cfEXDCW6wHaFr&pid=Api&P=0&h=220" group-title="03.11.2025",Extreme Sports
 http://apptv.xyz:8080/702ad56da375/j68Zf2fGA/8142
@@ -832,9 +832,9 @@ http://199.115.193.116:8080/4434642241884585/4434642241884585/395702
 http://199.115.193.116:8080/4434642241884585/4434642241884585/395667
 #EXTINF:-1 tvg-id="" tvg-name="EXTREME SPORTS HD" tvg-logo="https://i7.pngguru.com/preview/332/795/720/extreme-sports-channel-television-channel-logo-tv-others.jpg" group-title="23.05.2027",EXTREME SPORTS HD
 http://199.115.193.116:8080/4434642241884585/4434642241884585/395666
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/2021mixlogo/eurosport2.png" group-title="23.05.2027",EUROSPORT 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/2021mixlogo/eurosport2.png" group-title="EUROSPORT",EUROSPORT 2 HD
 http://199.115.193.116:8080/4434642241884585/4434642241884585/395665
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/2021mixlogo/eurosport1.png" group-title="23.05.2027",EUROSPORT 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/2021mixlogo/eurosport1.png" group-title="EUROSPORT",EUROSPORT 1 HD
 http://199.115.193.116:8080/4434642241884585/4434642241884585/395664
 #EXTINF:-1 tvg-id="" tvg-name="POLSAT SPORT PREMIUM 1 HD" tvg-logo="https://epg.ovh/logo/Polsat+Sport+Premium+6.png" group-title="POLSAT SPORT PREMIUM 1",POLSAT SPORT PREMIUM 1 HD
 http://199.115.193.116:8080/4434642241884585/4434642241884585/395663
@@ -897,9 +897,9 @@ http://vip.atlantistv.de:2086/29DSTRta7Q/5ZMu2AoZnb/52653
 http://vip.atlantistv.de:2086/29DSTRta7Q/5ZMu2AoZnb/52723
 #EXTINF:-1, group-title="27.08.2026", Polsat Sport
 http://vip.atlantistv.de:2086/29DSTRta7Q/5ZMu2AoZnb/52725
-#EXTINF:-1, group-title="27.08.2026", Eurosport
+#EXTINF:-1, group-title="EUROSPORT", Eurosport
 http://vip.atlantistv.de:2086/29DSTRta7Q/5ZMu2AoZnb/52683
-#EXTINF:-1, group-title="27.08.2026", Eurosport 2
+#EXTINF:-1, group-title="EUROSPORT", Eurosport 2
 http://vip.atlantistv.de:2086/29DSTRta7Q/5ZMu2AoZnb/52654
 #EXTINF:-1, group-title="CANAL+ EXTRA 1", Canal+ EXTRA 1
 http://vip.atlantistv.de:2086/29DSTRta7Q/5ZMu2AoZnb/52758
