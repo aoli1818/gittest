@@ -73,19 +73,19 @@ http://line.premiumpowers.net:80/84GkDDzqyvUk/r4V2tsBy92/880406
 #EXTINF:-1 tvg-id="CanalPlusSport5.pl" tvg-name="CANAL+ SPORT 5 HD" tvg-logo="https://sat-kom.co.uk/logos/172.png" group-title="CANAL+ SPORT 5",CANAL+ SPORT 5 HD
 http://line.premiumpowers.net:80/84GkDDzqyvUk/r4V2tsBy92/880266
 
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ 360 FHD" tvg-logo="http://picons.cmshulk.com/picons/880500.png" group-title="Sporty",CANAL+ 360 FHD
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ 360 FHD" tvg-logo="http://picons.cmshulk.com/picons/880500.png" group-title="CANAL+ 360",CANAL+ 360 FHD
 http://line.premiumpowers.net:80/84GkDDzqyvUk/r4V2tsBy92/880500
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ 360 HD" tvg-logo="http://picons.cmshulk.com/picons/880360.png" group-title="Sporty",CANAL+ 360 HD
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ 360 HD" tvg-logo="http://picons.cmshulk.com/picons/880360.png" group-title="CANAL+ 360",CANAL+ 360 HD
 http://line.premiumpowers.net:80/84GkDDzqyvUk/r4V2tsBy92/880360
-#EXTINF:-1 tvg-id="C+Now.pl" tvg-name="CANAL+ NOW FHD" tvg-logo="https://lo1.in/pol/cpn.png" group-title="Sporty",CANAL+ NOW FHD
+#EXTINF:-1 tvg-id="C+Now.pl" tvg-name="CANAL+ NOW FHD" tvg-logo="https://lo1.in/pol/cpn.png" group-title="CANAL+ NOW",CANAL+ NOW FHD
 http://line.premiumpowers.net:80/84GkDDzqyvUk/r4V2tsBy92/880499
-#EXTINF:-1 tvg-id="C+Now.pl" tvg-name="CANAL+ NOW HD" tvg-logo="https://lo1.in/pol/cpn.png" group-title="Sporty",CANAL+ NOW HD
+#EXTINF:-1 tvg-id="C+Now.pl" tvg-name="CANAL+ NOW HD" tvg-logo="https://lo1.in/pol/cpn.png" group-title="CANAL+ NOW",CANAL+ NOW HD
 http://line.premiumpowers.net:80/84GkDDzqyvUk/r4V2tsBy92/880359
-#EXTINF:-1 tvg-id="canalplusnow.pl" tvg-name="CANAL+ NOW FHD" tvg-logo="https://lo1.in/pol/cpn.png" group-title="Sporty",CANAL+ NOW FHD
+#EXTINF:-1 tvg-id="canalplusnow.pl" tvg-name="CANAL+ NOW FHD" tvg-logo="https://lo1.in/pol/cpn.png" group-title="CANAL+ NOW",CANAL+ NOW FHD
 http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/9659.m3u8
-#EXTINF:-1 tvg-id="canalplusnow.pl" tvg-name="CANAL+ NOW HD" tvg-logo="https://lo1.in/pol/cpn.png" group-title="Sporty",CANAL+ NOW HD
+#EXTINF:-1 tvg-id="canalplusnow.pl" tvg-name="CANAL+ NOW HD" tvg-logo="https://lo1.in/pol/cpn.png" group-title="CANAL+ NOW",CANAL+ NOW HD
 http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/117344.m3u8
-#EXTINF:-1 tvg-id="Canal+ Now" tvg-name="Canal+ Now" tvg-logo="https://sat-kom.co.uk/logos/371.png" group-title="Sporty",Canal+ Now
+#EXTINF:-1 tvg-id="Canal+ Now" tvg-name="Canal+ Now" tvg-logo="https://sat-kom.co.uk/logos/371.png" group-title="CANAL+ NOW",Canal+ Now
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7271.ts
 
 
@@ -374,7 +374,7 @@ http://line.premiumpowers.net:80/84GkDDzqyvUk/r4V2tsBy92/880413
 http://line.premiumpowers.net:80/84GkDDzqyvUk/r4V2tsBy92/880273
 
 
-#EXTINF:-1 tvg-id="Canal+ Now" tvg-name="Canal+ Now" tvg-logo="https://sat-kom.co.uk/logos/371.png" group-title="Sporty",Canal+ Now
+#EXTINF:-1 tvg-id="Canal+ Now" tvg-name="Canal+ Now" tvg-logo="https://sat-kom.co.uk/logos/371.png" group-title="CANAL+ NOW",Canal+ Now
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7271.ts
 #EXTINF:-1 tvg-id="TVP Sport" tvg-name="TVP Sport HD" tvg-logo="https://sat-kom.co.uk/logos/173.png" group-title="Sporty",TVP Sport HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2310.ts
