@@ -5,21 +5,21 @@ http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/378832.m3u8
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/4869.ts
 
 
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ EXTRA 01" tvg-logo="https://logo.itvn.io/Canal++Extra+1.png" group-title="Sporty",CANAL+ EXTRA 01
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ EXTRA 01" tvg-logo="https://logo.itvn.io/Canal++Extra+1.png" group-title="Sporty",CANAL+ extra 1
 http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/401349321.m3u8
-#EXTINF:-1 tvg-id="Canal+ Extra 1" tvg-name="CANAL+ EXTRA 01" tvg-logo="https://logo.itvn.io/Canal++Extra+1.png" group-title="Sporty",CANAL+ EXTRA 01
+#EXTINF:-1 tvg-id="Canal+ Extra 1" tvg-name="CANAL+ EXTRA 01" tvg-logo="https://logo.itvn.io/Canal++Extra+1.png" group-title="Sporty",CANAL+ extra 1
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7694.ts
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ EXTRA 02" tvg-logo="https://logo.itvn.io/Canal++Extra+2.png" group-title="Sporty",CANAL+ EXTRA 02
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ EXTRA 02" tvg-logo="https://logo.itvn.io/Canal++Extra+2.png" group-title="Sporty",CANAL+ extra 2
 http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/401349320.m3u8
-#EXTINF:-1 tvg-id="Canal+ Extra 2" tvg-name="CANAL+ EXTRA 02" tvg-logo="https://logo.itvn.io/Canal++Extra+2.png" group-title="Sporty",CANAL+ EXTRA 02
+#EXTINF:-1 tvg-id="Canal+ Extra 2" tvg-name="CANAL+ EXTRA 02" tvg-logo="https://logo.itvn.io/Canal++Extra+2.png" group-title="Sporty",CANAL+ extra 2
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7695.ts
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ EXTRA 03" tvg-logo="https://logo.itvn.io/Canal++Extra+3.png" group-title="Sporty",CANAL+ EXTRA 03
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ EXTRA 03" tvg-logo="https://logo.itvn.io/Canal++Extra+3.png" group-title="Sporty",CANAL+ extra 3
 http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/401349319.m3u8
-#EXTINF:-1 tvg-id="Canal+ Extra 3" tvg-name="CANAL+ EXTRA 03" tvg-logo="https://logo.itvn.io/Canal++Extra+3.png" group-title="Sporty",CANAL+ EXTRA 03
+#EXTINF:-1 tvg-id="Canal+ Extra 3" tvg-name="CANAL+ EXTRA 03" tvg-logo="https://logo.itvn.io/Canal++Extra+3.png" group-title="Sporty",CANAL+ extra 3
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7696.ts
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ EXTRA 04" tvg-logo="https://logo.itvn.io/Canal++Extra+4.png" group-title="Sporty",CANAL+ EXTRA 04
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ EXTRA 04" tvg-logo="https://logo.itvn.io/Canal++Extra+4.png" group-title="Sporty",CANAL+ extra 4
 http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/401349318.m3u8
-#EXTINF:-1 tvg-id="Canal+ Extra 4" tvg-name="CANAL+ EXTRA 04" tvg-logo="https://logo.itvn.io/Canal++Extra+4.png" group-title="Sporty",CANAL+ EXTRA 04
+#EXTINF:-1 tvg-id="Canal+ Extra 4" tvg-name="CANAL+ EXTRA 04" tvg-logo="https://logo.itvn.io/Canal++Extra+4.png" group-title="Sporty",CANAL+ extra 4
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7693.ts
 #EXTINF:-1 tvg-id="" tvg-name="CANAL+ EXTRA 05" tvg-logo="https://logo.itvn.io/Canal++Extra+5.png" group-title="Sporty",CANAL+ EXTRA 05
 http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/401349317.m3u8
@@ -1661,17 +1661,17 @@ http://rstm.tvsapp.xyz:8080/besmircanajjj/ku1hmfwA8/13060
 http://extraott-iptv.com:88/live/0229477349/8104258135/53106.m3u8
 #EXTINF:-1,PL| EUROSPORT 2 HD
 http://extraott-iptv.com:88/live/0229477349/8104258135/53105.m3u8
-#EXTINF:-1,PL| CANAL+ EXTRA 01
+#EXTINF:-1,PL| CANAL+ extra 1
 http://extraott-iptv.com:88/live/0229477349/8104258135/401349321.m3u8
-#EXTINF:-1,PL| CANAL+ EXTRA 02
+#EXTINF:-1,PL| CANAL+ extra 2
 http://extraott-iptv.com:88/live/0229477349/8104258135/401349320.m3u8
-#EXTINF:-1,PL| CANAL+ EXTRA 03
+#EXTINF:-1,PL| CANAL+ extra 3
 http://extraott-iptv.com:88/live/0229477349/8104258135/401349319.m3u8
-#EXTINF:-1,PL| CANAL+ EXTRA 04
+#EXTINF:-1,PL| CANAL+ extra 4
 http://extraott-iptv.com:88/live/0229477349/8104258135/401349318.m3u8
-#EXTINF:-1,PL| CANAL+ EXTRA 05
+#EXTINF:-1,PL| CANAL+ EXTRA 5
 http://extraott-iptv.com:88/live/0229477349/8104258135/401349317.m3u8
-#EXTINF:-1,PL| CANAL+ EXTRA 06
+#EXTINF:-1,PL| CANAL+ EXTRA 6
 http://extraott-iptv.com:88/live/0229477349/8104258135/401349316.m3u8
 #EXTINF:-1,PL| CANAL+ EXTRA 07
 http://extraott-iptv.com:88/live/0229477349/8104258135/401349315.m3u8
