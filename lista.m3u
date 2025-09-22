@@ -5,72 +5,72 @@ http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/378832.m3u8
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/4869.ts
 
 
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ EXTRA 1" tvg-logo="https://logo.itvn.io/Canal++Extra+1.png" group-title="Sporty",CANAL+ EXTRA 1
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ EXTRA 1" tvg-logo="https://logo.itvn.io/Canal++Extra+1.png" group-title="CANAL+ EXTRA 1",CANAL+ EXTRA 1
 http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/401349321.m3u8
-#EXTINF:-1 tvg-id="Canal+ Extra 1" tvg-name="CANAL+ EXTRA 01" tvg-logo="https://logo.itvn.io/Canal++Extra+1.png" group-title="Sporty",CANAL+ EXTRA 1
+#EXTINF:-1 tvg-id="Canal+ Extra 1" tvg-name="CANAL+ EXTRA 01" tvg-logo="https://logo.itvn.io/Canal++Extra+1.png" group-title="CANAL+ EXTRA 1",CANAL+ EXTRA 1
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7694.ts
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ EXTRA 2" tvg-logo="https://logo.itvn.io/Canal++Extra+2.png" group-title="Sporty",CANAL+ EXTRA 2
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ EXTRA 2" tvg-logo="https://logo.itvn.io/Canal++Extra+2.png" group-title="CANAL+ EXTRA 2",CANAL+ EXTRA 2
 http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/401349320.m3u8
-#EXTINF:-1 tvg-id="Canal+ Extra 2" tvg-name="CANAL+ EXTRA 02" tvg-logo="https://logo.itvn.io/Canal++Extra+2.png" group-title="Sporty",CANAL+ EXTRA 2
+#EXTINF:-1 tvg-id="Canal+ Extra 2" tvg-name="CANAL+ EXTRA 02" tvg-logo="https://logo.itvn.io/Canal++Extra+2.png" group-title="CANAL+ EXTRA 2",CANAL+ EXTRA 2
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7695.ts
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ EXTRA 3" tvg-logo="https://logo.itvn.io/Canal++Extra+3.png" group-title="Sporty",CANAL+ EXTRA 3
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ EXTRA 3" tvg-logo="https://logo.itvn.io/Canal++Extra+3.png" group-title="CANAL+ EXTRA 3",CANAL+ EXTRA 3
 http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/401349319.m3u8
-#EXTINF:-1 tvg-id="Canal+ Extra 3" tvg-name="CANAL+ EXTRA 03" tvg-logo="https://logo.itvn.io/Canal++Extra+3.png" group-title="Sporty",CANAL+ EXTRA 3
+#EXTINF:-1 tvg-id="Canal+ Extra 3" tvg-name="CANAL+ EXTRA 03" tvg-logo="https://logo.itvn.io/Canal++Extra+3.png" group-title="CANAL+ EXTRA 3",CANAL+ EXTRA 3
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7696.ts
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ EXTRA 4" tvg-logo="https://logo.itvn.io/Canal++Extra+4.png" group-title="Sporty",CANAL+ EXTRA 4
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ EXTRA 4" tvg-logo="https://logo.itvn.io/Canal++Extra+4.png" group-title="CANAL+ EXTRA 4",CANAL+ EXTRA 4
 http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/401349318.m3u8
-#EXTINF:-1 tvg-id="Canal+ EXTRA 4" tvg-name="CANAL+ EXTRA 04" tvg-logo="https://logo.itvn.io/Canal++Extra+4.png" group-title="Sporty",CANAL+ EXTRA 4
+#EXTINF:-1 tvg-id="Canal+ EXTRA 4" tvg-name="CANAL+ EXTRA 04" tvg-logo="https://logo.itvn.io/Canal++Extra+4.png" group-title="CANAL+ EXTRA 4",CANAL+ EXTRA 4
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7693.ts
 
 
 
-#EXTINF:-1 tvg-id="canalplussport.pl" tvg-name="CANAL+ SPORT 1 FHD" tvg-logo="https://lo1.in/pol/cs.png" group-title="Sporty",CANAL+ SPORT 1 FHD
+#EXTINF:-1 tvg-id="canalplussport.pl" tvg-name="CANAL+ SPORT 1 FHD" tvg-logo="https://lo1.in/pol/cs.png" group-title="CANAL+ SPORT 1",CANAL+ SPORT 1 FHD
 http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/117348.m3u8
-#EXTINF:-1 tvg-id="canalplussport.pl" tvg-name="CANAL+ SPORT 1 HD" tvg-logo="https://lo1.in/pol/cs.png" group-title="Sporty",CANAL+ SPORT 1 HD
+#EXTINF:-1 tvg-id="canalplussport.pl" tvg-name="CANAL+ SPORT 1 HD" tvg-logo="https://lo1.in/pol/cs.png" group-title="CANAL+ SPORT 1",CANAL+ SPORT 1 HD
 http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/9634.m3u8
-#EXTINF:-1 tvg-id="Canal+ Sport" tvg-name="CANAL+ SPORT 1 HD" tvg-logo="https://lo1.in/pol/cs.png" group-title="Sporty",CANAL+ SPORT 1 HD
+#EXTINF:-1 tvg-id="Canal+ Sport" tvg-name="CANAL+ SPORT 1 HD" tvg-logo="https://lo1.in/pol/cs.png" group-title="CANAL+ SPORT 1",CANAL+ SPORT 1 HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2315.ts
-#EXTINF:-1 tvg-id="CanalPlusSport.pl" tvg-name="CANAL+ SPORT FHD" tvg-logo="https://lo1.in/pol/cs.png" group-title="Sporty",CANAL+ SPORT FHD
+#EXTINF:-1 tvg-id="CanalPlusSport.pl" tvg-name="CANAL+ SPORT FHD" tvg-logo="https://lo1.in/pol/cs.png" group-title="CANAL+ SPORT 1",CANAL+ SPORT FHD
 http://line.premiumpowers.net:80/84GkDDzqyvUk/r4V2tsBy92/880461
-#EXTINF:-1 tvg-id="CanalPlusSport.pl" tvg-name="CANAL+ SPORT HD" tvg-logo="https://lo1.in/pol/cs.png" group-title="Sporty",CANAL+ SPORT HD
+#EXTINF:-1 tvg-id="CanalPlusSport.pl" tvg-name="CANAL+ SPORT HD" tvg-logo="https://lo1.in/pol/cs.png" group-title="CANAL+ SPORT 1",CANAL+ SPORT HD
 http://line.premiumpowers.net:80/84GkDDzqyvUk/r4V2tsBy92/880321
-#EXTINF:-1 tvg-id="canalplussport2.pl" tvg-name="CANAL+ SPORT 2 FHD" tvg-logo="https://lo1.in/pol/cs2.png" group-title="Sporty",CANAL+ SPORT 2 FHD
+#EXTINF:-1 tvg-id="canalplussport2.pl" tvg-name="CANAL+ SPORT 2 FHD" tvg-logo="https://lo1.in/pol/cs2.png" group-title="CANAL+ SPORT 2",CANAL+ SPORT 2 FHD
 http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/117351.m3u8
-#EXTINF:-1 tvg-id="canalplussport2.pl" tvg-name="CANAL+ SPORT 2 HD" tvg-logo="https://lo1.in/pol/ccs2.png" group-title="Sporty",CANAL+ SPORT 2 HD
+#EXTINF:-1 tvg-id="canalplussport2.pl" tvg-name="CANAL+ SPORT 2 HD" tvg-logo="https://lo1.in/pol/ccs2.png" group-title="CANAL+ SPORT 2",CANAL+ SPORT 2 HD
 http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/117338.m3u8
-#EXTINF:-1 tvg-id="Canal+ Sport 2" tvg-name="CANAL+ SPORT 2 HD" tvg-logo="https://lo1.in/pol/cs2.png" group-title="Sporty",CANAL+ SPORT 2 HD
+#EXTINF:-1 tvg-id="Canal+ Sport 2" tvg-name="CANAL+ SPORT 2 HD" tvg-logo="https://lo1.in/pol/cs2.png" group-title="CANAL+ SPORT 2",CANAL+ SPORT 2 HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2316.ts
-#EXTINF:-1 tvg-id="CanalPlusSport2.pl" tvg-name="CANAL+ SPORT 2 FHD" tvg-logo="https://lo1.in/pol/cs2.png" group-title="Sporty",CANAL+ SPORT 2 FHD
+#EXTINF:-1 tvg-id="CanalPlusSport2.pl" tvg-name="CANAL+ SPORT 2 FHD" tvg-logo="https://lo1.in/pol/cs2.png" group-title="CANAL+ SPORT 2",CANAL+ SPORT 2 FHD
 http://line.premiumpowers.net:80/84GkDDzqyvUk/r4V2tsBy92/880460
-#EXTINF:-1 tvg-id="CanalPlusSport2.pl" tvg-name="CANAL+ SPORT 2 HD" tvg-logo="https://lo1.in/pol/cs2.png" group-title="Sporty",CANAL+ SPORT 2 HD
+#EXTINF:-1 tvg-id="CanalPlusSport2.pl" tvg-name="CANAL+ SPORT 2 HD" tvg-logo="https://lo1.in/pol/cs2.png" group-title="CANAL+ SPORT 2",CANAL+ SPORT 2 HD
 http://line.premiumpowers.net:80/84GkDDzqyvUk/r4V2tsBy92/880320
-#EXTINF:-1 tvg-id="canalplussport3.pl" tvg-name="CANAL+ SPORT 3 FHD" tvg-logo="https://lo1.in/pol/cs3.png" group-title="Sporty",CANAL+ SPORT 3 FHD
+#EXTINF:-1 tvg-id="canalplussport3.pl" tvg-name="CANAL+ SPORT 3 FHD" tvg-logo="https://lo1.in/pol/cs3.png" group-title="CANAL+ SPORT 3",CANAL+ SPORT 3 FHD
 http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/117352.m3u8
-#EXTINF:-1 tvg-id="canalplussport3.pl" tvg-name="CANAL+ SPORT 3 HD" tvg-logo="https://lo1.in/pol/cs3.png" group-title="Sporty",CANAL+ SPORT 3 HD
+#EXTINF:-1 tvg-id="canalplussport3.pl" tvg-name="CANAL+ SPORT 3 HD" tvg-logo="https://lo1.in/pol/cs3.png" group-title="CANAL+ SPORT 3",CANAL+ SPORT 3 HD
 http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/9633.m3u8
-#EXTINF:-1 tvg-id="Canal+ Sport 3" tvg-name="CANAL+ SPORT 3 HD" tvg-logo="https://lo1.in/pol/cs3.png" group-title="Sporty",CANAL+ SPORT 3 HD
+#EXTINF:-1 tvg-id="Canal+ Sport 3" tvg-name="CANAL+ SPORT 3 HD" tvg-logo="https://lo1.in/pol/cs3.png" group-title="CANAL+ SPORT 3",CANAL+ SPORT 3 HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2317.ts
-#EXTINF:-1 tvg-id="CanalPlusSport3.pl" tvg-name="CANAL+ SPORT 3 FHD" tvg-logo="https://lo1.in/pol/cs3.png" group-title="Sporty",CANAL+ SPORT 3 FHD
+#EXTINF:-1 tvg-id="CanalPlusSport3.pl" tvg-name="CANAL+ SPORT 3 FHD" tvg-logo="https://lo1.in/pol/cs3.png" group-title="CANAL+ SPORT 3",CANAL+ SPORT 3 FHD
 http://line.premiumpowers.net:80/84GkDDzqyvUk/r4V2tsBy92/880459
-#EXTINF:-1 tvg-id="CanalPlusSport3.pl" tvg-name="CANAL+ SPORT 3 HD" tvg-logo="https://lo1.in/pol/cs3.png" group-title="Sporty",CANAL+ SPORT 3 HD
+#EXTINF:-1 tvg-id="CanalPlusSport3.pl" tvg-name="CANAL+ SPORT 3 HD" tvg-logo="https://lo1.in/pol/cs3.png" group-title="CANAL+ SPORT 3",CANAL+ SPORT 3 HD
 http://line.premiumpowers.net:80/84GkDDzqyvUk/r4V2tsBy92/880319
-#EXTINF:-1 tvg-id="canalplussport4.pl" tvg-name="CANAL+ SPORT 4 FHD" tvg-logo="https://lo1.in/pol/cs4.png" group-title="Sporty",CANAL+ SPORT 4 FHD
+#EXTINF:-1 tvg-id="canalplussport4.pl" tvg-name="CANAL+ SPORT 4 FHD" tvg-logo="https://lo1.in/pol/cs4.png" group-title="CANAL+ SPORT 4",CANAL+ SPORT 4 FHD
 http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/117353.m3u8
-#EXTINF:-1 tvg-id="canalplussport4.pl" tvg-name="CANAL+ SPORT 4 HD" tvg-logo="https://lo1.in/pol/cs4.png" group-title="Sporty",CANAL+ SPORT 4 HD
+#EXTINF:-1 tvg-id="canalplussport4.pl" tvg-name="CANAL+ SPORT 4 HD" tvg-logo="https://lo1.in/pol/cs4.png" group-title="CANAL+ SPORT 4",CANAL+ SPORT 4 HD
 http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/9632.m3u8
-#EXTINF:-1 tvg-id="Canal+ Sport 4" tvg-name="CANAL+ SPORT 4 HD" tvg-logo="https://lo1.in/pol/cs4.png" group-title="Sporty",CANAL+ SPORT 4 HD
+#EXTINF:-1 tvg-id="Canal+ Sport 4" tvg-name="CANAL+ SPORT 4 HD" tvg-logo="https://lo1.in/pol/cs4.png" group-title="CANAL+ SPORT 4",CANAL+ SPORT 4 HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2318.ts
-#EXTINF:-1 tvg-id="CanalPlusSport4.pl" tvg-name="CANAL+ SPORT 4 FHD" tvg-logo="https://lo1.in/pol/cs4.png" group-title="Sporty",CANAL+ SPORT 4 FHD
+#EXTINF:-1 tvg-id="CanalPlusSport4.pl" tvg-name="CANAL+ SPORT 4 FHD" tvg-logo="https://lo1.in/pol/cs4.png" group-title="CANAL+ SPORT 4",CANAL+ SPORT 4 FHD
 http://line.premiumpowers.net:80/84GkDDzqyvUk/r4V2tsBy92/880458
-#EXTINF:-1 tvg-id="CanalPlusSport4.pl" tvg-name="CANAL+ SPORT 4 HD" tvg-logo="https://lo1.in/pol/cs4.png" group-title="Sporty",CANAL+ SPORT 4 HD
+#EXTINF:-1 tvg-id="CanalPlusSport4.pl" tvg-name="CANAL+ SPORT 4 HD" tvg-logo="https://lo1.in/pol/cs4.png" group-title="CANAL+ SPORT 4",CANAL+ SPORT 4 HD
 http://line.premiumpowers.net:80/84GkDDzqyvUk/r4V2tsBy92/880318
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 5 FHD" tvg-logo="https://sat-kom.co.uk/logos/172.png" group-title="Sporty",CANAL+ SPORT 5 FHD
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 5 FHD" tvg-logo="https://sat-kom.co.uk/logos/172.png" group-title="CANAL+ SPORT 5",CANAL+ SPORT 5 FHD
 http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/157144.m3u8
-#EXTINF:-1 tvg-id="Canal+ Sport 5" tvg-name="CANAL+ SPORT 5 HD" tvg-logo="https://sat-kom.co.uk/logos/172.png" group-title="Sporty",CANAL+ SPORT 5 HD
+#EXTINF:-1 tvg-id="Canal+ Sport 5" tvg-name="CANAL+ SPORT 5 HD" tvg-logo="https://sat-kom.co.uk/logos/172.png" group-title="CANAL+ SPORT 5",CANAL+ SPORT 5 HD
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/2321.ts
-#EXTINF:-1 tvg-id="CanalPlusSport5.pl" tvg-name="CANAL+ SPORT 5 FHD" tvg-logo="https://sat-kom.co.uk/logos/172.png" group-title="Sporty",CANAL+ SPORT 5 FHD
+#EXTINF:-1 tvg-id="CanalPlusSport5.pl" tvg-name="CANAL+ SPORT 5 FHD" tvg-logo="https://sat-kom.co.uk/logos/172.png" group-title="CANAL+ SPORT 5",CANAL+ SPORT 5 FHD
 http://line.premiumpowers.net:80/84GkDDzqyvUk/r4V2tsBy92/880406
-#EXTINF:-1 tvg-id="CanalPlusSport5.pl" tvg-name="CANAL+ SPORT 5 HD" tvg-logo="https://sat-kom.co.uk/logos/172.png" group-title="Sporty",CANAL+ SPORT 5 HD
+#EXTINF:-1 tvg-id="CanalPlusSport5.pl" tvg-name="CANAL+ SPORT 5 HD" tvg-logo="https://sat-kom.co.uk/logos/172.png" group-title="CANAL+ SPORT 5",CANAL+ SPORT 5 HD
 http://line.premiumpowers.net:80/84GkDDzqyvUk/r4V2tsBy92/880266
 
 #EXTINF:-1 tvg-id="" tvg-name="CANAL+ 360 FHD" tvg-logo="http://picons.cmshulk.com/picons/880500.png" group-title="Sporty",CANAL+ 360 FHD
@@ -1359,23 +1359,23 @@ http://visioblp4k.xyz:8080/Erayyasin/Eray1/523170
 http://visioblp4k.xyz:8080/Erayyasin/Eray1/523169
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="polsatsportpremium6ppv.pl" tvg-name="POLSAT SPORT PREMIUM 6 HD" tvg-logo="https://i.imgur.com/y8LwAHH.png" group-title="15.08.2026",POLSAT SPORT PREMIUM 6 HD
 http://visioblp4k.xyz:8080/Erayyasin/Eray1/523168
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canalplussport.pl" tvg-name="CANAL+ SPORT HD" tvg-logo="https://i.imgur.com/ZT8zfL2.png" group-title="15.08.2026",CANAL+ SPORT HD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canalplussport.pl" tvg-name="CANAL+ SPORT HD" tvg-logo="https://i.imgur.com/ZT8zfL2.png" group-title="CANAL+ SPORT 1",CANAL+ SPORT HD
 http://visioblp4k.xyz:8080/Erayyasin/Eray1/8481
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canalplussport2.pl" tvg-name="CANAL+ SPORT 2 HD" tvg-logo="https://i.imgur.com/YNErs9N.png" group-title="15.08.2026",CANAL+ SPORT 2 HD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canalplussport2.pl" tvg-name="CANAL+ SPORT 2 HD" tvg-logo="https://i.imgur.com/YNErs9N.png" group-title="CANAL+ SPORT 2",CANAL+ SPORT 2 HD
 http://visioblp4k.xyz:8080/Erayyasin/Eray1/8482
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canalplussport3.pl" tvg-name="CANAL+ SPORT 3 HD" tvg-logo="https://i.imgur.com/RP35ubv.png" group-title="15.08.2026",CANAL+ SPORT 3 HD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canalplussport3.pl" tvg-name="CANAL+ SPORT 3 HD" tvg-logo="https://i.imgur.com/RP35ubv.png" group-title="CANAL+ SPORT 3",CANAL+ SPORT 3 HD
 http://visioblp4k.xyz:8080/Erayyasin/Eray1/8483
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canalplussport4.pl" tvg-name="CANAL+ SPORT 4 HD" tvg-logo="https://i.imgur.com/MAhy86H.png" group-title="15.08.2026",CANAL+ SPORT 4 HD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canalplussport4.pl" tvg-name="CANAL+ SPORT 4 HD" tvg-logo="https://i.imgur.com/MAhy86H.png" group-title="CANAL+ SPORT 4",CANAL+ SPORT 4 HD
 http://visioblp4k.xyz:8080/Erayyasin/Eray1/8484
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canalplussport5.pl" tvg-name="CANAL+ SPORT 5 HD" tvg-logo="https://i.imgur.com/9Fr1uwn.png" group-title="15.08.2026",CANAL+ SPORT 5 HD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canalplussport5.pl" tvg-name="CANAL+ SPORT 5 HD" tvg-logo="https://i.imgur.com/9Fr1uwn.png" group-title="CANAL+ SPORT 5",CANAL+ SPORT 5 HD
 http://visioblp4k.xyz:8080/Erayyasin/Eray1/510216
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canalplusextra1.pl" tvg-name="CANAL+ EXTRA 1" tvg-logo="https://epg.ovh/logo/Canal++Extra+1.png" group-title="15.08.2026",CANAL+ EXTRA 1
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canalplusextra1.pl" tvg-name="CANAL+ EXTRA 1" tvg-logo="https://epg.ovh/logo/Canal++Extra+1.png" group-title="CANAL+ EXTRA 1",CANAL+ EXTRA 1
 http://visioblp4k.xyz:8080/Erayyasin/Eray1/561375
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canalplusextra2.pl" tvg-name="CANAL+ EXTRA 2" tvg-logo="https://epg.ovh/logo/Canal++Extra+2.png" group-title="15.08.2026",CANAL+ EXTRA 2
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canalplusextra2.pl" tvg-name="CANAL+ EXTRA 2" tvg-logo="https://epg.ovh/logo/Canal++Extra+2.png" group-title="CANAL+ EXTRA 2",CANAL+ EXTRA 2
 http://visioblp4k.xyz:8080/Erayyasin/Eray1/561374
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canalplusextra3.pl" tvg-name="CANAL+ EXTRA 3" tvg-logo="https://epg.ovh/logo/Canal++Extra+3.png" group-title="15.08.2026",CANAL+ EXTRA 3
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canalplusextra3.pl" tvg-name="CANAL+ EXTRA 3" tvg-logo="https://epg.ovh/logo/Canal++Extra+3.png" group-title="CANAL+ EXTRA 3",CANAL+ EXTRA 3
 http://visioblp4k.xyz:8080/Erayyasin/Eray1/561373
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canalplusextra4.pl" tvg-name="CANAL+ EXTRA 4" tvg-logo="https://epg.ovh/logo/Canal++Extra+4.png" group-title="15.08.2026",CANAL+ EXTRA 4
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canalplusextra4.pl" tvg-name="CANAL+ EXTRA 4" tvg-logo="https://epg.ovh/logo/Canal++Extra+4.png" group-title="CANAL+ EXTRA 4",CANAL+ EXTRA 4
 http://visioblp4k.xyz:8080/Erayyasin/Eray1/561372
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="eurosport1.pl" tvg-name="EUROSPORT 1 HD" tvg-logo="https://i.imgur.com/xsOmB3z.png" group-title="15.08.2026",EUROSPORT 1 HD
 http://visioblp4k.xyz:8080/Erayyasin/Eray1/8491
@@ -1447,11 +1447,11 @@ http://apptv.xyz:8080/702ad56da375/j68Zf2fGA/86387
 http://apptv.xyz:8080/702ad56da375/j68Zf2fGA/11410
 #EXTINF:-1 tvg-id="" tvg-name="Polsat Sport FIGHT HD" tvg-logo="" group-title="29.12.2025",Polsat Sport FIGHT HD
 http://apptv.xyz:8080/702ad56da375/j68Zf2fGA/11404
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport HD" tvg-logo="" group-title="29.12.2025",Canal+ Sport HD
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport HD" tvg-logo="" group-title="CANAL+ SPORT 1",Canal+ Sport HD
 http://apptv.xyz:8080/702ad56da375/j68Zf2fGA/9508
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport 2 HD" tvg-logo="" group-title="29.12.2025",Canal+ Sport 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport 2 HD" tvg-logo="" group-title="CANAL+ SPORT 2",Canal+ Sport 2 HD
 http://apptv.xyz:8080/702ad56da375/j68Zf2fGA/11411
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport 3 ᶠᴴᴰ" tvg-logo="" group-title="29.12.2025",Canal+ Sport 3 ᶠᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport 3 ᶠᴴᴰ" tvg-logo="" group-title="CANAL+ SPORT 3",Canal+ Sport 3 ᶠᴴᴰ
 http://apptv.xyz:8080/702ad56da375/j68Zf2fGA/51961
 
 
@@ -1464,31 +1464,31 @@ http://apptv.xyz:8080/702ad56da375/j68Zf2fGA/51961
 http://4host.cc:8080/05524940541/336699225/411367
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 FHD" tvg-logo="https://soft.dreamtv.top/logo/logo_category/Poland.png" group-title="12.11.2025",EUROSPORT 2 FHD
 http://4host.cc:8080/05524940541/336699225/411368
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 1 FHD" tvg-logo="https://soft.dreamtv.top/logo/logo_category/Poland.png" group-title="12.11.2025",CANAL+ SPORT 1 FHD
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 1 FHD" tvg-logo="https://soft.dreamtv.top/logo/logo_category/Poland.png" group-title="CANAL+ SPORT 1",CANAL+ SPORT 1 FHD
 http://4host.cc:8080/05524940541/336699225/411369
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 1 HD" tvg-logo="https://soft.dreamtv.top/logo/logo_category/Poland.png" group-title="12.11.2025",CANAL+ SPORT 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 1 HD" tvg-logo="https://soft.dreamtv.top/logo/logo_category/Poland.png" group-title="CANAL+ SPORT 1",CANAL+ SPORT 1 HD
 http://4host.cc:8080/05524940541/336699225/411370
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 1 SD" tvg-logo="https://soft.dreamtv.top/logo/logo_category/Poland.png" group-title="12.11.2025",CANAL+ SPORT 1 SD
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 1 SD" tvg-logo="https://soft.dreamtv.top/logo/logo_category/Poland.png" group-title="CANAL+ SPORT 1",CANAL+ SPORT 1 SD
 http://4host.cc:8080/05524940541/336699225/411371
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 2 FHD" tvg-logo="https://soft.dreamtv.top/logo/logo_category/Poland.png" group-title="12.11.2025",CANAL+ SPORT 2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 2 FHD" tvg-logo="https://soft.dreamtv.top/logo/logo_category/Poland.png" group-title="CANAL+ SPORT 2",CANAL+ SPORT 2 FHD
 http://4host.cc:8080/05524940541/336699225/411372
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 2 HD" tvg-logo="https://soft.dreamtv.top/logo/logo_category/Poland.png" group-title="12.11.2025",CANAL+ SPORT 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 2 HD" tvg-logo="https://soft.dreamtv.top/logo/logo_category/Poland.png" group-title="CANAL+ SPORT 2",CANAL+ SPORT 2 HD
 http://4host.cc:8080/05524940541/336699225/411373
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 2 SD" tvg-logo="https://soft.dreamtv.top/logo/logo_category/Poland.png" group-title="12.11.2025",CANAL+ SPORT 2 SD
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 2 SD" tvg-logo="https://soft.dreamtv.top/logo/logo_category/Poland.png" group-title="CANAL+ SPORT 2",CANAL+ SPORT 2 SD
 http://4host.cc:8080/05524940541/336699225/411374
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 3 FHD" tvg-logo="https://soft.dreamtv.top/logo/logo_category/Poland.png" group-title="12.11.2025",CANAL+ SPORT 3 FHD
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 3 FHD" tvg-logo="https://soft.dreamtv.top/logo/logo_category/Poland.png" group-title="CANAL+ SPORT 3",CANAL+ SPORT 3 FHD
 http://4host.cc:8080/05524940541/336699225/411375
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 3 HD" tvg-logo="https://soft.dreamtv.top/logo/logo_category/Poland.png" group-title="12.11.2025",CANAL+ SPORT 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 3 HD" tvg-logo="https://soft.dreamtv.top/logo/logo_category/Poland.png" group-title="CANAL+ SPORT 3",CANAL+ SPORT 3 HD
 http://4host.cc:8080/05524940541/336699225/411376
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 3 SD" tvg-logo="https://soft.dreamtv.top/logo/logo_category/Poland.png" group-title="12.11.2025",CANAL+ SPORT 3 SD
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 3 SD" tvg-logo="https://soft.dreamtv.top/logo/logo_category/Poland.png" group-title="CANAL+ SPORT 3",CANAL+ SPORT 3 SD
 http://4host.cc:8080/05524940541/336699225/411377
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 4 FHD" tvg-logo="https://soft.dreamtv.top/logo/logo_category/Poland.png" group-title="12.11.2025",CANAL+ SPORT 4 FHD
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 4 FHD" tvg-logo="https://soft.dreamtv.top/logo/logo_category/Poland.png" group-title="CANAL+ SPORT 4",CANAL+ SPORT 4 FHD
 http://4host.cc:8080/05524940541/336699225/411378
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 4 HD" tvg-logo="https://soft.dreamtv.top/logo/logo_category/Poland.png" group-title="12.11.2025",CANAL+ SPORT 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 4 HD" tvg-logo="https://soft.dreamtv.top/logo/logo_category/Poland.png" group-title="CANAL+ SPORT 4",CANAL+ SPORT 4 HD
 http://4host.cc:8080/05524940541/336699225/411379
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 4 SD" tvg-logo="https://soft.dreamtv.top/logo/logo_category/Poland.png" group-title="12.11.2025",CANAL+ SPORT 4 SD
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 4 SD" tvg-logo="https://soft.dreamtv.top/logo/logo_category/Poland.png" group-title="CANAL+ SPORT 4",CANAL+ SPORT 4 SD
 http://4host.cc:8080/05524940541/336699225/411380
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 5 FHD" tvg-logo="https://soft.dreamtv.top/logo/logo_category/Poland.png" group-title="12.11.2025",CANAL+ SPORT 5 FHD
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 5 FHD" tvg-logo="https://soft.dreamtv.top/logo/logo_category/Poland.png" group-title="CANAL+ SPORT 5",CANAL+ SPORT 5 FHD
 http://4host.cc:8080/05524940541/336699225/411381
 #EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 1 FHD" tvg-logo="https://soft.dreamtv.top/logo/logo_category/Poland.png" group-title="12.11.2025",ELEVEN SPORTS 1 FHD
 http://4host.cc:8080/05524940541/336699225/411382
@@ -1587,13 +1587,13 @@ http://4host.cc:8080/05524940541/336699225/411426
 http://rstm.tvsapp.xyz:8080/besmircanajjj/ku1hmfwA8/11410
 #EXTINF:-1,group-title="Sporty",Polsat Sport FIGHT HD
 http://rstm.tvsapp.xyz:8080/besmircanajjj/ku1hmfwA8/11404
-#EXTINF:-1,group-title="Sporty",Canal+ Sport HD
+#EXTINF:-1,group-title="CANAL+ SPORT 1",Canal+ Sport HD
 http://rstm.tvsapp.xyz:8080/besmircanajjj/ku1hmfwA8/9508
-#EXTINF:-1,group-title="Sporty",Canal+ Sport 2 HD
+#EXTINF:-1,group-title="CANAL+ SPORT 2",Canal+ Sport 2 HD
 http://rstm.tvsapp.xyz:8080/besmircanajjj/ku1hmfwA8/11411
-#EXTINF:-1, group-title="Sporty",Canal+ Sport 3 ᶠᴴᴰ
+#EXTINF:-1, group-title="CANAL+ SPORT 3",Canal+ Sport 3 ᶠᴴᴰ
 http://rstm.tvsapp.xyz:8080/besmircanajjj/ku1hmfwA8/51961
-#EXTINF:-1, group-title="Sporty",Canal+ Sport 4 ᶠᴴᴰ
+#EXTINF:-1, group-title="CANAL+ SPORT 4",Canal+ Sport 4 ᶠᴴᴰ
 http://rstm.tvsapp.xyz:8080/besmircanajjj/ku1hmfwA8/51962
 #EXTINF:-1, group-title="Sporty",PTV SPORTS
 http://rstm.tvsapp.xyz:8080/besmircanajjj/ku1hmfwA8/87764
@@ -1634,13 +1634,13 @@ http://rstm.tvsapp.xyz:8080/besmircanajjj/ku1hmfwA8/13060
 http://extraott-iptv.com:88/live/0229477349/8104258135/53106.m3u8
 #EXTINF:-1, group-title="Sporty",EUROSPORT 2 HD
 http://extraott-iptv.com:88/live/0229477349/8104258135/53105.m3u8
-#EXTINF:-1, group-title="Sporty",CANAL+ EXTRA 1
+#EXTINF:-1, group-title="CANAL+ EXTRA 1",CANAL+ EXTRA 1
 http://extraott-iptv.com:88/live/0229477349/8104258135/401349321.m3u8
-#EXTINF:-1, group-title="Sporty",CANAL+ EXTRA 2
+#EXTINF:-1, group-title="CANAL+ EXTRA 2",CANAL+ EXTRA 2
 http://extraott-iptv.com:88/live/0229477349/8104258135/401349320.m3u8
-#EXTINF:-1, group-title="Sporty",CANAL+ EXTRA 3
+#EXTINF:-1, group-title="CANAL+ EXTRA 3",CANAL+ EXTRA 3
 http://extraott-iptv.com:88/live/0229477349/8104258135/401349319.m3u8
-#EXTINF:-1, group-title="Sporty",CANAL+ EXTRA 4
+#EXTINF:-1, group-title="CANAL+ EXTRA 4",CANAL+ EXTRA 4
 http://extraott-iptv.com:88/live/0229477349/8104258135/401349318.m3u8
 #EXTINF:-1, group-title="Sporty",CANAL+ EXTRA 07
 http://extraott-iptv.com:88/live/0229477349/8104258135/401349315.m3u8
@@ -1656,13 +1656,13 @@ http://extraott-iptv.com:88/live/0229477349/8104258135/401729918.m3u8
 http://extraott-iptv.com:88/live/0229477349/8104258135/117493.m3u8
 #EXTINF:-1, group-title="Sporty",TVP SPORT  HD
 http://extraott-iptv.com:88/live/0229477349/8104258135/117581.m3u8
-#EXTINF:-1, group-title="Sporty",CANAL+ SPORT 1 FHD
+#EXTINF:-1, group-title="CANAL+ SPORT 1",CANAL+ SPORT 1 FHD
 http://extraott-iptv.com:88/live/0229477349/8104258135/117348.m3u8
-#EXTINF:-1, group-title="Sporty",CANAL+ SPORT 2 FHD
+#EXTINF:-1, group-title="CANAL+ SPORT 2",CANAL+ SPORT 2 FHD
 http://extraott-iptv.com:88/live/0229477349/8104258135/117351.m3u8
-#EXTINF:-1, group-title="Sporty", CANAL+ SPORT 3 FHD
+#EXTINF:-1, group-title="CANAL+ SPORT 3", CANAL+ SPORT 3 FHD
 http://extraott-iptv.com:88/live/0229477349/8104258135/117352.m3u8
-#EXTINF:-1, group-title="Sporty", CANAL+ SPORT 4 FHD
+#EXTINF:-1, group-title="CANAL+ SPORT 4", CANAL+ SPORT 4 FHD
 http://extraott-iptv.com:88/live/0229477349/8104258135/117353.m3u8
 #EXTINF:-1, group-title="Sporty", POLSAT SPORT HD
 http://extraott-iptv.com:88/live/0229477349/8104258135/33622.m3u8
@@ -1730,13 +1730,13 @@ http://apptv.xyz:8080/702ad56da375/j68Zf2fGA/86285
 http://apptv.xyz:8080/702ad56da375/j68Zf2fGA/11410
 #EXTINF:-1 tvg-id="" tvg-name="Polsat Sport FIGHT HD" tvg-logo="" group-title="03.11.2025",Polsat Sport FIGHT HD
 http://apptv.xyz:8080/702ad56da375/j68Zf2fGA/11404
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport HD" tvg-logo="" group-title="03.11.2025",Canal+ Sport HD
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport HD" tvg-logo="" group-title="CANAL+ SPORT 1",Canal+ Sport HD
 http://apptv.xyz:8080/702ad56da375/j68Zf2fGA/9508
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport 2 HD" tvg-logo="" group-title="03.11.2025",Canal+ Sport 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport 2 HD" tvg-logo="" group-title="CANAL+ SPORT 2",Canal+ Sport 2 HD
 http://apptv.xyz:8080/702ad56da375/j68Zf2fGA/11411
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport 3 ᶠᴴᴰ" tvg-logo="" group-title="03.11.2025",Canal+ Sport 3 ᶠᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport 3 ᶠᴴᴰ" tvg-logo="" group-title="CANAL+ SPORT 3",Canal+ Sport 3 ᶠᴴᴰ
 http://apptv.xyz:8080/702ad56da375/j68Zf2fGA/51961
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport 4 ᶠᴴᴰ" tvg-logo="" group-title="03.11.2025",Canal+ Sport 4 ᶠᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport 4 ᶠᴴᴰ" tvg-logo="" group-title="CANAL+ SPORT 4",Canal+ Sport 4 ᶠᴴᴰ
 http://apptv.xyz:8080/702ad56da375/j68Zf2fGA/51962
 #EXTINF:-1 tvg-id="" tvg-name="Polsat Sport" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.YWVHGT2YGYDRH6ulWhtWNQAAAA&pid=Api&P=0&h=220" group-title="03.11.2025",Polsat Sport
 http://apptv.xyz:8080/702ad56da375/j68Zf2fGA/13053
@@ -1806,9 +1806,9 @@ http://199.115.193.116:8080/4434642241884585/4434642241884585/395730
 http://199.115.193.116:8080/4434642241884585/4434642241884585/395729
 #EXTINF:-1 tvg-id="" tvg-name="POLSAT SPORT PREMIUM 5 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/POLONIA/Polsat_Sport_Premium_PPV.png" group-title="23.05.2027",POLSAT SPORT PREMIUM 5 HD
 http://199.115.193.116:8080/4434642241884585/4434642241884585/395728
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 2 HD" tvg-logo="https://epg.ovh/logo/Canal++Sport+2.png" group-title="23.05.2027",CANAL+ SPORT 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 2 HD" tvg-logo="https://epg.ovh/logo/Canal++Sport+2.png" group-title="CANAL+ SPORT 2",CANAL+ SPORT 2 HD
 http://199.115.193.116:8080/4434642241884585/4434642241884585/395658
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 4 HD" tvg-logo="https://epg.ovh/logo/Canal++Sport+4+HD.png" group-title="23.05.2027",CANAL+ SPORT 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 4 HD" tvg-logo="https://epg.ovh/logo/Canal++Sport+4+HD.png" group-title="CANAL+ SPORT 4",CANAL+ SPORT 4 HD
 http://199.115.193.116:8080/4434642241884585/4434642241884585/395749
 #EXTINF:-1 tvg-id="" tvg-name="GOLF CHANNEL HD" tvg-logo="http://sltv-logo.cms-s.com/logo/POLONIA/GOLFCHANNEL.png" group-title="23.05.2027",GOLF CHANNEL HD
 http://199.115.193.116:8080/4434642241884585/4434642241884585/395748
@@ -1839,13 +1839,13 @@ http://vip.atlantistv.de:2086/29DSTRta7Q/5ZMu2AoZnb/52725
 http://vip.atlantistv.de:2086/29DSTRta7Q/5ZMu2AoZnb/52683
 #EXTINF:-1, group-title="27.08.2026", Eurosport 2
 http://vip.atlantistv.de:2086/29DSTRta7Q/5ZMu2AoZnb/52654
-#EXTINF:-1, group-title="27.08.2026", Canal+ EXTRA 1
+#EXTINF:-1, group-title="CANAL+ EXTRA 1", Canal+ EXTRA 1
 http://vip.atlantistv.de:2086/29DSTRta7Q/5ZMu2AoZnb/52758
-#EXTINF:-1, group-title="27.08.2026", Canal+ EXTRA 2
+#EXTINF:-1, group-title="CANAL+ EXTRA 2", Canal+ EXTRA 2
 http://vip.atlantistv.de:2086/29DSTRta7Q/5ZMu2AoZnb/76349
-#EXTINF:-1, group-title="27.08.2026", Canal+ EXTRA 3
+#EXTINF:-1, group-title="CANAL+ EXTRA 3", Canal+ EXTRA 3
 http://vip.atlantistv.de:2086/29DSTRta7Q/5ZMu2AoZnb/52714
-#EXTINF:-1, group-title="27.08.2026", Canal+ EXTRA 4
+#EXTINF:-1, group-title="CANAL+ EXTRA 4", Canal+ EXTRA 4
 http://vip.atlantistv.de:2086/29DSTRta7Q/5ZMu2AoZnb/52751
 
 
