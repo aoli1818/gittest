@@ -9,9 +9,9 @@ https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/4869.ts
 http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/401349321.m3u8
 #EXTINF:-1 tvg-id="Canal+ Extra 1" tvg-name="CANAL+ EXTRA 01" tvg-logo="https://logo.itvn.io/Canal++Extra+1.png" group-title="CANAL+ EXTRA 1",CANAL+ EXTRA 1
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7694.ts
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ EXTRA 2" tvg-logo="https://logo.itvn.io/Canal++Extra+2.png" group-title="CANAL+ EXTRA 2",CANAL+ EXTRA 2
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ EXTRA 2" tvg-logo="https://logo.itvn.io/Canal++Extra+2.png" group-title="CANAL+ EXTRA 2",CANAL+ EXTRA 21
 http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/401349320.m3u8
-#EXTINF:-1 tvg-id="Canal+ Extra 2" tvg-name="CANAL+ EXTRA 02" tvg-logo="https://logo.itvn.io/Canal++Extra+2.png" group-title="CANAL+ EXTRA 2",CANAL+ EXTRA 2
+#EXTINF:-1 tvg-id="Canal+ Extra 2" tvg-name="CANAL+ EXTRA 02" tvg-logo="https://logo.itvn.io/Canal++Extra+2.png" group-title="CANAL+ EXTRA 2",CANAL+ EXTRA 22
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7695.ts
 #EXTINF:-1 tvg-id="" tvg-name="CANAL+ EXTRA 3" tvg-logo="https://logo.itvn.io/Canal++Extra+3.png" group-title="CANAL+ EXTRA 3",CANAL+ EXTRA 3
 http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/401349319.m3u8
@@ -396,7 +396,7 @@ http://visioblp4k.xyz:8080/Erayyasin/Eray1/8484
 http://visioblp4k.xyz:8080/Erayyasin/Eray1/510216
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canalplusextra1.pl" tvg-name="CANAL+ EXTRA 1" tvg-logo="https://epg.ovh/logo/Canal++Extra+1.png" group-title="CANAL+ EXTRA 1",CANAL+ EXTRA 1
 http://visioblp4k.xyz:8080/Erayyasin/Eray1/561375
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canalplusextra2.pl" tvg-name="CANAL+ EXTRA 2" tvg-logo="https://epg.ovh/logo/Canal++Extra+2.png" group-title="CANAL+ EXTRA 2",CANAL+ EXTRA 2
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canalplusextra2.pl" tvg-name="CANAL+ EXTRA 2" tvg-logo="https://epg.ovh/logo/Canal++Extra+2.png" group-title="CANAL+ EXTRA 2",CANAL+ EXTRA 23
 http://visioblp4k.xyz:8080/Erayyasin/Eray1/561374
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canalplusextra3.pl" tvg-name="CANAL+ EXTRA 3" tvg-logo="https://epg.ovh/logo/Canal++Extra+3.png" group-title="CANAL+ EXTRA 3",CANAL+ EXTRA 3
 http://visioblp4k.xyz:8080/Erayyasin/Eray1/561373
@@ -661,7 +661,7 @@ http://extraott-iptv.com:88/live/0229477349/8104258135/53106.m3u8
 http://extraott-iptv.com:88/live/0229477349/8104258135/53105.m3u8
 #EXTINF:-1, group-title="CANAL+ EXTRA 1",CANAL+ EXTRA 1
 http://extraott-iptv.com:88/live/0229477349/8104258135/401349321.m3u8
-#EXTINF:-1, group-title="CANAL+ EXTRA 2",CANAL+ EXTRA 2
+#EXTINF:-1, group-title="CANAL+ EXTRA 2",CANAL+ EXTRA 24
 http://extraott-iptv.com:88/live/0229477349/8104258135/401349320.m3u8
 #EXTINF:-1, group-title="CANAL+ EXTRA 3",CANAL+ EXTRA 3
 http://extraott-iptv.com:88/live/0229477349/8104258135/401349319.m3u8
@@ -862,13 +862,13 @@ http://vip.atlantistv.de:2086/29DSTRta7Q/5ZMu2AoZnb/52725
 http://vip.atlantistv.de:2086/29DSTRta7Q/5ZMu2AoZnb/52683
 #EXTINF:-1, group-title="EUROSPORT", Eurosport 2
 http://vip.atlantistv.de:2086/29DSTRta7Q/5ZMu2AoZnb/52654
-#EXTINF:-1, group-title="CANAL+ EXTRA 1", Canal+ EXTRA 1
+#EXTINF:-1, group-title="CANAL+ EXTRA 1", CANAL+ EXTRA 1
 http://vip.atlantistv.de:2086/29DSTRta7Q/5ZMu2AoZnb/52758
-#EXTINF:-1, group-title="CANAL+ EXTRA 2", Canal+ EXTRA 2
+#EXTINF:-1, group-title="CANAL+ EXTRA 2", CANAL+ EXTRA 25
 http://vip.atlantistv.de:2086/29DSTRta7Q/5ZMu2AoZnb/76349
-#EXTINF:-1, group-title="CANAL+ EXTRA 3", Canal+ EXTRA 3
+#EXTINF:-1, group-title="CANAL+ EXTRA 3", CANAL+ EXTRA 3
 http://vip.atlantistv.de:2086/29DSTRta7Q/5ZMu2AoZnb/52714
-#EXTINF:-1, group-title="CANAL+ EXTRA 4", Canal+ EXTRA 4
+#EXTINF:-1, group-title="CANAL+ EXTRA 4", CANAL+ EXTRA 4
 http://vip.atlantistv.de:2086/29DSTRta7Q/5ZMu2AoZnb/52751
 
 
@@ -969,7 +969,7 @@ http://viphlvp.xyz:8080/VIP0123170315922243/990012ee4db8/953
 http://viphlvp.xyz:8080/VIP0123170315922243/990012ee4db8/128952
 #EXTINF:-1 tvg-id="Canal+ Extra 1" tvg-name="PL: CANAL+ EXTRA 1" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_EXTRA_1_HD.png" group-title="CANAL+ EXTRA 1",PL: CANAL+ EXTRA 1
 http://viphlvp.xyz:8080/VIP0123170315922243/990012ee4db8/128981
-#EXTINF:-1 tvg-id="Canal+ Extra 2" tvg-name="PL: CANAL+ EXTRA 2" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_EXTRA_2_HD.png" group-title="CANAL+ EXTRA 2",PL: CANAL+ EXTRA 2
+#EXTINF:-1 tvg-id="Canal+ Extra 2" tvg-name="PL: CANAL+ EXTRA 2" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_EXTRA_2_HD.png" group-title="CANAL+ EXTRA 2",PL: CANAL+ EXTRA 26
 http://viphlvp.xyz:8080/VIP0123170315922243/990012ee4db8/128982
 #EXTINF:-1 tvg-id="Canal+ Extra 3" tvg-name="PL: CANAL+ EXTRA 3" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_EXTRA_3_HD.png" group-title="CANAL+ EXTRA 3",PL: CANAL+ EXTRA 3
 http://viphlvp.xyz:8080/VIP0123170315922243/990012ee4db8/128983
@@ -1032,7 +1032,7 @@ http://viphlvp.xyz:8080/VIP0120173296474769/51742199736788/953
 http://viphlvp.xyz:8080/VIP0120173296474769/51742199736788/128952
 #EXTINF:-1 tvg-id="Canal+ Extra 1" tvg-name="PL: CANAL+ EXTRA 1" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_EXTRA_1_HD.png" group-title="CANAL+ EXTRA 1",PL: CANAL+ EXTRA 1
 http://viphlvp.xyz:8080/VIP0120173296474769/51742199736788/128981
-#EXTINF:-1 tvg-id="Canal+ Extra 2" tvg-name="PL: CANAL+ EXTRA 2" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_EXTRA_2_HD.png" group-title="CANAL+ EXTRA 2",PL: CANAL+ EXTRA 2
+#EXTINF:-1 tvg-id="Canal+ Extra 2" tvg-name="PL: CANAL+ EXTRA 2" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_EXTRA_2_HD.png" group-title="CANAL+ EXTRA 2",PL: CANAL+ EXTRA 27
 http://viphlvp.xyz:8080/VIP0120173296474769/51742199736788/128982
 #EXTINF:-1 tvg-id="Canal+ Extra 3" tvg-name="PL: CANAL+ EXTRA 3" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_EXTRA_3_HD.png" group-title="CANAL+ EXTRA 3",PL: CANAL+ EXTRA 3
 http://viphlvp.xyz:8080/VIP0120173296474769/51742199736788/128983
@@ -1095,7 +1095,7 @@ http://viphlvp.xyz:8080/SVIP0182173307021660/41733070216548/953
 http://viphlvp.xyz:8080/SVIP0182173307021660/41733070216548/128952
 #EXTINF:-1 tvg-id="Canal+ Extra 1" tvg-name="PL: CANAL+ EXTRA 1" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_EXTRA_1_HD.png" group-title="CANAL+ EXTRA 1",PL: CANAL+ EXTRA 1
 http://viphlvp.xyz:8080/SVIP0182173307021660/41733070216548/128981
-#EXTINF:-1 tvg-id="Canal+ Extra 2" tvg-name="PL: CANAL+ EXTRA 2" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_EXTRA_2_HD.png" group-title="CANAL+ EXTRA 2",PL: CANAL+ EXTRA 2
+#EXTINF:-1 tvg-id="Canal+ Extra 2" tvg-name="PL: CANAL+ EXTRA 2" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_EXTRA_2_HD.png" group-title="CANAL+ EXTRA 2",PL: CANAL+ EXTRA 28
 http://viphlvp.xyz:8080/SVIP0182173307021660/41733070216548/128982
 #EXTINF:-1 tvg-id="Canal+ Extra 3" tvg-name="PL: CANAL+ EXTRA 3" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_EXTRA_3_HD.png" group-title="CANAL+ EXTRA 3",PL: CANAL+ EXTRA 3
 http://viphlvp.xyz:8080/SVIP0182173307021660/41733070216548/128983
