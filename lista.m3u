@@ -5,21 +5,21 @@ http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/378832.m3u8
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/4869.ts
 
 
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ EXTRA 1" tvg-logo="https://logo.itvn.io/Canal++Extra+1.png" group-title="CANAL+ EXTRA 1",CANAL+ EXTRA 1
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ EXTRA 1" tvg-logo="https://logo.itvn.io/Canal++Extra+1.png" group-title="CANAL+ EXTRA 1",CANAL+ EXTRA 1.1
 http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/401349321.m3u8
-#EXTINF:-1 tvg-id="Canal+ Extra 1" tvg-name="CANAL+ EXTRA 01" tvg-logo="https://logo.itvn.io/Canal++Extra+1.png" group-title="CANAL+ EXTRA 1",CANAL+ EXTRA 1
+#EXTINF:-1 tvg-id="Canal+ Extra 1" tvg-name="CANAL+ EXTRA 01" tvg-logo="https://logo.itvn.io/Canal++Extra+1.png" group-title="CANAL+ EXTRA 1",CANAL+ EXTRA 1.2
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7694.ts
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ EXTRA 2" tvg-logo="https://logo.itvn.io/Canal++Extra+2.png" group-title="CANAL+ EXTRA 2",CANAL+ EXTRA 2
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ EXTRA 2" tvg-logo="https://logo.itvn.io/Canal++Extra+2.png" group-title="CANAL+ EXTRA 2",CANAL+ EXTRA 2.1
 http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/401349320.m3u8
-#EXTINF:-1 tvg-id="Canal+ Extra 2" tvg-name="CANAL+ EXTRA 02" tvg-logo="https://logo.itvn.io/Canal++Extra+2.png" group-title="CANAL+ EXTRA 2",CANAL+ EXTRA 2
+#EXTINF:-1 tvg-id="Canal+ Extra 2" tvg-name="CANAL+ EXTRA 02" tvg-logo="https://logo.itvn.io/Canal++Extra+2.png" group-title="CANAL+ EXTRA 2",CANAL+ EXTRA 2.2
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7695.ts
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ EXTRA 3" tvg-logo="https://logo.itvn.io/Canal++Extra+3.png" group-title="CANAL+ EXTRA 3",CANAL+ EXTRA 3
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ EXTRA 3" tvg-logo="https://logo.itvn.io/Canal++Extra+3.png" group-title="CANAL+ EXTRA 3",CANAL+ EXTRA 3.1
 http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/401349319.m3u8
-#EXTINF:-1 tvg-id="Canal+ Extra 3" tvg-name="CANAL+ EXTRA 03" tvg-logo="https://logo.itvn.io/Canal++Extra+3.png" group-title="CANAL+ EXTRA 3",CANAL+ EXTRA 3
+#EXTINF:-1 tvg-id="Canal+ Extra 3" tvg-name="CANAL+ EXTRA 03" tvg-logo="https://logo.itvn.io/Canal++Extra+3.png" group-title="CANAL+ EXTRA 3",CANAL+ EXTRA 3.2
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7696.ts
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ EXTRA 4" tvg-logo="https://logo.itvn.io/Canal++Extra+4.png" group-title="CANAL+ EXTRA 4",CANAL+ EXTRA 4
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ EXTRA 4" tvg-logo="https://logo.itvn.io/Canal++Extra+4.png" group-title="CANAL+ EXTRA 4",CANAL+ EXTRA 4.1
 http://smzcyat.vpnprime.xyz:80/live/20230201/QWkR1UITxp/401349318.m3u8
-#EXTINF:-1 tvg-id="Canal+ EXTRA 4" tvg-name="CANAL+ EXTRA 04" tvg-logo="https://logo.itvn.io/Canal++Extra+4.png" group-title="CANAL+ EXTRA 4",CANAL+ EXTRA 4
+#EXTINF:-1 tvg-id="Canal+ EXTRA 4" tvg-name="CANAL+ EXTRA 04" tvg-logo="https://logo.itvn.io/Canal++Extra+4.png" group-title="CANAL+ EXTRA 4",CANAL+ EXTRA 4.2
 https://vserver4.no-ip.org:8002/live/ecn2Dv1F9D/pSPitWF37a/7693.ts
 
 
@@ -394,13 +394,13 @@ http://visioblp4k.xyz:8080/Erayyasin/Eray1/8483
 http://visioblp4k.xyz:8080/Erayyasin/Eray1/8484
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canalplussport5.pl" tvg-name="CANAL+ SPORT 5 HD" tvg-logo="https://i.imgur.com/9Fr1uwn.png" group-title="CANAL+ SPORT 5",CANAL+ SPORT 5 HD
 http://visioblp4k.xyz:8080/Erayyasin/Eray1/510216
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canalplusextra1.pl" tvg-name="CANAL+ EXTRA 1" tvg-logo="https://epg.ovh/logo/Canal++Extra+1.png" group-title="CANAL+ EXTRA 1",CANAL+ EXTRA 1
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canalplusextra1.pl" tvg-name="CANAL+ EXTRA 1" tvg-logo="https://epg.ovh/logo/Canal++Extra+1.png" group-title="CANAL+ EXTRA 1",CANAL+ EXTRA 1.3
 http://visioblp4k.xyz:8080/Erayyasin/Eray1/561375
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canalplusextra2.pl" tvg-name="CANAL+ EXTRA 2" tvg-logo="https://epg.ovh/logo/Canal++Extra+2.png" group-title="CANAL+ EXTRA 2",CANAL+ EXTRA 2
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canalplusextra2.pl" tvg-name="CANAL+ EXTRA 2" tvg-logo="https://epg.ovh/logo/Canal++Extra+2.png" group-title="CANAL+ EXTRA 2",CANAL+ EXTRA 2.3
 http://visioblp4k.xyz:8080/Erayyasin/Eray1/561374
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canalplusextra3.pl" tvg-name="CANAL+ EXTRA 3" tvg-logo="https://epg.ovh/logo/Canal++Extra+3.png" group-title="CANAL+ EXTRA 3",CANAL+ EXTRA 3
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canalplusextra3.pl" tvg-name="CANAL+ EXTRA 3" tvg-logo="https://epg.ovh/logo/Canal++Extra+3.png" group-title="CANAL+ EXTRA 3",CANAL+ EXTRA 3.3
 http://visioblp4k.xyz:8080/Erayyasin/Eray1/561373
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canalplusextra4.pl" tvg-name="CANAL+ EXTRA 4" tvg-logo="https://epg.ovh/logo/Canal++Extra+4.png" group-title="CANAL+ EXTRA 4",CANAL+ EXTRA 4
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canalplusextra4.pl" tvg-name="CANAL+ EXTRA 4" tvg-logo="https://epg.ovh/logo/Canal++Extra+4.png" group-title="CANAL+ EXTRA 4",CANAL+ EXTRA 4.3
 http://visioblp4k.xyz:8080/Erayyasin/Eray1/561372
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="eurosport1.pl" tvg-name="EUROSPORT 1 HD" tvg-logo="https://i.imgur.com/xsOmB3z.png" group-title="EUROSPORT",EUROSPORT 1 HD
 http://visioblp4k.xyz:8080/Erayyasin/Eray1/8491
@@ -659,13 +659,13 @@ http://rstm.tvsapp.xyz:8080/besmircanajjj/ku1hmfwA8/13060
 http://extraott-iptv.com:88/live/0229477349/8104258135/53106.m3u8
 #EXTINF:-1, group-title="EUROSPORT",EUROSPORT 2 HD
 http://extraott-iptv.com:88/live/0229477349/8104258135/53105.m3u8
-#EXTINF:-1, group-title="CANAL+ EXTRA 1",CANAL+ EXTRA 1
+#EXTINF:-1, group-title="CANAL+ EXTRA 1",CANAL+ EXTRA 1.4
 http://extraott-iptv.com:88/live/0229477349/8104258135/401349321.m3u8
-#EXTINF:-1, group-title="CANAL+ EXTRA 2",CANAL+ EXTRA 2
+#EXTINF:-1, group-title="CANAL+ EXTRA 2",CANAL+ EXTRA 2.4
 http://extraott-iptv.com:88/live/0229477349/8104258135/401349320.m3u8
-#EXTINF:-1, group-title="CANAL+ EXTRA 3",CANAL+ EXTRA 3
+#EXTINF:-1, group-title="CANAL+ EXTRA 3",CANAL+ EXTRA 3.4
 http://extraott-iptv.com:88/live/0229477349/8104258135/401349319.m3u8
-#EXTINF:-1, group-title="CANAL+ EXTRA 4",CANAL+ EXTRA 4
+#EXTINF:-1, group-title="CANAL+ EXTRA 4",CANAL+ EXTRA 4.4
 http://extraott-iptv.com:88/live/0229477349/8104258135/401349318.m3u8
 #EXTINF:-1, group-title="POLSAT SPORT",POLSAT SPORT 2 FHD
 http://extraott-iptv.com:88/live/0229477349/8104258135/401729921.m3u8
@@ -862,13 +862,13 @@ http://vip.atlantistv.de:2086/29DSTRta7Q/5ZMu2AoZnb/52725
 http://vip.atlantistv.de:2086/29DSTRta7Q/5ZMu2AoZnb/52683
 #EXTINF:-1, group-title="EUROSPORT", Eurosport 2
 http://vip.atlantistv.de:2086/29DSTRta7Q/5ZMu2AoZnb/52654
-#EXTINF:-1, group-title="CANAL+ EXTRA 1", CANAL+ EXTRA 1
+#EXTINF:-1, group-title="CANAL+ EXTRA 1", CANAL+ EXTRA 1.5
 http://vip.atlantistv.de:2086/29DSTRta7Q/5ZMu2AoZnb/52758
-#EXTINF:-1, group-title="CANAL+ EXTRA 2", CANAL+ EXTRA 2
+#EXTINF:-1, group-title="CANAL+ EXTRA 2", CANAL+ EXTRA 2.5
 http://vip.atlantistv.de:2086/29DSTRta7Q/5ZMu2AoZnb/76349
-#EXTINF:-1, group-title="CANAL+ EXTRA 3", CANAL+ EXTRA 3
+#EXTINF:-1, group-title="CANAL+ EXTRA 3", CANAL+ EXTRA 3.5
 http://vip.atlantistv.de:2086/29DSTRta7Q/5ZMu2AoZnb/52714
-#EXTINF:-1, group-title="CANAL+ EXTRA 4", CANAL+ EXTRA 4
+#EXTINF:-1, group-title="CANAL+ EXTRA 4", CANAL+ EXTRA 4.5
 http://vip.atlantistv.de:2086/29DSTRta7Q/5ZMu2AoZnb/52751
 
 
@@ -967,17 +967,17 @@ http://viphlvp.xyz:8080/VIP0123170315922243/990012ee4db8/942
 http://viphlvp.xyz:8080/VIP0123170315922243/990012ee4db8/953
 #EXTINF:-1 tvg-id="Extreme Sports Channel" tvg-name="EXTREME SPORTS" tvg-logo="https://docdog.top/logo/countries/poland/EXTREME_SPORTS_HD.png" group-title="Reszta",EXTREME SPORTS
 http://viphlvp.xyz:8080/VIP0123170315922243/990012ee4db8/128952
-#EXTINF:-1 tvg-id="Canal+ Extra 1" tvg-name="CANAL+ EXTRA 1" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_EXTRA_1_HD.png" group-title="CANAL+ EXTRA 1",CANAL+ EXTRA 1
+#EXTINF:-1 tvg-id="Canal+ Extra 1" tvg-name="CANAL+ EXTRA 1" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_EXTRA_1_HD.png" group-title="CANAL+ EXTRA 1",CANAL+ EXTRA 1.6
 http://viphlvp.xyz:8080/VIP0123170315922243/990012ee4db8/128981
-#EXTINF:-1 tvg-id="Canal+ Extra 2" tvg-name="CANAL+ EXTRA 2" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_EXTRA_2_HD.png" group-title="CANAL+ EXTRA 2",CANAL+ EXTRA 2
+#EXTINF:-1 tvg-id="Canal+ Extra 2" tvg-name="CANAL+ EXTRA 2" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_EXTRA_2_HD.png" group-title="CANAL+ EXTRA 2",CANAL+ EXTRA 2.6
 http://viphlvp.xyz:8080/VIP0123170315922243/990012ee4db8/128982
-#EXTINF:-1 tvg-id="Canal+ Extra 3" tvg-name="CANAL+ EXTRA 3" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_EXTRA_3_HD.png" group-title="CANAL+ EXTRA 3",CANAL+ EXTRA 3
+#EXTINF:-1 tvg-id="Canal+ Extra 3" tvg-name="CANAL+ EXTRA 3" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_EXTRA_3_HD.png" group-title="CANAL+ EXTRA 3",CANAL+ EXTRA 3.6
 http://viphlvp.xyz:8080/VIP0123170315922243/990012ee4db8/128983
-#EXTINF:-1 tvg-id="Canal+ Extra 4" tvg-name="CANAL+ EXTRA 4" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_EXTRA_4_HD.png" group-title="CANAL+ EXTRA 4",CANAL+ EXTRA 4
+#EXTINF:-1 tvg-id="Canal+ Extra 4" tvg-name="CANAL+ EXTRA 4" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_EXTRA_4_HD.png" group-title="CANAL+ EXTRA 4",CANAL+ EXTRA 4.6
 http://viphlvp.xyz:8080/VIP0123170315922243/990012ee4db8/128984
 #EXTINF:-1 tvg-id="" tvg-name="CANAL+ 360" tvg-logo="https://docdog.top/logo/countries/poland/canal+360.png" group-title="CANAL+ 360",CANAL+ 360
 http://viphlvp.xyz:8080/VIP0123170315922243/990012ee4db8/132374
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Reszta",FAME MMA 
+#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="FAME MMA",FAME MMA 
 http://viphlvp.xyz:8080/VIP0123170315922243/990012ee4db8/147084
 
 
@@ -1030,17 +1030,17 @@ http://viphlvp.xyz:8080/VIP0120173296474769/51742199736788/942
 http://viphlvp.xyz:8080/VIP0120173296474769/51742199736788/953
 #EXTINF:-1 tvg-id="Extreme Sports Channel" tvg-name="EXTREME SPORTS" tvg-logo="https://docdog.top/logo/countries/poland/EXTREME_SPORTS_HD.png" group-title="Reszta",EXTREME SPORTS
 http://viphlvp.xyz:8080/VIP0120173296474769/51742199736788/128952
-#EXTINF:-1 tvg-id="Canal+ Extra 1" tvg-name="CANAL+ EXTRA 1" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_EXTRA_1_HD.png" group-title="CANAL+ EXTRA 1",CANAL+ EXTRA 1
+#EXTINF:-1 tvg-id="Canal+ Extra 1" tvg-name="CANAL+ EXTRA 1" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_EXTRA_1_HD.png" group-title="CANAL+ EXTRA 1",CANAL+ EXTRA 1.7
 http://viphlvp.xyz:8080/VIP0120173296474769/51742199736788/128981
-#EXTINF:-1 tvg-id="Canal+ Extra 2" tvg-name="CANAL+ EXTRA 2" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_EXTRA_2_HD.png" group-title="CANAL+ EXTRA 2",CANAL+ EXTRA 2
+#EXTINF:-1 tvg-id="Canal+ Extra 2" tvg-name="CANAL+ EXTRA 2" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_EXTRA_2_HD.png" group-title="CANAL+ EXTRA 2",CANAL+ EXTRA 2.7
 http://viphlvp.xyz:8080/VIP0120173296474769/51742199736788/128982
-#EXTINF:-1 tvg-id="Canal+ Extra 3" tvg-name="CANAL+ EXTRA 3" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_EXTRA_3_HD.png" group-title="CANAL+ EXTRA 3",CANAL+ EXTRA 3
+#EXTINF:-1 tvg-id="Canal+ Extra 3" tvg-name="CANAL+ EXTRA 3" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_EXTRA_3_HD.png" group-title="CANAL+ EXTRA 3",CANAL+ EXTRA 3.7
 http://viphlvp.xyz:8080/VIP0120173296474769/51742199736788/128983
-#EXTINF:-1 tvg-id="Canal+ Extra 4" tvg-name="CANAL+ EXTRA 4" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_EXTRA_4_HD.png" group-title="CANAL+ EXTRA 4",CANAL+ EXTRA 4
+#EXTINF:-1 tvg-id="Canal+ Extra 4" tvg-name="CANAL+ EXTRA 4" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_EXTRA_4_HD.png" group-title="CANAL+ EXTRA 4",CANAL+ EXTRA 4.7
 http://viphlvp.xyz:8080/VIP0120173296474769/51742199736788/128984
 #EXTINF:-1 tvg-id="" tvg-name="CANAL+ 360" tvg-logo="https://docdog.top/logo/countries/poland/canal+360.png" group-title="CANAL+ 360",CANAL+ 360
 http://viphlvp.xyz:8080/VIP0120173296474769/51742199736788/132374
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Reszta",FAME MMA 
+#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="FAME MMA",FAME MMA 
 http://viphlvp.xyz:8080/VIP0120173296474769/51742199736788/147084
 
 
@@ -1093,15 +1093,157 @@ http://viphlvp.xyz:8080/SVIP0182173307021660/41733070216548/942
 http://viphlvp.xyz:8080/SVIP0182173307021660/41733070216548/953
 #EXTINF:-1 tvg-id="Extreme Sports Channel" tvg-name="EXTREME SPORTS" tvg-logo="https://docdog.top/logo/countries/poland/EXTREME_SPORTS_HD.png" group-title="Reszta",EXTREME SPORTS
 http://viphlvp.xyz:8080/SVIP0182173307021660/41733070216548/128952
-#EXTINF:-1 tvg-id="Canal+ Extra 1" tvg-name="CANAL+ EXTRA 1" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_EXTRA_1_HD.png" group-title="CANAL+ EXTRA 1",CANAL+ EXTRA 1
+#EXTINF:-1 tvg-id="Canal+ Extra 1" tvg-name="CANAL+ EXTRA 1" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_EXTRA_1_HD.png" group-title="CANAL+ EXTRA 1",CANAL+ EXTRA 1.8
 http://viphlvp.xyz:8080/SVIP0182173307021660/41733070216548/128981
-#EXTINF:-1 tvg-id="Canal+ Extra 2" tvg-name="CANAL+ EXTRA 2" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_EXTRA_2_HD.png" group-title="CANAL+ EXTRA 2",CANAL+ EXTRA 2
+#EXTINF:-1 tvg-id="Canal+ Extra 2" tvg-name="CANAL+ EXTRA 2" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_EXTRA_2_HD.png" group-title="CANAL+ EXTRA 2",CANAL+ EXTRA 2.8
 http://viphlvp.xyz:8080/SVIP0182173307021660/41733070216548/128982
-#EXTINF:-1 tvg-id="Canal+ Extra 3" tvg-name="CANAL+ EXTRA 3" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_EXTRA_3_HD.png" group-title="CANAL+ EXTRA 3",CANAL+ EXTRA 3
+#EXTINF:-1 tvg-id="Canal+ Extra 3" tvg-name="CANAL+ EXTRA 3" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_EXTRA_3_HD.png" group-title="CANAL+ EXTRA 3",CANAL+ EXTRA 3.8
 http://viphlvp.xyz:8080/SVIP0182173307021660/41733070216548/128983
-#EXTINF:-1 tvg-id="Canal+ Extra 4" tvg-name="CANAL+ EXTRA 4" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_EXTRA_4_HD.png" group-title="CANAL+ EXTRA 4",CANAL+ EXTRA 4
+#EXTINF:-1 tvg-id="Canal+ Extra 4" tvg-name="CANAL+ EXTRA 4" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_EXTRA_4_HD.png" group-title="CANAL+ EXTRA 4",CANAL+ EXTRA 4.8
 http://viphlvp.xyz:8080/SVIP0182173307021660/41733070216548/128984
 #EXTINF:-1 tvg-id="" tvg-name="CANAL+ 360" tvg-logo="https://docdog.top/logo/countries/poland/canal+360.png" group-title="CANAL+ 360",CANAL+ 360
 http://viphlvp.xyz:8080/SVIP0182173307021660/41733070216548/132374
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Reszta",FAME MMA 
+#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="FAME MMA",FAME MMA 
 http://viphlvp.xyz:8080/SVIP0182173307021660/41733070216548/147084
+
+
+
+
+
+#EXTINF:-1 tvg-id="Canal+ Sport" tvg-name="PL: CANAL+ SPORT" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT.png" group-title="CANAL+ SPORT 1",PL: CANAL+ SPORT 1
+http://viphlvp.xyz:8080/VIP01259171989306886/564baf04e4d2/876
+#EXTINF:-1 tvg-id="Canal+ Sport 2" tvg-name="PL: CANAL+ SPORT 2" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT_2.png" group-title="CANAL+ SPORT 2",PL: CANAL+ SPORT 2
+http://viphlvp.xyz:8080/VIP01259171989306886/564baf04e4d2/877
+#EXTINF:-1 tvg-id="Canal+ Sport 3" tvg-name="PL: CANAL+ SPORT 3" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT_3.png" group-title="CANAL+ SPORT 3",PL: CANAL+ SPORT 3
+http://viphlvp.xyz:8080/VIP01259171989306886/564baf04e4d2/878
+#EXTINF:-1 tvg-id="Canal+ Sport 4" tvg-name="PL: CANAL+ SPORT 4" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT_4.png" group-title="CANAL+ SPORT 4",PL: CANAL+ SPORT 4
+http://viphlvp.xyz:8080/VIP01259171989306886/564baf04e4d2/879
+#EXTINF:-1 tvg-id="Canal+ Sport 5" tvg-name="PL: CANAL+ SPORT 5" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT_5.png" group-title="CANAL+ SPORT 5",PL: CANAL+ SPORT 5
+http://viphlvp.xyz:8080/VIP01259171989306886/564baf04e4d2/889
+#EXTINF:-1 tvg-id="Eleven Sports 1" tvg-name="PL: ELEVEN SPORTS 1" tvg-logo="https://docdog.top/logo/countries/poland/ELEVEN_SPORTS_1.png" group-title="ELEVEN SPORTS 1",PL: ELEVEN SPORTS 1
+http://viphlvp.xyz:8080/VIP01259171989306886/564baf04e4d2/880
+#EXTINF:-1 tvg-id="Eleven Sports 2" tvg-name="PL: ELEVEN SPORTS 2" tvg-logo="https://docdog.top/logo/countries/poland/ELEVEN_SPORTS_2.png" group-title="ELEVEN SPORTS 2",PL: ELEVEN SPORTS 2
+http://viphlvp.xyz:8080/VIP01259171989306886/564baf04e4d2/881
+#EXTINF:-1 tvg-id="Eleven Sports 3" tvg-name="PL: ELEVEN SPORTS 3" tvg-logo="https://docdog.top/logo/countries/poland/ELEVEN_SPORTS_3.png" group-title="ELEVEN SPORTS 3",PL: ELEVEN SPORTS 3
+http://viphlvp.xyz:8080/VIP01259171989306886/564baf04e4d2/882
+#EXTINF:-1 tvg-id="Eleven Sports 4" tvg-name="PL: ELEVEN SPORTS 4" tvg-logo="https://docdog.top/logo/countries/poland/ELEVEN_SPORTS_4.png" group-title="ELEVEN SPORTS 4",PL: ELEVEN SPORTS 4
+http://viphlvp.xyz:8080/VIP01259171989306886/564baf04e4d2/883
+#EXTINF:-1 tvg-id="Polsat Sport" tvg-name="PL: POLSAT SPORT 1" tvg-logo="https://docdog.top/logo/countries/poland/polsatsport.png" group-title="POLSAT SPORT",PL: POLSAT SPORT 1
+http://viphlvp.xyz:8080/VIP01259171989306886/564baf04e4d2/34309
+#EXTINF:-1 tvg-id="Polsat Sport Extra" tvg-name="PL: POLSAT SPORT 2" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportextra.png" group-title="POLSAT SPORT",PL: POLSAT SPORT 2
+http://viphlvp.xyz:8080/VIP01259171989306886/564baf04e4d2/886
+#EXTINF:-1 tvg-id="Polsat Sport News" tvg-name="PL: POLSAT SPORT 3" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportnews.png" group-title="POLSAT SPORT",PL: POLSAT SPORT 3
+http://viphlvp.xyz:8080/VIP01259171989306886/564baf04e4d2/887
+#EXTINF:-1 tvg-id="Polsat Sport Fight" tvg-name="PL: POLSAT SPORT FIGHT" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportfight.png" group-title="POLSAT SPORT",PL: POLSAT SPORT FIGHT
+http://viphlvp.xyz:8080/VIP01259171989306886/564baf04e4d2/888
+#EXTINF:-1 tvg-id="Polsat Sport Premium 1" tvg-name="PL: POLSAT SPORT PREMIUM 1" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportpremium1.png" group-title="POLSAT SPORT PREMIUM 1",PL: POLSAT SPORT PREMIUM 1
+http://viphlvp.xyz:8080/VIP01259171989306886/564baf04e4d2/870
+#EXTINF:-1 tvg-id="Polsat Sport Premium 2" tvg-name="PL: POLSAT SPORT PREMIUM 2" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportpremium2.png" group-title="POLSAT SPORT PREMIUM 2",PL: POLSAT SPORT PREMIUM 2
+http://viphlvp.xyz:8080/VIP01259171989306886/564baf04e4d2/871
+#EXTINF:-1 tvg-id="Polsat Sport Premium 3" tvg-name="PL: POLSAT SPORT PREMIUM PPV 3" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportpremiumppv3.png" group-title="POLSAT SPORT PREMIUM 3",PL: POLSAT SPORT PREMIUM PPV 3
+http://viphlvp.xyz:8080/VIP01259171989306886/564baf04e4d2/872
+#EXTINF:-1 tvg-id="Polsat Sport Premium 4" tvg-name="PL: POLSAT SPORT PREMIUM PPV 4" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportpremiumppv4.png" group-title="POLSAT SPORT PREMIUM 4",PL: POLSAT SPORT PREMIUM PPV 4
+http://viphlvp.xyz:8080/VIP01259171989306886/564baf04e4d2/873
+#EXTINF:-1 tvg-id="Polsat Sport Premium 5" tvg-name="PL: POLSAT SPORT PREMIUM PPV 5" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportpremiumppv5.png" group-title="POLSAT SPORT PREMIUM 5",PL: POLSAT SPORT PREMIUM PPV 5
+http://viphlvp.xyz:8080/VIP01259171989306886/564baf04e4d2/874
+#EXTINF:-1 tvg-id="Polsat Sport Premium 6" tvg-name="PL: POLSAT SPORT PREMIUM PPV 6" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportpremiumppv6.png" group-title="POLSAT SPORT PREMIUM 6",PL: POLSAT SPORT PREMIUM PPV 6
+http://viphlvp.xyz:8080/VIP01259171989306886/564baf04e4d2/875
+#EXTINF:-1 tvg-id="Eurosport" tvg-name="PL: EUROSPORT 1" tvg-logo="https://docdog.top/logo/countries/poland/eurosport1.png" group-title="EUROSPORT",PL: EUROSPORT 1
+http://viphlvp.xyz:8080/VIP01259171989306886/564baf04e4d2/884
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="PL: EUROSPORT 2" tvg-logo="https://docdog.top/logo/countries/poland/eurosport2.png" group-title="EUROSPORT",PL: EUROSPORT 2
+http://viphlvp.xyz:8080/VIP01259171989306886/564baf04e4d2/885
+#EXTINF:-1 tvg-id="FightBox" tvg-name="PL: FIGHTBOX" tvg-logo="https://docdog.top/logo/countries/poland/fightbox.png" group-title="Reszta",PL: FIGHTBOX
+http://viphlvp.xyz:8080/VIP01259171989306886/564baf04e4d2/942
+#EXTINF:-1 tvg-id="Golf Channel" tvg-name="PL: GOLF CHANNEL" tvg-logo="https://docdog.top/logo/countries/poland/golfchannel.png" group-title="Reszta",PL: GOLF CHANNEL
+http://viphlvp.xyz:8080/VIP01259171989306886/564baf04e4d2/953
+#EXTINF:-1 tvg-id="Extreme Sports Channel" tvg-name="PL: EXTREME SPORTS" tvg-logo="https://docdog.top/logo/countries/poland/EXTREME_SPORTS_HD.png" group-title="Reszta",PL: EXTREME SPORTS
+http://viphlvp.xyz:8080/VIP01259171989306886/564baf04e4d2/128952
+#EXTINF:-1 tvg-id="Canal+ Extra 1" tvg-name="PL: CANAL+ EXTRA 1" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_EXTRA_1_HD.png" group-title="CANAL+ EXTRA 1",CANAL+ EXTRA 1.9
+http://viphlvp.xyz:8080/VIP01259171989306886/564baf04e4d2/128981
+#EXTINF:-1 tvg-id="Canal+ Extra 2" tvg-name="PL: CANAL+ EXTRA 2" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_EXTRA_2_HD.png" group-title="CANAL+ EXTRA 2",CANAL+ EXTRA 2.9
+http://viphlvp.xyz:8080/VIP01259171989306886/564baf04e4d2/128982
+#EXTINF:-1 tvg-id="Canal+ Extra 3" tvg-name="PL: CANAL+ EXTRA 3" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_EXTRA_3_HD.png" group-title="CANAL+ EXTRA 3",CANAL+ EXTRA 3.9
+http://viphlvp.xyz:8080/VIP01259171989306886/564baf04e4d2/128983
+#EXTINF:-1 tvg-id="Canal+ Extra 4" tvg-name="PL: CANAL+ EXTRA 4" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_EXTRA_4_HD.png" group-title="CANAL+ EXTRA 4",CANAL+ EXTRA 4.9
+http://viphlvp.xyz:8080/VIP01259171989306886/564baf04e4d2/128984
+#EXTINF:-1 tvg-id="" tvg-name="PL: CANAL+ 360" tvg-logo="https://docdog.top/logo/countries/poland/canal+360.png" group-title="CANAL+ 360",PL: CANAL+ 360
+http://viphlvp.xyz:8080/VIP01259171989306886/564baf04e4d2/132374
+#EXTINF:-1 tvg-id="" tvg-name="PL: FAME MMA " tvg-logo="" group-title="FAME MMA",PL: FAME MMA 
+http://viphlvp.xyz:8080/VIP01259171989306886/564baf04e4d2/147084
+
+
+
+
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="elevensports1.pl" tvg-name="PL | ELEVEN SPORTS 1 4K" tvg-logo="https://i.imgur.com/pWmTJlr.png" group-title="ELEVEN SPORTS 1 4K",PL | ELEVEN SPORTS 1 4K
+http://prens.pro:8080/XF1MGC6W/8RH7LWES/225922
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="elevensports1.pl" tvg-name="ELEVEN SPORT HD" tvg-logo="https://i.imgur.com/eKQtZRs.png" group-title="ELEVEN SPORTS 1",ELEVEN SPORT HD
+http://prens.pro:8080/XF1MGC6W/8RH7LWES/8485
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="elevensports1.pl" tvg-name="ELEVEN SPORTS 1 HD" tvg-logo="https://i.imgur.com/JGZJmb8.png" group-title="ELEVEN SPORTS 1",ELEVEN SPORTS 1 HD
+http://prens.pro:8080/XF1MGC6W/8RH7LWES/8486
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="elevensports2.pl" tvg-name="ELEVEN SPORTS 2 HD" tvg-logo="https://i.imgur.com/B7tk79D.png" group-title="ELEVEN SPORTS 2",ELEVEN SPORTS 2 HD
+http://prens.pro:8080/XF1MGC6W/8RH7LWES/8487
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="elevensports3.pl" tvg-name="ELEVEN SPORTS 3 HD" tvg-logo="https://i.imgur.com/sDDOCbC.png" group-title="ELEVEN SPORTS 3",ELEVEN SPORTS 3 HD
+http://prens.pro:8080/XF1MGC6W/8RH7LWES/8488
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="elevensportsports4.pl" tvg-name="ELEVEN SPORTS 4 HD" tvg-logo="https://i.imgur.com/QI2bThi.png" group-title="ELEVEN SPORTS 4",ELEVEN SPORTS 4 HD
+http://prens.pro:8080/XF1MGC6W/8RH7LWES/8489
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="polsatsportnews.pl" tvg-name="POLSAT SPORT NEWS HD" tvg-logo="https://i.imgur.com/zXyHyHV.png" group-title="POLSAT SPORT",POLSAT SPORT NEWS HD
+http://prens.pro:8080/XF1MGC6W/8RH7LWES/8472
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="polsatsportextra.pl" tvg-name="POLSAT SPORT EXTRA HD" tvg-logo="https://i.imgur.com/RzFIoC8.png" group-title="POLSAT SPORT",POLSAT SPORT EXTRA HD
+http://prens.pro:8080/XF1MGC6W/8RH7LWES/8473
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="polsatsportfight.pl" tvg-name="POLSAT SPORT FIGHT HD" tvg-logo="https://i.imgur.com/ngntkQo.png" group-title="POLSAT SPORT",POLSAT SPORT FIGHT HD
+http://prens.pro:8080/XF1MGC6W/8RH7LWES/8474
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="polsatsport.pl" tvg-name="POLSAT SPORT FHD" tvg-logo="https://i.imgur.com/1gIIwCD.png" group-title="POLSAT SPORT",POLSAT SPORT FHD
+http://prens.pro:8080/XF1MGC6W/8RH7LWES/8475
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="polsatsport.pl" tvg-name="POLSAT SPORT HD" tvg-logo="https://i.imgur.com/mWN9SUT.png" group-title="POLSAT SPORT",POLSAT SPORT HD
+http://prens.pro:8080/XF1MGC6W/8RH7LWES/8476
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="polsatsportpremium1.pl" tvg-name="POLSAT SPORT PREMIUM 1 HD" tvg-logo="https://i.imgur.com/vBkkSYn.png" group-title="POLSAT SPORT PREMIUM 1",POLSAT SPORT PREMIUM 1 HD
+http://prens.pro:8080/XF1MGC6W/8RH7LWES/8477
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="polsatsportpremium2.pl" tvg-name="POLSAT SPORT PREMIUM 2 HD" tvg-logo="https://i.imgur.com/KHzPAy4.png" group-title="POLSAT SPORT PREMIUM 2",POLSAT SPORT PREMIUM 2 HD
+http://prens.pro:8080/XF1MGC6W/8RH7LWES/8478
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="polsatsportpremium3ppv.pl" tvg-name="POLSAT SPORT PREMIUM 3 HD" tvg-logo="https://i.imgur.com/daUnj1Y.png" group-title="POLSAT SPORT PREMIUM 3",POLSAT SPORT PREMIUM 3 HD
+http://prens.pro:8080/XF1MGC6W/8RH7LWES/8479
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="polsatsportpremium4ppv.pl" tvg-name="POLSAT SPORT PREMIUM 4 HD" tvg-logo="https://i.imgur.com/7xz7w2q.png" group-title="POLSAT SPORT PREMIUM 4",POLSAT SPORT PREMIUM 4 HD
+http://prens.pro:8080/XF1MGC6W/8RH7LWES/523170
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="polsatsportpremium5ppv.pl" tvg-name="POLSAT SPORT PREMIUM 5 HD" tvg-logo="https://i.imgur.com/coZf2kx.png" group-title="POLSAT SPORT PREMIUM 5",POLSAT SPORT PREMIUM 5 HD
+http://prens.pro:8080/XF1MGC6W/8RH7LWES/523169
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="polsatsportpremium6ppv.pl" tvg-name="POLSAT SPORT PREMIUM 6 HD" tvg-logo="https://i.imgur.com/y8LwAHH.png" group-title="POLSAT SPORT PREMIUM 6",POLSAT SPORT PREMIUM 6 HD
+http://prens.pro:8080/XF1MGC6W/8RH7LWES/523168
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canalplussport.pl" tvg-name="CANAL+ SPORT HD" tvg-logo="https://i.imgur.com/ZT8zfL2.png" group-title="CANAL+ SPORT 1",CANAL+ SPORT HD
+http://prens.pro:8080/XF1MGC6W/8RH7LWES/8481
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canalplussport2.pl" tvg-name="CANAL+ SPORT 2 HD" tvg-logo="https://i.imgur.com/YNErs9N.png" group-title="CANAL+ SPORT 2",CANAL+ SPORT 2 HD
+http://prens.pro:8080/XF1MGC6W/8RH7LWES/8482
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canalplussport3.pl" tvg-name="CANAL+ SPORT 3 HD" tvg-logo="https://i.imgur.com/RP35ubv.png" group-title="CANAL+ SPORT 3",CANAL+ SPORT 3 HD
+http://prens.pro:8080/XF1MGC6W/8RH7LWES/8483
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canalplussport4.pl" tvg-name="CANAL+ SPORT 4 HD" tvg-logo="https://i.imgur.com/MAhy86H.png" group-title="CANAL+ SPORT 4",CANAL+ SPORT 4 HD
+http://prens.pro:8080/XF1MGC6W/8RH7LWES/8484
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canalplussport5.pl" tvg-name="CANAL+ SPORT 5 HD" tvg-logo="https://i.imgur.com/9Fr1uwn.png" group-title="CANAL+ SPORT 5",CANAL+ SPORT 5 HD
+http://prens.pro:8080/XF1MGC6W/8RH7LWES/510216
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canalplusextra1.pl" tvg-name="CANAL+ EXTRA 1 FHD" tvg-logo="https://epg.ovh/logo/Canal++Extra+1.png" group-title="CANAL+ EXTRA 1",CANAL+ EXTRA 1.10
+http://prens.pro:8080/XF1MGC6W/8RH7LWES/561375
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canalplusextra2.pl" tvg-name="CANAL+ EXTRA 2 FHD" tvg-logo="https://epg.ovh/logo/Canal++Extra+2.png" group-title="CANAL+ EXTRA 2",CANAL+ EXTRA 2.10
+http://prens.pro:8080/XF1MGC6W/8RH7LWES/561374
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canalplusextra3.pl" tvg-name="CANAL+ EXTRA 3 FHD" tvg-logo="https://epg.ovh/logo/Canal++Extra+3.png" group-title="CANAL+ EXTRA 3",CANAL+ EXTRA 3.10
+http://prens.pro:8080/XF1MGC6W/8RH7LWES/561373
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canalplusextra4.pl" tvg-name="CANAL+ EXTRA 4 FHD" tvg-logo="https://epg.ovh/logo/Canal++Extra+4.png" group-title="CANAL+ EXTRA 4",CANAL+ EXTRA 4.10
+http://prens.pro:8080/XF1MGC6W/8RH7LWES/561372
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="eurosport1.pl" tvg-name="EUROSPORT 1 HD" tvg-logo="https://i.imgur.com/xsOmB3z.png" group-title="EUROSPORT",EUROSPORT 1 HD
+http://prens.pro:8080/XF1MGC6W/8RH7LWES/8491
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="eurosport2.pl" tvg-name="EUROSPORT 2 HD" tvg-logo="https://i.imgur.com/ClaNGPU.png" group-title="EUROSPORT",EUROSPORT 2 HD
+http://prens.pro:8080/XF1MGC6W/8RH7LWES/8492
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nsport.pl" tvg-name="NSPORT+ HD" tvg-logo="https://i.imgur.com/sIhN04D.png" group-title="Reszta",NSPORT+ HD
+http://prens.pro:8080/XF1MGC6W/8RH7LWES/8480
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tvpsport.pl" tvg-name="TVP SPORT HD" tvg-logo="https://i.imgur.com/M6mNY9D.png" group-title="Reszta",TVP SPORT HD
+http://prens.pro:8080/XF1MGC6W/8RH7LWES/8490
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="golfchannel.pl" tvg-name="GOLF CHANNEL HD" tvg-logo="https://i.imgur.com/89czsXV.png" group-title="Reszta",GOLF CHANNEL HD
+http://prens.pro:8080/XF1MGC6W/8RH7LWES/8493
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sportklub.pl" tvg-name="SPORTKLUB HD" tvg-logo="https://i.imgur.com/rzcZ8qT.png" group-title="Reszta",SPORTKLUB HD
+http://prens.pro:8080/XF1MGC6W/8RH7LWES/8494
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="extremesports.pl" tvg-name="EXTREME SPORTS HD" tvg-logo="https://i.imgur.com/8XLqDsc.png" group-title="Reszta",EXTREME SPORTS HD
+http://prens.pro:8080/XF1MGC6W/8RH7LWES/8495
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="motowizja.pl" tvg-name="MOTOWIZJA HD" tvg-logo="https://i.imgur.com/VQwfuKM.png" group-title="Reszta",MOTOWIZJA HD
+http://prens.pro:8080/XF1MGC6W/8RH7LWES/8496
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="fightbox.pl" tvg-name="PL | FIGHTBOX HD" tvg-logo="https://i.imgur.com/7Oe77fX.png" group-title="Reszta",PL | FIGHTBOX HD
+http://prens.pro:8080/XF1MGC6W/8RH7LWES/8497
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="fightklub.pl" tvg-name="FIGHTKLUB FHD" tvg-logo="https://i.imgur.com/dTnRTpu.png" group-title="Reszta",FIGHTKLUB FHD
+http://prens.pro:8080/XF1MGC6W/8RH7LWES/8471
