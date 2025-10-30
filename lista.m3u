@@ -472,7 +472,7 @@ http://hh.hdmediashop.com:2086/W833yMQ5nX/xhv8a7BaNr/52725
 http://hh.hdmediashop.com:2086/W833yMQ5nX/xhv8a7BaNr/52683
 #EXTINF:-1,PL: Eurosport 2
 http://hh.hdmediashop.com:2086/W833yMQ5nX/xhv8a7BaNr/52654
-#EXTINF:-1,PL:  Canal+Extra 1
+#EXTINF:-1 group-title="CANAL+ EXTRA 1" ,PL:  Canal+Extra 1 
 http://hh.hdmediashop.com:2086/W833yMQ5nX/xhv8a7BaNr/52758
 #EXTINF:-1,PL: Polsat Sport News
 http://hh.hdmediashop.com:2086/W833yMQ5nX/xhv8a7BaNr/52676
