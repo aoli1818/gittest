@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="https://docdog.top/logo/countries/poland/hgtv.png" group-title="Sport",HGTV
-http://vipvahz.top:8080/VIP016261740758943356/5b84d1a125b1/958
 #EXTINF:-1 tvg-id="CANAL+ SPORT" tvg-name="CANAL+ SPORT" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT.png" group-title="CANAL+ SPORT",CANAL+ SPORT
 http://vipvahz.top:8080/VIP016261740758943356/5b84d1a125b1/876
 #EXTINF:-1 tvg-id="CANAL+ SPORT 2" tvg-name="CANAL+ SPORT 2" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT_2.png" group-title="CANAL+ SPORT",CANAL+ SPORT 2
@@ -70,9 +68,6 @@ http://vipvahz.top:8080/VIP016261740758943356/5b84d1a125b1/132374
 http://vipvahz.top:8080/VIP016261740758943356/5b84d1a125b1/147084
 
 
-
-#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="https://docdog.top/logo/countries/poland/hgtv.png" group-title="Sport",HGTV
-http://vippccjuzfa.top:8080/VIP014721739297952336/be46c9d82151/958
 #EXTINF:-1 tvg-id="CANAL+ SPORT" tvg-name="CANAL+ SPORT" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT.png" group-title="CANAL+ SPORT",CANAL+ SPORT
 http://vippccjuzfa.top:8080/VIP014721739297952336/be46c9d82151/876
 #EXTINF:-1 tvg-id="CANAL+ SPORT 2" tvg-name="CANAL+ SPORT 2" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT_2.png" group-title="CANAL+ SPORT",CANAL+ SPORT 2
@@ -139,9 +134,7 @@ http://vippccjuzfa.top:8080/VIP014721739297952336/be46c9d82151/132374
 http://vippccjuzfa.top:8080/VIP014721739297952336/be46c9d82151/147084
 
 
-#EXTM3U
-#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="https://docdog.top/logo/countries/poland/hgtv.png" group-title="Sport",HGTV
-http://vippccjuzfa.top:8080/VIP018771750334860493/91b895d9d119/958
+
 #EXTINF:-1 tvg-id="CANAL+ SPORT" tvg-name="CANAL+ SPORT" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT.png" group-title="CANAL+ SPORT",CANAL+ SPORT
 http://vippccjuzfa.top:8080/VIP018771750334860493/91b895d9d119/876
 #EXTINF:-1 tvg-id="CANAL+ SPORT 2" tvg-name="CANAL+ SPORT 2" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT_2.png" group-title="CANAL+ SPORT",CANAL+ SPORT 2
@@ -208,8 +201,7 @@ http://vippccjuzfa.top:8080/VIP018771750334860493/91b895d9d119/132374
 http://vippccjuzfa.top:8080/VIP018771750334860493/91b895d9d119/147084
 
 
-#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="https://docdog.top/logo/countries/poland/hgtv.png" group-title="Sport",HGTV
-http://vippccjuzfa.top:8080/VIP016221759856926993/5e53a8d6732d/958
+
 #EXTINF:-1 tvg-id="CANAL+ SPORT" tvg-name="CANAL+ SPORT" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT.png" group-title="CANAL+ SPORT",CANAL+ SPORT
 http://vippccjuzfa.top:8080/VIP016221759856926993/5e53a8d6732d/876
 #EXTINF:-1 tvg-id="CANAL+ SPORT 2" tvg-name="CANAL+ SPORT 2" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT_2.png" group-title="CANAL+ SPORT",CANAL+ SPORT 2
@@ -277,9 +269,6 @@ http://vippccjuzfa.top:8080/VIP016221759856926993/5e53a8d6732d/147084
 
 
 
-
-#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="https://docdog.top/logo/countries/poland/hgtv.png" group-title="Sport",HGTV
-http://vippccjuzfa.top:8080/VIP016221759856926993/5e53a8d6732d/958
 #EXTINF:-1 tvg-id="CANAL+ SPORT" tvg-name="CANAL+ SPORT" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT.png" group-title="CANAL+ SPORT",CANAL+ SPORT
 http://vippccjuzfa.top:8080/VIP016221759856926993/5e53a8d6732d/876
 #EXTINF:-1 tvg-id="CANAL+ SPORT 2" tvg-name="CANAL+ SPORT 2" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT_2.png" group-title="CANAL+ SPORT",CANAL+ SPORT 2
@@ -391,8 +380,6 @@ http://media.cloudbrit.com:8080/Collins/Collins1234/1846971
 http://media.cloudbrit.com:8080/Collins/Collins1234/1846970
 #EXTINF:-1 tvg-id="" tvg-name="Polsat Sport Extra HD" tvg-logo="http://img-cdn.curl.pk:8880/chimg/7615518670.jpg" group-title="Polsat Sport",Polsat Sport Extra HD
 http://media.cloudbrit.com:8080/Collins/Collins1234/1846969
-#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/9ce008e321077466ed854695d4cde749.png" group-title="Sport",HGTV
-http://media.cloudbrit.com:8080/Collins/Collins1234/1846828
 #EXTINF:-1 tvg-id="" tvg-name="Fightbox FHD" tvg-logo="http://img-cdn.curl.pk:8880/chimg/7513115300.png" group-title="Sport",Fightbox FHD
 http://media.cloudbrit.com:8080/Collins/Collins1234/1846808
 #EXTINF:-1 tvg-id="" tvg-name="EXTREME SPORTS" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/21415c81f0f5ba3ee66638c635f26fbc.png" group-title="Sport",EXTREME SPORTS
@@ -604,8 +591,6 @@ http://media.cloudbrit.com:8080/ash12345678/ash12345678/1846971
 http://media.cloudbrit.com:8080/ash12345678/ash12345678/1846970
 #EXTINF:-1 tvg-id="" tvg-name="Polsat Sport Extra HD" tvg-logo="http://img-cdn.curl.pk:8880/chimg/7615518670.jpg" group-title="Polsat Sport",Polsat Sport Extra HD
 http://media.cloudbrit.com:8080/ash12345678/ash12345678/1846969
-#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/9ce008e321077466ed854695d4cde749.png" group-title="Sport",HGTV
-http://media.cloudbrit.com:8080/ash12345678/ash12345678/1846828
 #EXTINF:-1 tvg-id="" tvg-name="GOLF Channel HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/63125818921.png" group-title="Sport",GOLF Channel HD
 http://media.cloudbrit.com:8080/ash12345678/ash12345678/1846822
 #EXTINF:-1 tvg-id="" tvg-name="Fightbox FHD" tvg-logo="http://img-cdn.curl.pk:8880/chimg/7513115300.png" group-title="Sport",Fightbox FHD
@@ -709,8 +694,6 @@ http://media.cloudbrit.com:8080/ash12345678/ash12345678/1846971
 http://media.cloudbrit.com:8080/ash12345678/ash12345678/1846970
 #EXTINF:-1 tvg-id="" tvg-name="Polsat Sport Extra HD" tvg-logo="http://img-cdn.curl.pk:8880/chimg/7615518670.jpg" group-title="Polsat Sport",Polsat Sport Extra HD
 http://media.cloudbrit.com:8080/ash12345678/ash12345678/1846969
-#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/9ce008e321077466ed854695d4cde749.png" group-title="Sport",HGTV
-http://media.cloudbrit.com:8080/ash12345678/ash12345678/1846828
 #EXTINF:-1 tvg-id="" tvg-name="Fightbox FHD" tvg-logo="http://img-cdn.curl.pk:8880/chimg/7513115300.png" group-title="Sport",Fightbox FHD
 http://media.cloudbrit.com:8080/ash12345678/ash12345678/1846808
 #EXTINF:-1 tvg-id="" tvg-name="EXTREME SPORTS" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/21415c81f0f5ba3ee66638c635f26fbc.png" group-title="Sport",EXTREME SPORTS
@@ -816,8 +799,6 @@ http://media.cloudbrit.com:8080/Collins/Collins1234/1846971
 http://media.cloudbrit.com:8080/Collins/Collins1234/1846970
 #EXTINF:-1 tvg-id="" tvg-name="Polsat Sport Extra HD" tvg-logo="http://img-cdn.curl.pk:8880/chimg/7615518670.jpg" group-title="Polsat Sport",Polsat Sport Extra HD
 http://media.cloudbrit.com:8080/Collins/Collins1234/1846969
-#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/9ce008e321077466ed854695d4cde749.png" group-title="Sport",HGTV
-http://media.cloudbrit.com:8080/Collins/Collins1234/1846828
 #EXTINF:-1 tvg-id="" tvg-name="Fightbox FHD" tvg-logo="http://img-cdn.curl.pk:8880/chimg/7513115300.png" group-title="Sport",Fightbox FHD
 http://media.cloudbrit.com:8080/Collins/Collins1234/1846808
 #EXTINF:-1 tvg-id="" tvg-name="EXTREME SPORTS" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/21415c81f0f5ba3ee66638c635f26fbc.png" group-title="Sport",EXTREME SPORTS
@@ -927,8 +908,6 @@ http://media.cloudbrit.com:8080/ash12345678/ash12345678/1846971
 http://media.cloudbrit.com:8080/ash12345678/ash12345678/1846970
 #EXTINF:-1 tvg-id="" tvg-name="Polsat Sport Extra HD" tvg-logo="http://img-cdn.curl.pk:8880/chimg/7615518670.jpg" group-title="Polsat Sport",Polsat Sport Extra HD
 http://media.cloudbrit.com:8080/ash12345678/ash12345678/1846969
-#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/9ce008e321077466ed854695d4cde749.png" group-title="Sport",HGTV
-http://media.cloudbrit.com:8080/ash12345678/ash12345678/1846828
 #EXTINF:-1 tvg-id="" tvg-name="Fightbox FHD" tvg-logo="http://img-cdn.curl.pk:8880/chimg/7513115300.png" group-title="Sport",Fightbox FHD
 http://media.cloudbrit.com:8080/ash12345678/ash12345678/1846808
 #EXTINF:-1 tvg-id="" tvg-name="EXTREME SPORTS" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/21415c81f0f5ba3ee66638c635f26fbc.png" group-title="Sport",EXTREME SPORTS
