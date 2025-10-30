@@ -348,9 +348,9 @@ http://media.cloudbrit.com:8080/Collins/Collins1234/1847061
 http://media.cloudbrit.com:8080/Collins/Collins1234/1847060
 #EXTINF:-1 tvg-id="" tvg-name="Canal+ Extra 3" tvg-logo="https://tvprofil.com/img/kanali-logo/Canal_Extra_3_PL_logo.png" group-title="CANAL+ EXTRA 3",Canal+ Extra 3
 http://media.cloudbrit.com:8080/Collins/Collins1234/1847059
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Extra 2" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/595256892aff2bf3b666a6e70cb60e5a.png" group-title="CANAL+ EXTRA 2",Canal+ Extra 2
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Extra 2" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/595256892aff2bf3b666a6e70cb60e5a.png" group-title="CANAL+ EXTRA 2",Canal+ Extra 2a
 http://media.cloudbrit.com:8080/Collins/Collins1234/1847058
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Extra 1" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/ca0251579828f9dc91fd916a48741674.png" group-title="CANAL+ EXTRA 1",Canal+ Extra 1
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Extra 1" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/ca0251579828f9dc91fd916a48741674.png" group-title="CANAL+ EXTRA 1",Canal+ Extra 1a
 http://media.cloudbrit.com:8080/Collins/Collins1234/1847057
 #EXTINF:-1 tvg-id="" tvg-name="POLSAT SPORT PREMIUM PPV 6 FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/85094467141.png" group-title="POLSAT SPORT PREMIUM",POLSAT SPORT PREMIUM PPV 6 FHD
 http://media.cloudbrit.com:8080/Collins/Collins1234/1846982
@@ -408,7 +408,7 @@ http://media.cloudbrit.com:8080/Collins/Collins1234/1846793
 http://media.cloudbrit.com:8080/Collins/Collins1234/1846792
 #EXTINF:-1 tvg-id="" tvg-name="Eleven Sport 1 FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/61595336381.png" group-title="ELEVEN SPORTS",Eleven Sport 1 FHD
 http://media.cloudbrit.com:8080/Collins/Collins1234/1846791
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/86577741391.png" group-title="CANAL+ SPORT",CANAL+ SPORT FHD
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/86577741391.png" group-title="CANAL+ SPORT",CANAL+ SPORT FHDa
 http://media.cloudbrit.com:8080/Collins/Collins1234/1846764
 #EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 4K+ HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/84425176201.png" group-title="CANAL+ SPORT",CANAL+ SPORT 4K+ HD
 http://media.cloudbrit.com:8080/Collins/Collins1234/1846763
@@ -422,13 +422,13 @@ http://media.cloudbrit.com:8080/Collins/Collins1234/1846760
 http://media.cloudbrit.com:8080/Collins/Collins1234/1846759
 #EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 2 FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/62426734951.png" group-title="CANAL+ SPORT",CANAL+ SPORT 2 FHD
 http://media.cloudbrit.com:8080/Collins/Collins1234/1846758
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 1 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/39044115691.png" group-title="CANAL+ SPORT",CANAL+ SPORT 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 1 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/39044115691.png" group-title="CANAL+ SPORT",CANAL+ SPORT 1 HDa
 http://media.cloudbrit.com:8080/Collins/Collins1234/1846757
 #EXTINF:-1 tvg-id="" tvg-name="Canal+ 4K HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/9e4f4ee20d45eda9cd88afc929add208.png" group-title="CANAL+ SPORT",Canal+ 4K HD
 http://media.cloudbrit.com:8080/Collins/Collins1234/1846752
 #EXTINF:-1 tvg-id="" tvg-name="Canal Sport 2 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/22180422621.png" group-title="CANAL+ SPORT",Canal Sport 2 HD
 http://media.cloudbrit.com:8080/Collins/Collins1234/1846750
-#EXTINF:-1 tvg-id="" tvg-name="Canal Sport 1 PLUS HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/21617829021.png" group-title="CANAL+ SPORT",Canal Sport 1 PLUS HD
+#EXTINF:-1 tvg-id="" tvg-name="Canal Sport 1 PLUS HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/21617829021.png" group-title="CANAL+ SPORT",Canal Sport 1 PLUS HDa
 http://media.cloudbrit.com:8080/Collins/Collins1234/1846749
 #EXTINF:-1 tvg-id="" tvg-name="VIP PPV KSW FIGHTS (LIVE ON MATCHES)" tvg-logo="" group-title="Sport",VIP PPV KSW FIGHTS (LIVE ON MATCHES)
 http://media.cloudbrit.com:8080/Collins/Collins1234/1846725
@@ -449,7 +449,7 @@ http://hh.hdmediashop.com:2086/W833yMQ5nX/xhv8a7BaNr/52735
 http://hh.hdmediashop.com:2086/W833yMQ5nX/xhv8a7BaNr/52744
 #EXTINF:-1 group-title="POLSAT SPORT PREMIUM",POLSAT SPORT PREMIUM 2
 http://hh.hdmediashop.com:2086/W833yMQ5nX/xhv8a7BaNr/52745
-#EXTINF:-1 group-title="CANAL+ SPORT",CANAL+ SPORT
+#EXTINF:-1 group-title="CANAL+ SPORT",CANAL+ SPORTb
 http://hh.hdmediashop.com:2086/W833yMQ5nX/xhv8a7BaNr/52653
 EXTINF:-1 group-title="CANAL+ SPORT",CANAL+ SPORT 2
 http://hh.hdmediashop.com:2086/W833yMQ5nX/xhv8a7BaNr/52723
@@ -459,7 +459,7 @@ http://hh.hdmediashop.com:2086/W833yMQ5nX/xhv8a7BaNr/52725
 http://hh.hdmediashop.com:2086/W833yMQ5nX/xhv8a7BaNr/52683
 #EXTINF:-1 group-title="Sport" ,Eurosport 2
 http://hh.hdmediashop.com:2086/W833yMQ5nX/xhv8a7BaNr/52654
-#EXTINF:-1 group-title="CANAL+ EXTRA 1" , Canal+Extra 1 
+#EXTINF:-1 group-title="CANAL+ EXTRA 1" , Canal+Extra 1b 
 http://hh.hdmediashop.com:2086/W833yMQ5nX/xhv8a7BaNr/52758
 #EXTINF:-1 group-title="POLSAT SPORT",POLSAT SPORT News
 http://hh.hdmediashop.com:2086/W833yMQ5nX/xhv8a7BaNr/52676
@@ -469,7 +469,7 @@ http://hh.hdmediashop.com:2086/W833yMQ5nX/xhv8a7BaNr/52703
 http://hh.hdmediashop.com:2086/W833yMQ5nX/xhv8a7BaNr/52751
 #EXTINF:-1 group-title="CANAL+ EXTRA 3" , Canal+Extra 3
 http://hh.hdmediashop.com:2086/W833yMQ5nX/xhv8a7BaNr/52714
-#EXTINF:-1 group-title="CANAL+ EXTRA 2" , Canal+Extra 2
+#EXTINF:-1 group-title="CANAL+ EXTRA 2" , Canal+Extra 2b
 http://hh.hdmediashop.com:2086/W833yMQ5nX/xhv8a7BaNr/76349
 
 
@@ -555,9 +555,9 @@ http://media.cloudbrit.com:8080/ash12345678/ash12345678/1847061
 http://media.cloudbrit.com:8080/ash12345678/ash12345678/1847060
 #EXTINF:-1 tvg-id="" tvg-name="Canal+ Extra 3" tvg-logo="https://tvprofil.com/img/kanali-logo/Canal_Extra_3_PL_logo.png" group-title="CANAL+ EXTRA 3",Canal+ Extra 3
 http://media.cloudbrit.com:8080/ash12345678/ash12345678/1847059
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Extra 2" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/595256892aff2bf3b666a6e70cb60e5a.png" group-title="CANAL+ EXTRA 2",Canal+ Extra 2
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Extra 2" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/595256892aff2bf3b666a6e70cb60e5a.png" group-title="CANAL+ EXTRA 2",Canal+ Extra 2c
 http://media.cloudbrit.com:8080/ash12345678/ash12345678/1847058
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Extra 1" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/ca0251579828f9dc91fd916a48741674.png" group-title="CANAL+ EXTRA 1",Canal+ Extra 1
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Extra 1" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/ca0251579828f9dc91fd916a48741674.png" group-title="CANAL+ EXTRA 1",Canal+ Extra 1c
 http://media.cloudbrit.com:8080/ash12345678/ash12345678/1847057
 #EXTINF:-1 tvg-id="" tvg-name="TVP Sport HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/34760006521.png" group-title="Sport",TVP Sport HD
 http://media.cloudbrit.com:8080/ash12345678/ash12345678/1847045
@@ -621,7 +621,7 @@ http://media.cloudbrit.com:8080/ash12345678/ash12345678/1846793
 http://media.cloudbrit.com:8080/ash12345678/ash12345678/1846792
 #EXTINF:-1 tvg-id="" tvg-name="Eleven Sport 1 FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/61595336381.png" group-title="ELEVEN SPORTS",Eleven Sport 1 FHD
 http://media.cloudbrit.com:8080/ash12345678/ash12345678/1846791
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/86577741391.png" group-title="CANAL+ SPORT",CANAL+ SPORT FHD
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/86577741391.png" group-title="CANAL+ SPORT",CANAL+ SPORT FHDc
 http://media.cloudbrit.com:8080/ash12345678/ash12345678/1846764
 #EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 4K+ HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/84425176201.png" group-title="CANAL+ SPORT",CANAL+ SPORT 4K+ HD
 http://media.cloudbrit.com:8080/ash12345678/ash12345678/1846763
@@ -635,13 +635,13 @@ http://media.cloudbrit.com:8080/ash12345678/ash12345678/1846760
 http://media.cloudbrit.com:8080/ash12345678/ash12345678/1846759
 #EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 2 FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/62426734951.png" group-title="CANAL+ SPORT",CANAL+ SPORT 2 FHD
 http://media.cloudbrit.com:8080/ash12345678/ash12345678/1846758
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 1 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/39044115691.png" group-title="CANAL+ SPORT",CANAL+ SPORT 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 1 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/39044115691.png" group-title="CANAL+ SPORT",CANAL+ SPORT 1 HDc
 http://media.cloudbrit.com:8080/ash12345678/ash12345678/1846757
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ 4K HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/9e4f4ee20d45eda9cd88afc929add208.png" group-title="CANAL+ SPORT",Canal+ 4K HD
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ 4K HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/9e4f4ee20d45eda9cd88afc929add208.png" group-title="CANAL+ SPORT",Canal+ 4K HDc
 http://media.cloudbrit.com:8080/ash12345678/ash12345678/1846752
 #EXTINF:-1 tvg-id="" tvg-name="Canal Sport 2 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/22180422621.png" group-title="CANAL+ SPORT",Canal Sport 2 HD
 http://media.cloudbrit.com:8080/ash12345678/ash12345678/1846750
-#EXTINF:-1 tvg-id="" tvg-name="Canal Sport 1 PLUS HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/21617829021.png" group-title="CANAL+ SPORT",Canal Sport 1 PLUS HD
+#EXTINF:-1 tvg-id="" tvg-name="Canal Sport 1 PLUS HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/21617829021.png" group-title="CANAL+ SPORT",Canal Sport 1 PLUS HDc
 http://media.cloudbrit.com:8080/ash12345678/ash12345678/1846749
 #EXTINF:-1 tvg-id="" tvg-name="VIP PPV KSW FIGHTS (LIVE ON MATCHES)" tvg-logo="" group-title="Sport",VIP PPV KSW FIGHTS (LIVE ON MATCHES)
 http://media.cloudbrit.com:8080/ash12345678/ash12345678/1846725
@@ -662,9 +662,9 @@ http://media.cloudbrit.com:8080/ash12345678/ash12345678/1847061
 http://media.cloudbrit.com:8080/ash12345678/ash12345678/1847060
 #EXTINF:-1 tvg-id="" tvg-name="Canal+ Extra 3" tvg-logo="https://tvprofil.com/img/kanali-logo/Canal_Extra_3_PL_logo.png" group-title="CANAL+ EXTRA 3",Canal+ Extra 3
 http://media.cloudbrit.com:8080/ash12345678/ash12345678/1847059
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Extra 2" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/595256892aff2bf3b666a6e70cb60e5a.png" group-title="CANAL+ EXTRA 2",Canal+ Extra 2
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Extra 2" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/595256892aff2bf3b666a6e70cb60e5a.png" group-title="CANAL+ EXTRA 2",Canal+ Extra 2d
 http://media.cloudbrit.com:8080/ash12345678/ash12345678/1847058
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Extra 1" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/ca0251579828f9dc91fd916a48741674.png" group-title="CANAL+ EXTRA 1",Canal+ Extra 1
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Extra 1" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/ca0251579828f9dc91fd916a48741674.png" group-title="CANAL+ EXTRA 1",Canal+ Extra 1d
 http://media.cloudbrit.com:8080/ash12345678/ash12345678/1847057
 #EXTINF:-1 tvg-id="" tvg-name="POLSAT SPORT PREMIUM PPV 6 FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/85094467141.png" group-title="POLSAT SPORT PREMIUM",POLSAT SPORT PREMIUM PPV 6 FHD
 http://media.cloudbrit.com:8080/ash12345678/ash12345678/1846982
@@ -722,9 +722,9 @@ http://media.cloudbrit.com:8080/ash12345678/ash12345678/1846793
 http://media.cloudbrit.com:8080/ash12345678/ash12345678/1846792
 #EXTINF:-1 tvg-id="" tvg-name="Eleven Sport 1 FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/61595336381.png" group-title="ELEVEN SPORTS",Eleven Sport 1 FHD
 http://media.cloudbrit.com:8080/ash12345678/ash12345678/1846791
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/86577741391.png" group-title="CANAL+ SPORT",CANAL+ SPORT FHD
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/86577741391.png" group-title="CANAL+ SPORT",CANAL+ SPORT FHDd
 http://media.cloudbrit.com:8080/ash12345678/ash12345678/1846764
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 4K+ HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/84425176201.png" group-title="CANAL+ SPORT",CANAL+ SPORT 4K+ HD
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 4K+ HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/84425176201.png" group-title="CANAL+ SPORT",CANAL+ SPORT 4K+ HDd
 http://media.cloudbrit.com:8080/ash12345678/ash12345678/1846763
 #EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 5" tvg-logo="http://sltv-logo.cms-s.com/logo/POLONIA/CANAL+_Sport_5.png" group-title="CANAL+ SPORT",CANAL+ SPORT 5
 http://media.cloudbrit.com:8080/ash12345678/ash12345678/1846762
@@ -736,13 +736,13 @@ http://media.cloudbrit.com:8080/ash12345678/ash12345678/1846760
 http://media.cloudbrit.com:8080/ash12345678/ash12345678/1846759
 #EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 2 FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/62426734951.png" group-title="CANAL+ SPORT",CANAL+ SPORT 2 FHD
 http://media.cloudbrit.com:8080/ash12345678/ash12345678/1846758
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 1 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/39044115691.png" group-title="CANAL+ SPORT",CANAL+ SPORT 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 1 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/39044115691.png" group-title="CANAL+ SPORT",CANAL+ SPORT 1 HDd
 http://media.cloudbrit.com:8080/ash12345678/ash12345678/1846757
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ 4K HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/9e4f4ee20d45eda9cd88afc929add208.png" group-title="CANAL+ SPORT",Canal+ 4K HD
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ 4K HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/9e4f4ee20d45eda9cd88afc929add208.png" group-title="CANAL+ SPORT",Canal+ 4K HDd
 http://media.cloudbrit.com:8080/ash12345678/ash12345678/1846752
 #EXTINF:-1 tvg-id="" tvg-name="Canal Sport 2 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/22180422621.png" group-title="CANAL+ SPORT",Canal Sport 2 HD
 http://media.cloudbrit.com:8080/ash12345678/ash12345678/1846750
-#EXTINF:-1 tvg-id="" tvg-name="Canal Sport 1 PLUS HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/21617829021.png" group-title="CANAL+ SPORT",Canal Sport 1 PLUS HD
+#EXTINF:-1 tvg-id="" tvg-name="Canal Sport 1 PLUS HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/21617829021.png" group-title="CANAL+ SPORT",Canal Sport 1 PLUS HDd
 http://media.cloudbrit.com:8080/ash12345678/ash12345678/1846749
 #EXTINF:-1 tvg-id="" tvg-name="VIP PPV KSW FIGHTS (LIVE ON MATCHES)" tvg-logo="" group-title="Sport",VIP PPV KSW FIGHTS (LIVE ON MATCHES)
 http://media.cloudbrit.com:8080/ash12345678/ash12345678/1846725
@@ -763,9 +763,9 @@ http://media.cloudbrit.com:8080/Collins/Collins1234/1847061
 http://media.cloudbrit.com:8080/Collins/Collins1234/1847060
 #EXTINF:-1 tvg-id="" tvg-name="Canal+ Extra 3" tvg-logo="https://tvprofil.com/img/kanali-logo/Canal_Extra_3_PL_logo.png" group-title="CANAL+ EXTRA 3",Canal+ Extra 3
 http://media.cloudbrit.com:8080/Collins/Collins1234/1847059
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Extra 2" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/595256892aff2bf3b666a6e70cb60e5a.png" group-title="CANAL+ EXTRA 2",Canal+ Extra 2
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Extra 2" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/595256892aff2bf3b666a6e70cb60e5a.png" group-title="CANAL+ EXTRA 2",Canal+ Extra 2e
 http://media.cloudbrit.com:8080/Collins/Collins1234/1847058
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Extra 1" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/ca0251579828f9dc91fd916a48741674.png" group-title="CANAL+ EXTRA 1",Canal+ Extra 1
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Extra 1" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/ca0251579828f9dc91fd916a48741674.png" group-title="CANAL+ EXTRA 1",Canal+ Extra 1e
 http://media.cloudbrit.com:8080/Collins/Collins1234/1847057
 #EXTINF:-1 tvg-id="" tvg-name="TVP Sport HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/34760006521.png" group-title="Sport",TVP Sport HD
 http://media.cloudbrit.com:8080/Collins/Collins1234/1847045
@@ -827,9 +827,9 @@ http://media.cloudbrit.com:8080/Collins/Collins1234/1846793
 http://media.cloudbrit.com:8080/Collins/Collins1234/1846792
 #EXTINF:-1 tvg-id="" tvg-name="Eleven Sport 1 FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/61595336381.png" group-title="ELEVEN SPORTS",Eleven Sport 1 FHD
 http://media.cloudbrit.com:8080/Collins/Collins1234/1846791
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/86577741391.png" group-title="CANAL+ SPORT",CANAL+ SPORT FHD
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/86577741391.png" group-title="CANAL+ SPORT",CANAL+ SPORT FHDe
 http://media.cloudbrit.com:8080/Collins/Collins1234/1846764
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 4K+ HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/84425176201.png" group-title="CANAL+ SPORT",CANAL+ SPORT 4K+ HD
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 4K+ HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/84425176201.png" group-title="CANAL+ SPORT",CANAL+ SPORT 4K+ HDe
 http://media.cloudbrit.com:8080/Collins/Collins1234/1846763
 #EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 5" tvg-logo="http://sltv-logo.cms-s.com/logo/POLONIA/CANAL+_Sport_5.png" group-title="CANAL+ SPORT",CANAL+ SPORT 5
 http://media.cloudbrit.com:8080/Collins/Collins1234/1846762
@@ -841,13 +841,13 @@ http://media.cloudbrit.com:8080/Collins/Collins1234/1846760
 http://media.cloudbrit.com:8080/Collins/Collins1234/1846759
 #EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 2 FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/62426734951.png" group-title="CANAL+ SPORT",CANAL+ SPORT 2 FHD
 http://media.cloudbrit.com:8080/Collins/Collins1234/1846758
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 1 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/39044115691.png" group-title="CANAL+ SPORT",CANAL+ SPORT 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 1 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/39044115691.png" group-title="CANAL+ SPORT",CANAL+ SPORT 1 HDe
 http://media.cloudbrit.com:8080/Collins/Collins1234/1846757
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ 4K HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/9e4f4ee20d45eda9cd88afc929add208.png" group-title="CANAL+ SPORT",Canal+ 4K HD
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ 4K HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/9e4f4ee20d45eda9cd88afc929add208.png" group-title="CANAL+ SPORT",Canal+ 4K HDe
 http://media.cloudbrit.com:8080/Collins/Collins1234/1846752
 #EXTINF:-1 tvg-id="" tvg-name="Canal Sport 2 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/22180422621.png" group-title="CANAL+ SPORT",Canal Sport 2 HD
 http://media.cloudbrit.com:8080/Collins/Collins1234/1846750
-#EXTINF:-1 tvg-id="" tvg-name="Canal Sport 1 PLUS HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/21617829021.png" group-title="CANAL+ SPORT",Canal Sport 1 PLUS HD
+#EXTINF:-1 tvg-id="" tvg-name="Canal Sport 1 PLUS HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/21617829021.png" group-title="CANAL+ SPORT",Canal Sport 1 PLUS HDe
 http://media.cloudbrit.com:8080/Collins/Collins1234/1846749
 #EXTINF:-1 tvg-id="" tvg-name="VIP PPV KSW FIGHTS (LIVE ON MATCHES)" tvg-logo="" group-title="Sport",VIP PPV KSW FIGHTS (LIVE ON MATCHES)
 http://media.cloudbrit.com:8080/Collins/Collins1234/1846725
@@ -868,9 +868,9 @@ http://media.cloudbrit.com:8080/ash12345678/ash12345678/1847061
 http://media.cloudbrit.com:8080/ash12345678/ash12345678/1847060
 #EXTINF:-1 tvg-id="" tvg-name="Canal+ Extra 3" tvg-logo="https://tvprofil.com/img/kanali-logo/Canal_Extra_3_PL_logo.png" group-title="CANAL+ EXTRA 3",Canal+ Extra 3
 http://media.cloudbrit.com:8080/ash12345678/ash12345678/1847059
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Extra 2" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/595256892aff2bf3b666a6e70cb60e5a.png" group-title="CANAL+ EXTRA 2",Canal+ Extra 2
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Extra 2" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/595256892aff2bf3b666a6e70cb60e5a.png" group-title="CANAL+ EXTRA 2",Canal+ Extra 2f
 http://media.cloudbrit.com:8080/ash12345678/ash12345678/1847058
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Extra 1" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/ca0251579828f9dc91fd916a48741674.png" group-title="CANAL+ EXTRA 1",Canal+ Extra 1
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Extra 1" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/ca0251579828f9dc91fd916a48741674.png" group-title="CANAL+ EXTRA 1",Canal+ Extra 1f
 http://media.cloudbrit.com:8080/ash12345678/ash12345678/1847057
 #EXTINF:-1 tvg-id="" tvg-name="TVP Sport HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/34760006521.png" group-title="Sport",TVP Sport HD
 http://media.cloudbrit.com:8080/ash12345678/ash12345678/1847045
@@ -936,9 +936,9 @@ http://media.cloudbrit.com:8080/ash12345678/ash12345678/1846793
 http://media.cloudbrit.com:8080/ash12345678/ash12345678/1846792
 #EXTINF:-1 tvg-id="" tvg-name="Eleven Sport 1 FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/61595336381.png" group-title="ELEVEN SPORTS",Eleven Sport 1 FHD
 http://media.cloudbrit.com:8080/ash12345678/ash12345678/1846791
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/86577741391.png" group-title="CANAL+ SPORT",CANAL+ SPORT FHD
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/86577741391.png" group-title="CANAL+ SPORT",CANAL+ SPORT FHDf
 http://media.cloudbrit.com:8080/ash12345678/ash12345678/1846764
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 4K+ HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/84425176201.png" group-title="CANAL+ SPORT",CANAL+ SPORT 4K+ HD
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 4K+ HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/84425176201.png" group-title="CANAL+ SPORT",CANAL+ SPORT 4K+ HDf
 http://media.cloudbrit.com:8080/ash12345678/ash12345678/1846763
 #EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 5" tvg-logo="http://sltv-logo.cms-s.com/logo/POLONIA/CANAL+_Sport_5.png" group-title="CANAL+ SPORT",CANAL+ SPORT 5
 http://media.cloudbrit.com:8080/ash12345678/ash12345678/1846762
@@ -950,13 +950,13 @@ http://media.cloudbrit.com:8080/ash12345678/ash12345678/1846760
 http://media.cloudbrit.com:8080/ash12345678/ash12345678/1846759
 #EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 2 FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/62426734951.png" group-title="CANAL+ SPORT",CANAL+ SPORT 2 FHD
 http://media.cloudbrit.com:8080/ash12345678/ash12345678/1846758
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 1 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/39044115691.png" group-title="CANAL+ SPORT",CANAL+ SPORT 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 1 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/39044115691.png" group-title="CANAL+ SPORT",CANAL+ SPORT 1 HDf
 http://media.cloudbrit.com:8080/ash12345678/ash12345678/1846757
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ 4K HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/9e4f4ee20d45eda9cd88afc929add208.png" group-title="CANAL+ SPORT",Canal+ 4K HD
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ 4K HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/9e4f4ee20d45eda9cd88afc929add208.png" group-title="CANAL+ SPORT",Canal+ 4K HDf
 http://media.cloudbrit.com:8080/ash12345678/ash12345678/1846752
 #EXTINF:-1 tvg-id="" tvg-name="Canal Sport 2 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/22180422621.png" group-title="CANAL+ SPORT",Canal Sport 2 HD
 http://media.cloudbrit.com:8080/ash12345678/ash12345678/1846750
-#EXTINF:-1 tvg-id="" tvg-name="Canal Sport 1 PLUS HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/21617829021.png" group-title="CANAL+ SPORT",Canal Sport 1 PLUS HD
+#EXTINF:-1 tvg-id="" tvg-name="Canal Sport 1 PLUS HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/21617829021.png" group-title="CANAL+ SPORT",Canal Sport 1 PLUS HDf
 http://media.cloudbrit.com:8080/ash12345678/ash12345678/1846749
 #EXTINF:-1 tvg-id="" tvg-name="VIP PPV KSW FIGHTS (LIVE ON MATCHES)" tvg-logo="" group-title="Sport",VIP PPV KSW FIGHTS (LIVE ON MATCHES)
 http://media.cloudbrit.com:8080/ash12345678/ash12345678/1846725
