@@ -64,7 +64,7 @@ http://vipvahz.top:8080/VIP016261740758943356/5b84d1a125b1/128984
 #EXTINF:-1 tvg-id="" tvg-name="CANAL+ 360" tvg-logo="https://docdog.top/logo/countries/poland/canal+360.png" group-title="CANAL+ SPORT",CANAL+ 360
 http://vipvahz.top:8080/VIP016261740758943356/5b84d1a125b1/132374
 
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="FAME MMA",FAME MMA 
+#EXTINF:-1 tvg-id="" tvg-name="FAME MMA" tvg-logo="" group-title="FAME MMA",FAME MMA
 http://vipvahz.top:8080/VIP016261740758943356/5b84d1a125b1/147084
 
 
@@ -130,7 +130,7 @@ http://vippccjuzfa.top:8080/VIP014721739297952336/be46c9d82151/128983
 http://vippccjuzfa.top:8080/VIP014721739297952336/be46c9d82151/128984
 #EXTINF:-1 tvg-id="" tvg-name="CANAL+ 360" tvg-logo="https://docdog.top/logo/countries/poland/canal+360.png" group-title="CANAL+ SPORT",CANAL+ 360
 http://vippccjuzfa.top:8080/VIP014721739297952336/be46c9d82151/132374
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="FAME MMA",FAME MMA 
+#EXTINF:-1 tvg-id="" tvg-name="FAME MMA" tvg-logo="" group-title="FAME MMA",FAME MMA
 http://vippccjuzfa.top:8080/VIP014721739297952336/be46c9d82151/147084
 
 
@@ -197,7 +197,7 @@ http://vippccjuzfa.top:8080/VIP018771750334860493/91b895d9d119/128983
 http://vippccjuzfa.top:8080/VIP018771750334860493/91b895d9d119/128984
 #EXTINF:-1 tvg-id="" tvg-name="CANAL+ 360" tvg-logo="https://docdog.top/logo/countries/poland/canal+360.png" group-title="CANAL+ SPORT",CANAL+ 360
 http://vippccjuzfa.top:8080/VIP018771750334860493/91b895d9d119/132374
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="FAME MMA",FAME MMA 
+#EXTINF:-1 tvg-id="" tvg-name="FAME MMA" tvg-logo="" group-title="FAME MMA",FAME MMA
 http://vippccjuzfa.top:8080/VIP018771750334860493/91b895d9d119/147084
 
 
@@ -264,7 +264,7 @@ http://vippccjuzfa.top:8080/VIP016221759856926993/5e53a8d6732d/128983
 http://vippccjuzfa.top:8080/VIP016221759856926993/5e53a8d6732d/128984
 #EXTINF:-1 tvg-id="" tvg-name="CANAL+ 360" tvg-logo="https://docdog.top/logo/countries/poland/canal+360.png" group-title="CANAL+ SPORT",CANAL+ 360
 http://vippccjuzfa.top:8080/VIP016221759856926993/5e53a8d6732d/132374
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="FAME MMA",FAME MMA 
+#EXTINF:-1 tvg-id="" tvg-name="FAME MMA" tvg-logo="" group-title="FAME MMA",FAME MMA
 http://vippccjuzfa.top:8080/VIP016221759856926993/5e53a8d6732d/147084
 
 
@@ -329,7 +329,7 @@ http://vippccjuzfa.top:8080/VIP016221759856926993/5e53a8d6732d/128983
 http://vippccjuzfa.top:8080/VIP016221759856926993/5e53a8d6732d/128984
 #EXTINF:-1 tvg-id="" tvg-name="CANAL+ 360" tvg-logo="https://docdog.top/logo/countries/poland/canal+360.png" group-title="CANAL+ SPORT",CANAL+ 360
 http://vippccjuzfa.top:8080/VIP016221759856926993/5e53a8d6732d/132374
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="FAME MMA",FAME MMA 
+#EXTINF:-1 tvg-id="" tvg-name="FAME MMA" tvg-logo="" group-title="FAME MMA",FAME MMA
 http://vippccjuzfa.top:8080/VIP016221759856926993/5e53a8d6732d/147084
 
 
@@ -387,17 +387,17 @@ http://vipbftn.xyz:8080/VIP0125173697175244/11737217471119/967
 http://vipbftn.xyz:8080/VIP0125173697175244/11737217471119/916
 #EXTINF:-1 group-title="Sport" ,EXTREME SPORTS
 http://vipbftn.xyz:8080/VIP0125173697175244/11737217471119/128952
-#EXTINF:-1 group-title="CANAL+ EXTRA 1",CANAL+ EXTRA 15
+#EXTINF:-1 tvg-id="Canal+ Extra 1" tvg-name="CANAL+ EXTRA 1" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_EXTRA_1_HD.png" group-title="CANAL+ EXTRA 1",CANAL+ EXTRA 15
 http://vipbftn.xyz:8080/VIP0125173697175244/11737217471119/128981
-#EXTINF:-1 group-title="Sport" ,CANAL+ EXTRA 2
+#EXTINF:-1 tvg-id="Canal+ Extra 2" tvg-name="CANAL+ EXTRA 2" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_EXTRA_2_HD.png" group-title="CANAL+ EXTRA 2",CANAL+ EXTRA 2
 http://vipbftn.xyz:8080/VIP0125173697175244/11737217471119/128982
-#EXTINF:-1 group-title="Sport" ,CANAL+ EXTRA 3
+#EXTINF:-1 tvg-id="Canal+ Extra 3" tvg-name="CANAL+ EXTRA 3" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_EXTRA_3_HD.png" group-title="CANAL+ EXTRA 3",CANAL+ EXTRA 3
 http://vipbftn.xyz:8080/VIP0125173697175244/11737217471119/128983
-#EXTINF:-1 group-title="Sport" ,CANAL+ EXTRA 4
+#EXTINF:-1 tvg-id="Canal+ Extra 4" tvg-name="CANAL+ EXTRA 4" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_EXTRA_4_HD.png" group-title="CANAL+ EXTRA 4",CANAL+ EXTRA 4
 http://vipbftn.xyz:8080/VIP0125173697175244/11737217471119/128984
 #EXTINF:-1 group-title="Sport" ,CANAL+ 360
 http://vipbftn.xyz:8080/VIP0125173697175244/11737217471119/132374
-#EXTINF:-1 group-title="Sport" ,FAME MMA 
+#EXTINF:-1 tvg-id="" tvg-name="FAME MMA" tvg-logo="" group-title="FAME MMA",FAME MMA
 http://vipbftn.xyz:8080/VIP0125173697175244/11737217471119/147084
 
 
@@ -460,7 +460,7 @@ http://vipboacnn.top:8080/VIP014391751994706511/b425720d22ff/128983
 http://vipboacnn.top:8080/VIP014391751994706511/b425720d22ff/128984
 #EXTINF:-1 tvg-id="" tvg-name="CANAL+ 360" tvg-logo="https://docdog.top/logo/countries/poland/canal+360.png" group-title="CANAL+ SPORT",CANAL+ 360
 http://vipboacnn.top:8080/VIP014391751994706511/b425720d22ff/132374
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="FAME MMA",FAME MMA 
+#EXTINF:-1 tvg-id="" tvg-name="FAME MMA" tvg-logo="" group-title="FAME MMA",FAME MMA
 http://vipboacnn.top:8080/VIP014391751994706511/b425720d22ff/147084
 
 
@@ -525,7 +525,7 @@ http://vipboacnn.top:8080/VIP016131749896365487/d53c4c8a5004/128983
 http://vipboacnn.top:8080/VIP016131749896365487/d53c4c8a5004/128984
 #EXTINF:-1 tvg-id="" tvg-name="CANAL+ 360" tvg-logo="https://docdog.top/logo/countries/poland/canal+360.png" group-title="CANAL+ SPORT",CANAL+ 360
 http://vipboacnn.top:8080/VIP016131749896365487/d53c4c8a5004/132374
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="FAME MMA",FAME MMA 
+#EXTINF:-1 tvg-id="" tvg-name="FAME MMA" tvg-logo="" group-title="FAME MMA",FAME MMA
 http://vipboacnn.top:8080/VIP016131749896365487/d53c4c8a5004/147084
 
 
@@ -591,7 +591,7 @@ http://vipboacnn.top:8080/VIP0147174852594590/91748525945756/128983
 http://vipboacnn.top:8080/VIP0147174852594590/91748525945756/128984
 #EXTINF:-1 tvg-id="" tvg-name="CANAL+ 360" tvg-logo="https://docdog.top/logo/countries/poland/canal+360.png" group-title="CANAL+ SPORT",CANAL+ 360
 http://vipboacnn.top:8080/VIP0147174852594590/91748525945756/132374
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="FAME MMA",FAME MMA 
+#EXTINF:-1 tvg-id="" tvg-name="FAME MMA" tvg-logo="" group-title="FAME MMA",FAME MMA
 http://vipboacnn.top:8080/VIP0147174852594590/91748525945756/147084
 
 
@@ -657,7 +657,7 @@ http://vipboacnn.top:8080/VIP016831744741402389/f9aabfcfa455/128983
 http://vipboacnn.top:8080/VIP016831744741402389/f9aabfcfa455/128984
 #EXTINF:-1 tvg-id="" tvg-name="CANAL+ 360" tvg-logo="https://docdog.top/logo/countries/poland/canal+360.png" group-title="CANAL+ SPORT",CANAL+ 360
 http://vipboacnn.top:8080/VIP016831744741402389/f9aabfcfa455/132374
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="FAME MMA",FAME MMA 
+#EXTINF:-1 tvg-id="" tvg-name="FAME MMA" tvg-logo="" group-title="FAME MMA",FAME MMA
 http://vipboacnn.top:8080/VIP016831744741402389/f9aabfcfa455/147084
 
 
@@ -722,7 +722,7 @@ http://vipboacnn.top:8080/VIP014671738444533326/5544ed50cc6a/128983
 http://vipboacnn.top:8080/VIP014671738444533326/5544ed50cc6a/128984
 #EXTINF:-1 tvg-id="" tvg-name="CANAL+ 360" tvg-logo="https://docdog.top/logo/countries/poland/canal+360.png" group-title="CANAL+ SPORT",CANAL+ 360
 http://vipboacnn.top:8080/VIP014671738444533326/5544ed50cc6a/132374
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="FAME MMA",FAME MMA 
+#EXTINF:-1 tvg-id="" tvg-name="FAME MMA" tvg-logo="" group-title="FAME MMA",FAME MMA
 http://vipboacnn.top:8080/VIP014671738444533326/5544ed50cc6a/147084
 
 
@@ -789,7 +789,7 @@ http://vipboacnn.top:8080/VIP014671738444533326/5544ed50cc6a/128983
 http://vipboacnn.top:8080/VIP014671738444533326/5544ed50cc6a/128984
 #EXTINF:-1 tvg-id="" tvg-name="CANAL+ 360" tvg-logo="https://docdog.top/logo/countries/poland/canal+360.png" group-title="CANAL+ SPORT",CANAL+ 360
 http://vipboacnn.top:8080/VIP014671738444533326/5544ed50cc6a/132374
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="FAME MMA",FAME MMA 
+#EXTINF:-1 tvg-id="" tvg-name="FAME MMA" tvg-logo="" group-title="FAME MMA",FAME MMA
 http://vipboacnn.top:8080/VIP014671738444533326/5544ed50cc6a/147084
 
 
@@ -855,7 +855,7 @@ http://vippccjuzfa.top:8080/VIP018771750334860493/91b895d9d119/128983
 http://vippccjuzfa.top:8080/VIP018771750334860493/91b895d9d119/128984
 #EXTINF:-1 tvg-id="" tvg-name="CANAL+ 360" tvg-logo="https://docdog.top/logo/countries/poland/canal+360.png" group-title="CANAL+ SPORT",CANAL+ 360
 http://vippccjuzfa.top:8080/VIP018771750334860493/91b895d9d119/132374
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="FAME MMA",FAME MMA 
+#EXTINF:-1 tvg-id="" tvg-name="FAME MMA" tvg-logo="" group-title="FAME MMA",FAME MMA
 http://vippccjuzfa.top:8080/VIP018771750334860493/91b895d9d119/147084
 
 
@@ -921,7 +921,7 @@ http://vippccjuzfa.top:8080/VIP014721739297952336/be46c9d82151/128983
 http://vippccjuzfa.top:8080/VIP014721739297952336/be46c9d82151/128984
 #EXTINF:-1 tvg-id="" tvg-name="CANAL+ 360" tvg-logo="https://docdog.top/logo/countries/poland/canal+360.png" group-title="CANAL+ SPORT",CANAL+ 360
 http://vippccjuzfa.top:8080/VIP014721739297952336/be46c9d82151/132374
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="FAME MMA",FAME MMA 
+#EXTINF:-1 tvg-id="" tvg-name="FAME MMA" tvg-logo="" group-title="FAME MMA",FAME MMA
 http://vippccjuzfa.top:8080/VIP014721739297952336/be46c9d82151/147084
 
 
@@ -987,7 +987,7 @@ http://vipvahz.top:8080/VIP016261740758943356/5b84d1a125b1/128983
 http://vipvahz.top:8080/VIP016261740758943356/5b84d1a125b1/128984
 #EXTINF:-1 tvg-id="" tvg-name="CANAL+ 360" tvg-logo="https://docdog.top/logo/countries/poland/canal+360.png" group-title="CANAL+ SPORT",CANAL+ 360
 http://vipvahz.top:8080/VIP016261740758943356/5b84d1a125b1/132374
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="FAME MMA",FAME MMA 
+#EXTINF:-1 tvg-id="" tvg-name="FAME MMA" tvg-logo="" group-title="FAME MMA",FAME MMA
 http://vipvahz.top:8080/VIP016261740758943356/5b84d1a125b1/147084
 
 
@@ -1054,7 +1054,7 @@ http://vippccjuzfa.top:8080/VIP016221759856926993/5e53a8d6732d/128983
 http://vippccjuzfa.top:8080/VIP016221759856926993/5e53a8d6732d/128984
 #EXTINF:-1 tvg-id="" tvg-name="CANAL+ 360" tvg-logo="https://docdog.top/logo/countries/poland/canal+360.png" group-title="CANAL+ SPORT",CANAL+ 360
 http://vippccjuzfa.top:8080/VIP016221759856926993/5e53a8d6732d/132374
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="FAME MMA",FAME MMA 
+#EXTINF:-1 tvg-id="" tvg-name="FAME MMA" tvg-logo="" group-title="FAME MMA",FAME MMA
 http://vippccjuzfa.top:8080/VIP016221759856926993/5e53a8d6732d/147084
 
 
@@ -1103,11 +1103,11 @@ http://bocian.io:8880/czesiu/NDtmoMETCWAy/155263
 http://bocian.io:8880/czesiu/NDtmoMETCWAy/155264
 #EXTINF:-1 tvg-id="Polsat Sport Premium 6" tvg-name="POLSAT SPORT PREMIUM PPV 6" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportpremiumppv6.png" group-title="POLSAT SPORT PREMIUM",POLSAT SPORT PREMIUM PPV 6
 http://bocian.io:8880/czesiu/NDtmoMETCWAy/155265
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Fightklub
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Fightklub
 http://bocian.io:8880/czesiu/NDtmoMETCWAy/155266
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Extreme Sports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Extreme Sports
 http://bocian.io:8880/czesiu/NDtmoMETCWAy/155267
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Sportklub
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Sportklub
 http://bocian.io:8880/czesiu/NDtmoMETCWAy/155268
 #EXTINF:-1 tvg-id="Eurosport" tvg-name="EUROSPORT 1" tvg-logo="https://docdog.top/logo/countries/poland/eurosport1.png" group-title="EUROSPORT",EUROSPORT 1
 http://bocian.io:8880/czesiu/NDtmoMETCWAy/155269
@@ -1115,9 +1115,9 @@ http://bocian.io:8880/czesiu/NDtmoMETCWAy/155269
 http://bocian.io:8880/czesiu/NDtmoMETCWAy/155270
 #EXTINF:-1 tvg-id="FightBox" tvg-name="FIGHTBOX" tvg-logo="https://docdog.top/logo/countries/poland/fightbox.png" group-title="Sport",FIGHTBOX
 http://bocian.io:8880/czesiu/NDtmoMETCWAy/155271
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Golf Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Golf Channel
 http://bocian.io:8880/czesiu/NDtmoMETCWAy/155272
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVP Sport
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVP Sport
 http://bocian.io:8880/czesiu/NDtmoMETCWAy/155273
 #EXTINF:-1 tvg-id="" tvg-name="Prime MMA" tvg-logo="" group-title="Prime MMA"Prime MMA
 http://bocian.io:8880/czesiu/NDtmoMETCWAy/154937
@@ -1159,7 +1159,7 @@ http://bocian.io:8880/czesiu/NDtmoMETCWAy/154936
 http://bocian.io:8880/czesiu/NDtmoMETCWAy/154938
 #EXTINF:-1 tvg-id="" tvg-name="UFC" tvg-logo="" group-title="UFC "UFC Fight Pass HD
 http://bocian.io:8880/czesiu/NDtmoMETCWAy/152912
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"WWE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"WWE
 http://bocian.io:8880/czesiu/NDtmoMETCWAy/152822
 #EXTINF:-1 tvg-id="" tvg-name="FEN" tvg-logo="" group-title="FEN"FEN
 http://bocian.io:8880/czesiu/NDtmoMETCWAy/154939
@@ -1210,11 +1210,11 @@ http://bocian.io:8880/ewinda/34jxWcSfywns/105538
 http://bocian.io:8880/ewinda/34jxWcSfywns/105539
 #EXTINF:-1 tvg-id="Polsat Sport Premium 6" tvg-name="POLSAT SPORT PREMIUM PPV 6" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportpremiumppv6.png" group-title="POLSAT SPORT PREMIUM",POLSAT SPORT PREMIUM PPV 6 HD
 http://bocian.io:8880/ewinda/34jxWcSfywns/105540
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Fightklub HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Fightklub HD
 http://bocian.io:8880/ewinda/34jxWcSfywns/105541
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Extreme Sports Channel HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Extreme Sports Channel HD
 http://bocian.io:8880/ewinda/34jxWcSfywns/105542
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Sportklub HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Sportklub HD
 http://bocian.io:8880/ewinda/34jxWcSfywns/105543
 #EXTINF:-1 tvg-id="Eurosport" tvg-name="EUROSPORT 1" tvg-logo="https://docdog.top/logo/countries/poland/eurosport1.png" group-title="EUROSPORT",EUROSPORT 1 HD
 http://bocian.io:8880/ewinda/34jxWcSfywns/105544
@@ -1222,9 +1222,9 @@ http://bocian.io:8880/ewinda/34jxWcSfywns/105544
 http://bocian.io:8880/ewinda/34jxWcSfywns/105545
 #EXTINF:-1 tvg-id="FightBox" tvg-name="FIGHTBOX" tvg-logo="https://docdog.top/logo/countries/poland/fightbox.png" group-title="Sport",FIGHTBOX HD
 http://bocian.io:8880/ewinda/34jxWcSfywns/105546
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Golf Zone HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Golf Zone HD
 http://bocian.io:8880/ewinda/34jxWcSfywns/105547
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVP Sport HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVP Sport HD
 http://bocian.io:8880/ewinda/34jxWcSfywns/105548
 #EXTINF:-1 tvg-id="Canal+ Sport" tvg-name="CANAL+ SPORT" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT.png" group-title="CANAL+ SPORT",CANAL+ SPORT
 http://bocian.io:8880/ewinda/34jxWcSfywns/155244
@@ -1268,11 +1268,11 @@ http://bocian.io:8880/ewinda/34jxWcSfywns/155263
 http://bocian.io:8880/ewinda/34jxWcSfywns/155264
 #EXTINF:-1 tvg-id="Polsat Sport Premium 6" tvg-name="POLSAT SPORT PREMIUM PPV 6" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportpremiumppv6.png" group-title="POLSAT SPORT PREMIUM",POLSAT SPORT PREMIUM PPV 6
 http://bocian.io:8880/ewinda/34jxWcSfywns/155265
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Fightklub
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Fightklub
 http://bocian.io:8880/ewinda/34jxWcSfywns/155266
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Extreme Sports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Extreme Sports
 http://bocian.io:8880/ewinda/34jxWcSfywns/155267
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Sportklub
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Sportklub
 http://bocian.io:8880/ewinda/34jxWcSfywns/155268
 #EXTINF:-1 tvg-id="Eurosport" tvg-name="EUROSPORT 1" tvg-logo="https://docdog.top/logo/countries/poland/eurosport1.png" group-title="EUROSPORT",EUROSPORT 1
 http://bocian.io:8880/ewinda/34jxWcSfywns/155269
@@ -1280,9 +1280,9 @@ http://bocian.io:8880/ewinda/34jxWcSfywns/155269
 http://bocian.io:8880/ewinda/34jxWcSfywns/155270
 #EXTINF:-1 tvg-id="FightBox" tvg-name="FIGHTBOX" tvg-logo="https://docdog.top/logo/countries/poland/fightbox.png" group-title="Sport",FIGHTBOX
 http://bocian.io:8880/ewinda/34jxWcSfywns/155271
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Golf Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Golf Channel
 http://bocian.io:8880/ewinda/34jxWcSfywns/155272
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVP Sport
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVP Sport
 http://bocian.io:8880/ewinda/34jxWcSfywns/155273
 #EXTINF:-1 tvg-id="" tvg-name="Prime MMA" tvg-logo="" group-title="Prime MMA"Prime MMA
 http://bocian.io:8880/ewinda/34jxWcSfywns/154937
@@ -1324,7 +1324,7 @@ http://bocian.io:8880/ewinda/34jxWcSfywns/154936
 http://bocian.io:8880/ewinda/34jxWcSfywns/154938
 #EXTINF:-1 tvg-id="" tvg-name="UFC" tvg-logo="" group-title="UFC "UFC Fight Pass HD
 http://bocian.io:8880/ewinda/34jxWcSfywns/152912
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"WWE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"WWE
 http://bocian.io:8880/ewinda/34jxWcSfywns/152822
 #EXTINF:-1 tvg-id="" tvg-name="FEN" tvg-logo="" group-title="FEN"FEN
 http://bocian.io:8880/ewinda/34jxWcSfywns/154939
@@ -1376,11 +1376,11 @@ http://bocian.io:8880/magda61/y6aoMEnj3r72/105538
 http://bocian.io:8880/magda61/y6aoMEnj3r72/105539
 #EXTINF:-1 tvg-id="Polsat Sport Premium 6" tvg-name="POLSAT SPORT PREMIUM PPV 6" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportpremiumppv6.png" group-title="POLSAT SPORT PREMIUM",POLSAT SPORT PREMIUM PPV 6 HD
 http://bocian.io:8880/magda61/y6aoMEnj3r72/105540
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Fightklub HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Fightklub HD
 http://bocian.io:8880/magda61/y6aoMEnj3r72/105541
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Extreme Sports Channel HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Extreme Sports Channel HD
 http://bocian.io:8880/magda61/y6aoMEnj3r72/105542
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Sportklub HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Sportklub HD
 http://bocian.io:8880/magda61/y6aoMEnj3r72/105543
 #EXTINF:-1 tvg-id="Eurosport" tvg-name="EUROSPORT 1" tvg-logo="https://docdog.top/logo/countries/poland/eurosport1.png" group-title="EUROSPORT",EUROSPORT 1 HD
 http://bocian.io:8880/magda61/y6aoMEnj3r72/105544
@@ -1388,9 +1388,9 @@ http://bocian.io:8880/magda61/y6aoMEnj3r72/105544
 http://bocian.io:8880/magda61/y6aoMEnj3r72/105545
 #EXTINF:-1 tvg-id="FightBox" tvg-name="FIGHTBOX" tvg-logo="https://docdog.top/logo/countries/poland/fightbox.png" group-title="Sport",FIGHTBOX HD
 http://bocian.io:8880/magda61/y6aoMEnj3r72/105546
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Golf Zone HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Golf Zone HD
 http://bocian.io:8880/magda61/y6aoMEnj3r72/105547
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVP Sport HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVP Sport HD
 http://bocian.io:8880/magda61/y6aoMEnj3r72/105548
 #EXTINF:-1 tvg-id="Canal+ Sport" tvg-name="CANAL+ SPORT" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT.png" group-title="CANAL+ SPORT",CANAL+ SPORT
 http://bocian.io:8880/magda61/y6aoMEnj3r72/155244
@@ -1434,11 +1434,11 @@ http://bocian.io:8880/magda61/y6aoMEnj3r72/155263
 http://bocian.io:8880/magda61/y6aoMEnj3r72/155264
 #EXTINF:-1 tvg-id="Polsat Sport Premium 6" tvg-name="POLSAT SPORT PREMIUM PPV 6" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportpremiumppv6.png" group-title="POLSAT SPORT PREMIUM",POLSAT SPORT PREMIUM PPV 6
 http://bocian.io:8880/magda61/y6aoMEnj3r72/155265
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Fightklub
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Fightklub
 http://bocian.io:8880/magda61/y6aoMEnj3r72/155266
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Extreme Sports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Extreme Sports
 http://bocian.io:8880/magda61/y6aoMEnj3r72/155267
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Sportklub
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Sportklub
 http://bocian.io:8880/magda61/y6aoMEnj3r72/155268
 #EXTINF:-1 tvg-id="Eurosport" tvg-name="EUROSPORT 1" tvg-logo="https://docdog.top/logo/countries/poland/eurosport1.png" group-title="EUROSPORT",EUROSPORT 1
 http://bocian.io:8880/magda61/y6aoMEnj3r72/155269
@@ -1446,9 +1446,9 @@ http://bocian.io:8880/magda61/y6aoMEnj3r72/155269
 http://bocian.io:8880/magda61/y6aoMEnj3r72/155270
 #EXTINF:-1 tvg-id="FightBox" tvg-name="FIGHTBOX" tvg-logo="https://docdog.top/logo/countries/poland/fightbox.png" group-title="Sport",FIGHTBOX
 http://bocian.io:8880/magda61/y6aoMEnj3r72/155271
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Golf Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Golf Channel
 http://bocian.io:8880/magda61/y6aoMEnj3r72/155272
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVP Sport
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVP Sport
 http://bocian.io:8880/magda61/y6aoMEnj3r72/155273
 #EXTINF:-1 tvg-id="" tvg-name="Prime MMA" tvg-logo="" group-title="Prime MMA"Prime MMA
 http://bocian.io:8880/magda61/y6aoMEnj3r72/154937
@@ -1490,7 +1490,7 @@ http://bocian.io:8880/magda61/y6aoMEnj3r72/154936
 http://bocian.io:8880/magda61/y6aoMEnj3r72/154938
 #EXTINF:-1 tvg-id="" tvg-name="UFC" tvg-logo="" group-title="UFC "UFC Fight Pass HD
 http://bocian.io:8880/magda61/y6aoMEnj3r72/152912
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"WWE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"WWE
 http://bocian.io:8880/magda61/y6aoMEnj3r72/152822
 #EXTINF:-1 tvg-id="" tvg-name="FEN" tvg-logo="" group-title="FEN"FEN
 http://bocian.io:8880/magda61/y6aoMEnj3r72/154939
@@ -1542,11 +1542,11 @@ http://bocian.io:8880/ajVfPR5gNDQY/H5pDVr5sU2DN/105538
 http://bocian.io:8880/ajVfPR5gNDQY/H5pDVr5sU2DN/105539
 #EXTINF:-1 tvg-id="Polsat Sport Premium 6" tvg-name="POLSAT SPORT PREMIUM PPV 6" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportpremiumppv6.png" group-title="POLSAT SPORT PREMIUM",POLSAT SPORT PREMIUM PPV 6 HD
 http://bocian.io:8880/ajVfPR5gNDQY/H5pDVr5sU2DN/105540
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Fightklub HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Fightklub HD
 http://bocian.io:8880/ajVfPR5gNDQY/H5pDVr5sU2DN/105541
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Extreme Sports Channel HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Extreme Sports Channel HD
 http://bocian.io:8880/ajVfPR5gNDQY/H5pDVr5sU2DN/105542
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Sportklub HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Sportklub HD
 http://bocian.io:8880/ajVfPR5gNDQY/H5pDVr5sU2DN/105543
 #EXTINF:-1 tvg-id="Eurosport" tvg-name="EUROSPORT 1" tvg-logo="https://docdog.top/logo/countries/poland/eurosport1.png" group-title="EUROSPORT",EUROSPORT 1 HD
 http://bocian.io:8880/ajVfPR5gNDQY/H5pDVr5sU2DN/105544
@@ -1554,9 +1554,9 @@ http://bocian.io:8880/ajVfPR5gNDQY/H5pDVr5sU2DN/105544
 http://bocian.io:8880/ajVfPR5gNDQY/H5pDVr5sU2DN/105545
 #EXTINF:-1 tvg-id="FightBox" tvg-name="FIGHTBOX" tvg-logo="https://docdog.top/logo/countries/poland/fightbox.png" group-title="Sport",FIGHTBOX HD
 http://bocian.io:8880/ajVfPR5gNDQY/H5pDVr5sU2DN/105546
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Golf Zone HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Golf Zone HD
 http://bocian.io:8880/ajVfPR5gNDQY/H5pDVr5sU2DN/105547
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVP Sport HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVP Sport HD
 http://bocian.io:8880/ajVfPR5gNDQY/H5pDVr5sU2DN/105548
 #EXTINF:-1 tvg-id="Canal+ Sport" tvg-name="CANAL+ SPORT" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT.png" group-title="CANAL+ SPORT",CANAL+ SPORT
 http://bocian.io:8880/ajVfPR5gNDQY/H5pDVr5sU2DN/155244
@@ -1600,11 +1600,11 @@ http://bocian.io:8880/ajVfPR5gNDQY/H5pDVr5sU2DN/155263
 http://bocian.io:8880/ajVfPR5gNDQY/H5pDVr5sU2DN/155264
 #EXTINF:-1 tvg-id="Polsat Sport Premium 6" tvg-name="POLSAT SPORT PREMIUM PPV 6" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportpremiumppv6.png" group-title="POLSAT SPORT PREMIUM",POLSAT SPORT PREMIUM PPV 6
 http://bocian.io:8880/ajVfPR5gNDQY/H5pDVr5sU2DN/155265
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Fightklub
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Fightklub
 http://bocian.io:8880/ajVfPR5gNDQY/H5pDVr5sU2DN/155266
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Extreme Sports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Extreme Sports
 http://bocian.io:8880/ajVfPR5gNDQY/H5pDVr5sU2DN/155267
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Sportklub
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Sportklub
 http://bocian.io:8880/ajVfPR5gNDQY/H5pDVr5sU2DN/155268
 #EXTINF:-1 tvg-id="Eurosport" tvg-name="EUROSPORT 1" tvg-logo="https://docdog.top/logo/countries/poland/eurosport1.png" group-title="EUROSPORT",EUROSPORT 1
 http://bocian.io:8880/ajVfPR5gNDQY/H5pDVr5sU2DN/155269
@@ -1612,9 +1612,9 @@ http://bocian.io:8880/ajVfPR5gNDQY/H5pDVr5sU2DN/155269
 http://bocian.io:8880/ajVfPR5gNDQY/H5pDVr5sU2DN/155270
 #EXTINF:-1 tvg-id="FightBox" tvg-name="FIGHTBOX" tvg-logo="https://docdog.top/logo/countries/poland/fightbox.png" group-title="Sport",FIGHTBOX
 http://bocian.io:8880/ajVfPR5gNDQY/H5pDVr5sU2DN/155271
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Golf Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Golf Channel
 http://bocian.io:8880/ajVfPR5gNDQY/H5pDVr5sU2DN/155272
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVP Sport
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVP Sport
 http://bocian.io:8880/ajVfPR5gNDQY/H5pDVr5sU2DN/155273
 #EXTINF:-1 tvg-id="" tvg-name="Prime MMA" tvg-logo="" group-title="Prime MMA"Prime MMA
 http://bocian.io:8880/ajVfPR5gNDQY/H5pDVr5sU2DN/154937
@@ -1656,7 +1656,7 @@ http://bocian.io:8880/ajVfPR5gNDQY/H5pDVr5sU2DN/154936
 http://bocian.io:8880/ajVfPR5gNDQY/H5pDVr5sU2DN/154938
 #EXTINF:-1 tvg-id="" tvg-name="UFC" tvg-logo="" group-title="UFC "UFC Fight Pass HD
 http://bocian.io:8880/ajVfPR5gNDQY/H5pDVr5sU2DN/152912
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"WWE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"WWE
 http://bocian.io:8880/ajVfPR5gNDQY/H5pDVr5sU2DN/152822
 #EXTINF:-1 tvg-id="" tvg-name="FEN" tvg-logo="" group-title="FEN"FEN
 http://bocian.io:8880/ajVfPR5gNDQY/H5pDVr5sU2DN/154939
@@ -1708,11 +1708,11 @@ http://bocian.io:8880/staszic92/MjI4ODQ4Mjg4/105538
 http://bocian.io:8880/staszic92/MjI4ODQ4Mjg4/105539
 #EXTINF:-1 tvg-id="Polsat Sport Premium 6" tvg-name="POLSAT SPORT PREMIUM PPV 6" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportpremiumppv6.png" group-title="POLSAT SPORT PREMIUM",POLSAT SPORT PREMIUM PPV 6 HD
 http://bocian.io:8880/staszic92/MjI4ODQ4Mjg4/105540
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Fightklub HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Fightklub HD
 http://bocian.io:8880/staszic92/MjI4ODQ4Mjg4/105541
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Extreme Sports Channel HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Extreme Sports Channel HD
 http://bocian.io:8880/staszic92/MjI4ODQ4Mjg4/105542
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Sportklub HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Sportklub HD
 http://bocian.io:8880/staszic92/MjI4ODQ4Mjg4/105543
 #EXTINF:-1 tvg-id="Eurosport" tvg-name="EUROSPORT 1" tvg-logo="https://docdog.top/logo/countries/poland/eurosport1.png" group-title="EUROSPORT",EUROSPORT 1 HD
 http://bocian.io:8880/staszic92/MjI4ODQ4Mjg4/105544
@@ -1720,11 +1720,11 @@ http://bocian.io:8880/staszic92/MjI4ODQ4Mjg4/105544
 http://bocian.io:8880/staszic92/MjI4ODQ4Mjg4/105545
 #EXTINF:-1 tvg-id="FightBox" tvg-name="FIGHTBOX" tvg-logo="https://docdog.top/logo/countries/poland/fightbox.png" group-title="Sport",FIGHTBOX HD
 http://bocian.io:8880/staszic92/MjI4ODQ4Mjg4/105546
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Golf Zone HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Golf Zone HD
 http://bocian.io:8880/staszic92/MjI4ODQ4Mjg4/105547
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVP Sport HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVP Sport HD
 http://bocian.io:8880/staszic92/MjI4ODQ4Mjg4/105548
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Motowizja
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Motowizja
 http://bocian.io:8880/staszic92/MjI4ODQ4Mjg4/155243
 #EXTINF:-1 tvg-id="Canal+ Sport" tvg-name="CANAL+ SPORT" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT.png" group-title="CANAL+ SPORT",CANAL+ SPORT
 http://bocian.io:8880/staszic92/MjI4ODQ4Mjg4/155244
@@ -1768,11 +1768,11 @@ http://bocian.io:8880/staszic92/MjI4ODQ4Mjg4/155263
 http://bocian.io:8880/staszic92/MjI4ODQ4Mjg4/155264
 #EXTINF:-1 tvg-id="Polsat Sport Premium 6" tvg-name="POLSAT SPORT PREMIUM PPV 6" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportpremiumppv6.png" group-title="POLSAT SPORT PREMIUM",POLSAT SPORT PREMIUM PPV 6
 http://bocian.io:8880/staszic92/MjI4ODQ4Mjg4/155265
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Fightklub
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Fightklub
 http://bocian.io:8880/staszic92/MjI4ODQ4Mjg4/155266
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Extreme Sports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Extreme Sports
 http://bocian.io:8880/staszic92/MjI4ODQ4Mjg4/155267
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Sportklub
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Sportklub
 http://bocian.io:8880/staszic92/MjI4ODQ4Mjg4/155268
 #EXTINF:-1 tvg-id="Eurosport" tvg-name="EUROSPORT 1" tvg-logo="https://docdog.top/logo/countries/poland/eurosport1.png" group-title="EUROSPORT",EUROSPORT 1
 http://bocian.io:8880/staszic92/MjI4ODQ4Mjg4/155269
@@ -1780,9 +1780,9 @@ http://bocian.io:8880/staszic92/MjI4ODQ4Mjg4/155269
 http://bocian.io:8880/staszic92/MjI4ODQ4Mjg4/155270
 #EXTINF:-1 tvg-id="FightBox" tvg-name="FIGHTBOX" tvg-logo="https://docdog.top/logo/countries/poland/fightbox.png" group-title="Sport",FIGHTBOX
 http://bocian.io:8880/staszic92/MjI4ODQ4Mjg4/155271
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Golf Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Golf Channel
 http://bocian.io:8880/staszic92/MjI4ODQ4Mjg4/155272
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVP Sport
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVP Sport
 http://bocian.io:8880/staszic92/MjI4ODQ4Mjg4/155273
 #EXTINF:-1 tvg-id="" tvg-name="Prime MMA" tvg-logo="" group-title="Prime MMA"Prime MMA
 http://bocian.io:8880/staszic92/MjI4ODQ4Mjg4/154937
@@ -1824,7 +1824,7 @@ http://bocian.io:8880/staszic92/MjI4ODQ4Mjg4/154936
 http://bocian.io:8880/staszic92/MjI4ODQ4Mjg4/154938
 #EXTINF:-1 tvg-id="" tvg-name="UFC" tvg-logo="" group-title="UFC "UFC Fight Pass HD
 http://bocian.io:8880/staszic92/MjI4ODQ4Mjg4/152912
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"WWE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"WWE
 http://bocian.io:8880/staszic92/MjI4ODQ4Mjg4/152822
 #EXTINF:-1 tvg-id="" tvg-name="FEN" tvg-logo="" group-title="FEN"FEN
 http://bocian.io:8880/staszic92/MjI4ODQ4Mjg4/154939
@@ -1877,11 +1877,11 @@ http://bocian.io:8880/angelika16/OTcyMDgyMjcz/105538
 http://bocian.io:8880/angelika16/OTcyMDgyMjcz/105539
 #EXTINF:-1 tvg-id="Polsat Sport Premium 6" tvg-name="POLSAT SPORT PREMIUM PPV 6" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportpremiumppv6.png" group-title="POLSAT SPORT PREMIUM",POLSAT SPORT PREMIUM PPV 6 HD
 http://bocian.io:8880/angelika16/OTcyMDgyMjcz/105540
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Fightklub HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Fightklub HD
 http://bocian.io:8880/angelika16/OTcyMDgyMjcz/105541
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Extreme Sports Channel HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Extreme Sports Channel HD
 http://bocian.io:8880/angelika16/OTcyMDgyMjcz/105542
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Sportklub HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Sportklub HD
 http://bocian.io:8880/angelika16/OTcyMDgyMjcz/105543
 #EXTINF:-1 tvg-id="Eurosport" tvg-name="EUROSPORT 1" tvg-logo="https://docdog.top/logo/countries/poland/eurosport1.png" group-title="EUROSPORT",EUROSPORT 1 HD
 http://bocian.io:8880/angelika16/OTcyMDgyMjcz/105544
@@ -1889,9 +1889,9 @@ http://bocian.io:8880/angelika16/OTcyMDgyMjcz/105544
 http://bocian.io:8880/angelika16/OTcyMDgyMjcz/105545
 #EXTINF:-1 tvg-id="FightBox" tvg-name="FIGHTBOX" tvg-logo="https://docdog.top/logo/countries/poland/fightbox.png" group-title="Sport",FIGHTBOX HD
 http://bocian.io:8880/angelika16/OTcyMDgyMjcz/105546
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Golf Zone HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Golf Zone HD
 http://bocian.io:8880/angelika16/OTcyMDgyMjcz/105547
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVP Sport HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVP Sport HD
 http://bocian.io:8880/angelika16/OTcyMDgyMjcz/105548
 #EXTINF:-1 tvg-id="Canal+ Sport" tvg-name="CANAL+ SPORT" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT.png" group-title="CANAL+ SPORT",CANAL+ SPORT
 http://bocian.io:8880/angelika16/OTcyMDgyMjcz/155244
@@ -1935,11 +1935,11 @@ http://bocian.io:8880/angelika16/OTcyMDgyMjcz/155263
 http://bocian.io:8880/angelika16/OTcyMDgyMjcz/155264
 #EXTINF:-1 tvg-id="Polsat Sport Premium 6" tvg-name="POLSAT SPORT PREMIUM PPV 6" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportpremiumppv6.png" group-title="POLSAT SPORT PREMIUM",POLSAT SPORT PREMIUM PPV 6
 http://bocian.io:8880/angelika16/OTcyMDgyMjcz/155265
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Fightklub
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Fightklub
 http://bocian.io:8880/angelika16/OTcyMDgyMjcz/155266
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Extreme Sports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Extreme Sports
 http://bocian.io:8880/angelika16/OTcyMDgyMjcz/155267
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Sportklub
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Sportklub
 http://bocian.io:8880/angelika16/OTcyMDgyMjcz/155268
 #EXTINF:-1 tvg-id="Eurosport" tvg-name="EUROSPORT 1" tvg-logo="https://docdog.top/logo/countries/poland/eurosport1.png" group-title="EUROSPORT",EUROSPORT 1
 http://bocian.io:8880/angelika16/OTcyMDgyMjcz/155269
@@ -1947,9 +1947,9 @@ http://bocian.io:8880/angelika16/OTcyMDgyMjcz/155269
 http://bocian.io:8880/angelika16/OTcyMDgyMjcz/155270
 #EXTINF:-1 tvg-id="FightBox" tvg-name="FIGHTBOX" tvg-logo="https://docdog.top/logo/countries/poland/fightbox.png" group-title="Sport",FIGHTBOX
 http://bocian.io:8880/angelika16/OTcyMDgyMjcz/155271
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Golf Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Golf Channel
 http://bocian.io:8880/angelika16/OTcyMDgyMjcz/155272
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVP Sport
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVP Sport
 http://bocian.io:8880/angelika16/OTcyMDgyMjcz/155273
 #EXTINF:-1 tvg-id="" tvg-name="Prime MMA" tvg-logo="" group-title="Prime MMA"Prime MMA
 http://bocian.io:8880/angelika16/OTcyMDgyMjcz/154937
@@ -1991,7 +1991,7 @@ http://bocian.io:8880/angelika16/OTcyMDgyMjcz/154936
 http://bocian.io:8880/angelika16/OTcyMDgyMjcz/154938
 #EXTINF:-1 tvg-id="" tvg-name="UFC" tvg-logo="" group-title="UFC "UFC Fight Pass HD
 http://bocian.io:8880/angelika16/OTcyMDgyMjcz/152912
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"WWE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"WWE
 http://bocian.io:8880/angelika16/OTcyMDgyMjcz/152822
 #EXTINF:-1 tvg-id="" tvg-name="FEN" tvg-logo="" group-title="FEN"FEN
 http://bocian.io:8880/angelika16/OTcyMDgyMjcz/154939
@@ -2044,11 +2044,11 @@ http://bocian.io:8880/julia16/Th9r5P3nDsgz/105538
 http://bocian.io:8880/julia16/Th9r5P3nDsgz/105539
 #EXTINF:-1 tvg-id="Polsat Sport Premium 6" tvg-name="POLSAT SPORT PREMIUM PPV 6" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportpremiumppv6.png" group-title="POLSAT SPORT PREMIUM",POLSAT SPORT PREMIUM PPV 6 HD
 http://bocian.io:8880/julia16/Th9r5P3nDsgz/105540
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Fightklub HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Fightklub HD
 http://bocian.io:8880/julia16/Th9r5P3nDsgz/105541
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Extreme Sports Channel HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Extreme Sports Channel HD
 http://bocian.io:8880/julia16/Th9r5P3nDsgz/105542
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Sportklub HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Sportklub HD
 http://bocian.io:8880/julia16/Th9r5P3nDsgz/105543
 #EXTINF:-1 tvg-id="Eurosport" tvg-name="EUROSPORT 1" tvg-logo="https://docdog.top/logo/countries/poland/eurosport1.png" group-title="EUROSPORT",EUROSPORT 1 HD
 http://bocian.io:8880/julia16/Th9r5P3nDsgz/105544
@@ -2056,9 +2056,9 @@ http://bocian.io:8880/julia16/Th9r5P3nDsgz/105544
 http://bocian.io:8880/julia16/Th9r5P3nDsgz/105545
 #EXTINF:-1 tvg-id="FightBox" tvg-name="FIGHTBOX" tvg-logo="https://docdog.top/logo/countries/poland/fightbox.png" group-title="Sport",FIGHTBOX HD
 http://bocian.io:8880/julia16/Th9r5P3nDsgz/105546
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Golf Zone HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Golf Zone HD
 http://bocian.io:8880/julia16/Th9r5P3nDsgz/105547
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVP Sport HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVP Sport HD
 http://bocian.io:8880/julia16/Th9r5P3nDsgz/105548
 #EXTINF:-1 tvg-id="Canal+ Sport" tvg-name="CANAL+ SPORT" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT.png" group-title="CANAL+ SPORT",CANAL+ SPORT
 http://bocian.io:8880/julia16/Th9r5P3nDsgz/155244
@@ -2102,11 +2102,11 @@ http://bocian.io:8880/julia16/Th9r5P3nDsgz/155263
 http://bocian.io:8880/julia16/Th9r5P3nDsgz/155264
 #EXTINF:-1 tvg-id="Polsat Sport Premium 6" tvg-name="POLSAT SPORT PREMIUM PPV 6" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportpremiumppv6.png" group-title="POLSAT SPORT PREMIUM",POLSAT SPORT PREMIUM PPV 6
 http://bocian.io:8880/julia16/Th9r5P3nDsgz/155265
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Fightklub
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Fightklub
 http://bocian.io:8880/julia16/Th9r5P3nDsgz/155266
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Extreme Sports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Extreme Sports
 http://bocian.io:8880/julia16/Th9r5P3nDsgz/155267
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Sportklub
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Sportklub
 http://bocian.io:8880/julia16/Th9r5P3nDsgz/155268
 #EXTINF:-1 tvg-id="Eurosport" tvg-name="EUROSPORT 1" tvg-logo="https://docdog.top/logo/countries/poland/eurosport1.png" group-title="EUROSPORT",EUROSPORT 1
 http://bocian.io:8880/julia16/Th9r5P3nDsgz/155269
@@ -2114,9 +2114,9 @@ http://bocian.io:8880/julia16/Th9r5P3nDsgz/155269
 http://bocian.io:8880/julia16/Th9r5P3nDsgz/155270
 #EXTINF:-1 tvg-id="FightBox" tvg-name="FIGHTBOX" tvg-logo="https://docdog.top/logo/countries/poland/fightbox.png" group-title="Sport",FIGHTBOX
 http://bocian.io:8880/julia16/Th9r5P3nDsgz/155271
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Golf Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Golf Channel
 http://bocian.io:8880/julia16/Th9r5P3nDsgz/155272
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVP Sport
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVP Sport
 http://bocian.io:8880/julia16/Th9r5P3nDsgz/155273
 #EXTINF:-1 tvg-id="" tvg-name="Prime MMA" tvg-logo="" group-title="Prime MMA"Prime MMA
 http://bocian.io:8880/julia16/Th9r5P3nDsgz/154937
@@ -2158,7 +2158,7 @@ http://bocian.io:8880/julia16/Th9r5P3nDsgz/154936
 http://bocian.io:8880/julia16/Th9r5P3nDsgz/154938
 #EXTINF:-1 tvg-id="" tvg-name="UFC" tvg-logo="" group-title="UFC "UFC Fight Pass HD
 http://bocian.io:8880/julia16/Th9r5P3nDsgz/152912
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"WWE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"WWE
 http://bocian.io:8880/julia16/Th9r5P3nDsgz/152822
 #EXTINF:-1 tvg-id="" tvg-name="FEN" tvg-logo="" group-title="FEN"FEN
 http://bocian.io:8880/julia16/Th9r5P3nDsgz/154939
@@ -2211,11 +2211,11 @@ http://bocian.io:8880/kaszir/MzExOTIzMTc2/105538
 http://bocian.io:8880/kaszir/MzExOTIzMTc2/105539
 #EXTINF:-1 tvg-id="Polsat Sport Premium 6" tvg-name="POLSAT SPORT PREMIUM PPV 6" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportpremiumppv6.png" group-title="POLSAT SPORT PREMIUM",POLSAT SPORT PREMIUM PPV 6 HD
 http://bocian.io:8880/kaszir/MzExOTIzMTc2/105540
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Fightklub HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Fightklub HD
 http://bocian.io:8880/kaszir/MzExOTIzMTc2/105541
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Extreme Sports Channel HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Extreme Sports Channel HD
 http://bocian.io:8880/kaszir/MzExOTIzMTc2/105542
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Sportklub HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Sportklub HD
 http://bocian.io:8880/kaszir/MzExOTIzMTc2/105543
 #EXTINF:-1 tvg-id="Eurosport" tvg-name="EUROSPORT 1" tvg-logo="https://docdog.top/logo/countries/poland/eurosport1.png" group-title="EUROSPORT",EUROSPORT 1 HD
 http://bocian.io:8880/kaszir/MzExOTIzMTc2/105544
@@ -2223,9 +2223,9 @@ http://bocian.io:8880/kaszir/MzExOTIzMTc2/105544
 http://bocian.io:8880/kaszir/MzExOTIzMTc2/105545
 #EXTINF:-1 tvg-id="FightBox" tvg-name="FIGHTBOX" tvg-logo="https://docdog.top/logo/countries/poland/fightbox.png" group-title="Sport",FIGHTBOX HD
 http://bocian.io:8880/kaszir/MzExOTIzMTc2/105546
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Golf Zone HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Golf Zone HD
 http://bocian.io:8880/kaszir/MzExOTIzMTc2/105547
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVP Sport HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVP Sport HD
 http://bocian.io:8880/kaszir/MzExOTIzMTc2/105548
 #EXTINF:-1 tvg-id="Canal+ Sport" tvg-name="CANAL+ SPORT" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT.png" group-title="CANAL+ SPORT",CANAL+ SPORT
 http://bocian.io:8880/kaszir/MzExOTIzMTc2/155244
@@ -2269,11 +2269,11 @@ http://bocian.io:8880/kaszir/MzExOTIzMTc2/155263
 http://bocian.io:8880/kaszir/MzExOTIzMTc2/155264
 #EXTINF:-1 tvg-id="Polsat Sport Premium 6" tvg-name="POLSAT SPORT PREMIUM PPV 6" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportpremiumppv6.png" group-title="POLSAT SPORT PREMIUM",POLSAT SPORT PREMIUM PPV 6
 http://bocian.io:8880/kaszir/MzExOTIzMTc2/155265
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Fightklub
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Fightklub
 http://bocian.io:8880/kaszir/MzExOTIzMTc2/155266
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Extreme Sports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Extreme Sports
 http://bocian.io:8880/kaszir/MzExOTIzMTc2/155267
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Sportklub
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Sportklub
 http://bocian.io:8880/kaszir/MzExOTIzMTc2/155268
 #EXTINF:-1 tvg-id="Eurosport" tvg-name="EUROSPORT 1" tvg-logo="https://docdog.top/logo/countries/poland/eurosport1.png" group-title="EUROSPORT",EUROSPORT 1
 http://bocian.io:8880/kaszir/MzExOTIzMTc2/155269
@@ -2281,9 +2281,9 @@ http://bocian.io:8880/kaszir/MzExOTIzMTc2/155269
 http://bocian.io:8880/kaszir/MzExOTIzMTc2/155270
 #EXTINF:-1 tvg-id="FightBox" tvg-name="FIGHTBOX" tvg-logo="https://docdog.top/logo/countries/poland/fightbox.png" group-title="Sport",FIGHTBOX
 http://bocian.io:8880/kaszir/MzExOTIzMTc2/155271
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Golf Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Golf Channel
 http://bocian.io:8880/kaszir/MzExOTIzMTc2/155272
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVP Sport
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVP Sport
 http://bocian.io:8880/kaszir/MzExOTIzMTc2/155273
 #EXTINF:-1 tvg-id="" tvg-name="Prime MMA" tvg-logo="" group-title="Prime MMA"Prime MMA
 http://bocian.io:8880/kaszir/MzExOTIzMTc2/154937
@@ -2325,7 +2325,7 @@ http://bocian.io:8880/kaszir/MzExOTIzMTc2/154936
 http://bocian.io:8880/kaszir/MzExOTIzMTc2/154938
 #EXTINF:-1 tvg-id="" tvg-name="UFC" tvg-logo="" group-title="UFC "UFC Fight Pass HD
 http://bocian.io:8880/kaszir/MzExOTIzMTc2/152912
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"WWE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"WWE
 http://bocian.io:8880/kaszir/MzExOTIzMTc2/152822
 #EXTINF:-1 tvg-id="" tvg-name="FEN" tvg-logo="" group-title="FEN"FEN
 http://bocian.io:8880/kaszir/MzExOTIzMTc2/154939
@@ -2337,95 +2337,95 @@ http://bocian.io:8880/kaszir/MzExOTIzMTc2/154940
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVP 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVP 1 HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105345
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVP 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVP 2 HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105346
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVP 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVP 3 HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105347
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVP HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVP HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105348
 #EXTINF:-1 group-title="POLSAT SPORT",Polsat HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105349
 #EXTINF:-1 group-title="POLSAT SPORT",Polsat 2 HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105350
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Super Polsat HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Super Polsat HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105351
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVN HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVN HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105352
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TTV HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TTV HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105353
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TV4 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TV4 HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105354
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TV6 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TV6 HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105355
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVN 7 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVN 7 HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105356
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TV Puls HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TV Puls HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105357
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Puls 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Puls 2 HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105358
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Comedy Central HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Comedy Central HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105385
 #EXTINF:-1 group-title="POLSAT SPORT",Polsat Comedy Central Extra HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105386
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVN Fabula HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVN Fabula HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105393
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVP Seriale HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVP Seriale HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105398
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Metro HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Metro HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105399
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Adventure HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Adventure HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105400
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Animal Planet HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Animal Planet HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105401
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"BBC First HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"BBC First HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105402
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"BBC Lifestyle HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"BBC Lifestyle HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105404
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"BBC Earth HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"BBC Earth HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105405
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"CBS Reality HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"CBS Reality HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105407
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"CI Polsat HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"CI Polsat HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105408
 #EXTINF:-1 group-title="CANAL+ SPORT",Canal+ Dokument HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105409
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Discovery HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Discovery HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105410
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Discovery Historia
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Discovery Historia
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105411
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Discovery Life HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Discovery Life HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105412
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Discovery Science HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Discovery Science HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105413
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"ID HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"ID HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105414
 #EXTINF:-1 group-title="CANAL+ SPORT",Canal+ Domo HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105416
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Epic Drama HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Epic Drama HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105417
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"E! Entertainment HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"E! Entertainment HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105418
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Red Carpet TV HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Red Carpet TV HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/134089
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Food Network HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Food Network HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105419
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Fokus TV HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Fokus TV HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105420
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"History HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"History HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105421
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"History 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"History 2 HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105422
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"National Geographic HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"National Geographic HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105423
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"National Geographic Wild HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"National Geographic Wild HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105424
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Nat Geo People HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Nat Geo People HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105425
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Planete+ HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Planete+ HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105426
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Water Planet
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Water Planet
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105427
 #EXTINF:-1 group-title="POLSAT SPORT",Polsat Doku HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105428
@@ -2443,187 +2443,187 @@ http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105433
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105434
 #EXTINF:-1 group-title="POLSAT SPORT",Polsat Play HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105435
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Nuta Gold
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Nuta Gold
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105437
 #EXTINF:-1 group-title="CANAL+ SPORT",Canal+ Kuchnia HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105438
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"StudioMed TV HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"StudioMed TV HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105440
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVN Style HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVN Style HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105441
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVS
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105444
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVC Polska
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVC Polska
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105445
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TLC HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TLC HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105446
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TBN Polska HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TBN Polska HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/134088
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TELE 5 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TELE 5 HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105447
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Novelas+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Novelas+
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/135978
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Novela TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Novela TV
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105448
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Polonia 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Polonia 1
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105449
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVP Polonia
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVP Polonia
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105450
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVP Kultura HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVP Kultura HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105451
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVP Rozrywka HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVP Rozrywka HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105452
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVP Historia
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVP Historia
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105453
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVP Dokument HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVP Dokument HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/134087
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Nowa TV HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Nowa TV HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105455
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Travel Channel HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Travel Channel HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105456
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"HGTV HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"HGTV HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105457
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Home TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Home TV
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/120417
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Zoom TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Zoom TV
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105458
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TV Okazje
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TV Okazje
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105459
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVT
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105519
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"WP
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"WP
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105460
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TV Trwam HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TV Trwam HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105461
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVP Info HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVP Info HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105462
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TV Republika
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TV Republika
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105463
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"wPolsce24
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"wPolsce24
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105464
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Biznes24 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Biznes24 HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/119834
 #EXTINF:-1 group-title="POLSAT SPORT",Polsat News HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105465
 #EXTINF:-1 group-title="POLSAT SPORT",Polsat News 2
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105466
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVN 24 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVN 24 HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105467
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVN 24 BiS HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVN 24 BiS HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105468
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Antena
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Antena
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/151847
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Wydarzenia 24 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Wydarzenia 24 HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/151853
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TV Republika
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TV Republika
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/151854
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVP 3 Bialystok
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVP 3 Bialystok
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105469
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVP 3 Bydgoszcz
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVP 3 Bydgoszcz
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105470
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVP 3 Gdansk
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVP 3 Gdansk
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105471
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVP 3 Gorzów Wielkopolski
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVP 3 Gorzów Wielkopolski
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105472
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVP 3 Katowice
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVP 3 Katowice
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105473
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVP 3 Kielce
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVP 3 Kielce
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105474
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVP 3 Kraków
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVP 3 Kraków
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105475
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVP 3 Lublin
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVP 3 Lublin
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105476
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVP 3 Lódz
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVP 3 Lódz
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105477
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVP 3 Olsztyn
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVP 3 Olsztyn
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105478
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVP 3 Opole
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVP 3 Opole
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105479
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVP 3 Poznan
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVP 3 Poznan
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105480
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVP 3 Rzeszów
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVP 3 Rzeszów
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105481
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVP 3 Szczecin
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVP 3 Szczecin
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105482
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVP 3 Warszawa
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVP 3 Warszawa
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105483
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVP 3 Wroclaw
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVP 3 Wroclaw
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105484
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"BBC CBeebies HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"BBC CBeebies HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105485
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Nick Jr Polska
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Nick Jr Polska
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105486
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Nickelodeon
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Nickelodeon
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105487
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"NickToons HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"NickToons HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105488
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Disney Channel HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Disney Channel HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105489
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Baby TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Baby TV
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105490
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Cartoonito HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Cartoonito HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105491
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Cartoon Network HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Cartoon Network HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105492
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Disney Junior
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Disney Junior
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105493
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Disney XD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Disney XD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105494
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"MiniMini+ HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"MiniMini+ HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105495
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVP ABC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVP ABC
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105496
 #EXTINF:-1 group-title="POLSAT SPORT",Polsat Jim Jam
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105497
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TeleTOON+ HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TeleTOON+ HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105498
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Da Vinci Learning
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Da Vinci Learning
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105499
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TOP Kids
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TOP Kids
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/120419
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TeenNick HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TeenNick HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/152819
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"4Fun Kids
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"4Fun Kids
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105501
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"4Fun.TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"4Fun.TV
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105500
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"4Fun Dance
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"4Fun Dance
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105502
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Disco Polo Music
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Disco Polo Music
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105503
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Eska TV HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Eska TV HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105504
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Eska TV Extra
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Eska TV Extra
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105505
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Eska Rock TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Eska Rock TV
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105506
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Kino Polska Muzyka
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Kino Polska Muzyka
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105507
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"NickMusic
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"NickMusic
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105508
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"MTV Live HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"MTV Live HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105509
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"MTV Polska HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"MTV Polska HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105510
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"MTV 90s
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"MTV 90s
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105511
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"NUTA TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"NUTA TV
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105512
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Polo TV HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Polo TV HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105513
 #EXTINF:-1 group-title="POLSAT SPORT",Polsat Music HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105514
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Power TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Power TV
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105515
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"STARS.TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"STARS.TV
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105516
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"MTV 00s
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"MTV 00s
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105517
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"VOX Music TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"VOX Music TV
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105518
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"AMC HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"AMC HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105360
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Ale Kino+ HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Ale Kino+ HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105361
 #EXTINF:-1 group-title="CANAL+ SPORT",Canal+ PREMIUM HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105362
@@ -2635,77 +2635,77 @@ http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105364
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105365
 #EXTINF:-1 group-title="CANAL+ SPORT",Canal+ Seriale HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105366
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"HBO HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"HBO HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105368
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"HBO 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"HBO 2 HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105369
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"HBO 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"HBO 3 HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105370
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Cinemax HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Cinemax HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105371
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Cinemax 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Cinemax 2 HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105372
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Filmbox Extra HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Filmbox Extra HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105373
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Filmbox Action
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Filmbox Action
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105374
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Filmbox Arthouse
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Filmbox Arthouse
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105375
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Filmbox Premium HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Filmbox Premium HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105376
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Filmbox Family
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Filmbox Family
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105377
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"FX HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"FX HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105378
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"FX Comedy HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"FX Comedy HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105379
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"13 Ulica HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"13 Ulica HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105380
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"AXN HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"AXN HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105381
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"AXN Black
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"AXN Black
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105382
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"AXN Spin HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"AXN Spin HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105383
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"AXN White
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"AXN White
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105384
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Stopklatka TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Stopklatka TV
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105387
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Active Family HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Active Family HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105388
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Kino Polska HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Kino Polska HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105389
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Kino TV HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Kino TV HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105390
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Sundance HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Sundance HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105391
 #EXTINF:-1 group-title="POLSAT SPORT",Polsat Film HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105392
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Romance TV HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Romance TV HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105394
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Paramount Network HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Paramount Network HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105395
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"SciFi HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"SciFi HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105396
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Warner TV HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Warner TV HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105397
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Film Cafe HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Film Cafe HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105406
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"VOD 205
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"VOD 205
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105549
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"VOD 206
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"VOD 206
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105550
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"VOD 207
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"VOD 207
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105551
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"VOD 208
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"VOD 208
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105552
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"BBC Brit HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"BBC Brit HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105403
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"DTX HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"DTX HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105415
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVN Turbo HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVN Turbo HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105442
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Motowizja HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Motowizja HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105443
 #EXTINF:-1 tvg-id="Canal+ Sport" tvg-name="CANAL+ SPORT" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT.png" group-title="CANAL+ SPORT",CANAL+ SPORT HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105520
@@ -2749,11 +2749,11 @@ http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105538
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105539
 #EXTINF:-1 tvg-id="Polsat Sport Premium 6" tvg-name="POLSAT SPORT PREMIUM PPV 6" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportpremiumppv6.png" group-title="POLSAT SPORT PREMIUM",POLSAT SPORT PREMIUM PPV 6 HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105540
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Fightklub HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Fightklub HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105541
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Extreme Sports Channel HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Extreme Sports Channel HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105542
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Sportklub HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Sportklub HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105543
 #EXTINF:-1 tvg-id="Eurosport" tvg-name="EUROSPORT 1" tvg-logo="https://docdog.top/logo/countries/poland/eurosport1.png" group-title="EUROSPORT",EUROSPORT 1 HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105544
@@ -2761,135 +2761,135 @@ http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105544
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105545
 #EXTINF:-1 tvg-id="FightBox" tvg-name="FIGHTBOX" tvg-logo="https://docdog.top/logo/countries/poland/fightbox.png" group-title="Sport",FIGHTBOX HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105546
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Golf Zone HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Golf Zone HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105547
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVP Sport HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVP Sport HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/105548
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Viaplay 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Viaplay 1
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/153307
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Viaplay 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Viaplay 2
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/153308
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Viaplay 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Viaplay 3
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/153309
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Viaplay 4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Viaplay 4
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/153310
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Viaplay 5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Viaplay 5
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/153311
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Viaplay 6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Viaplay 6
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/153312
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Viaplay 7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Viaplay 7
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/153313
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Viaplay 8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Viaplay 8
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/153314
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Viaplay 9
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Viaplay 9
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/153315
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Viaplay 10
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Viaplay 10
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/153316
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Warner TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Warner TV
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155028
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVP Kobieta HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVP Kobieta HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155036
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVP Historia 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVP Historia 2
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155037
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVP ABC 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVP ABC 2
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155038
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVP Nauka
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVP Nauka
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155039
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Xtreme TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Xtreme TV
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155040
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"BollywooD HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"BollywooD HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155041
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"FilMax HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"FilMax HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155043
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVP 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVP 1
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155058
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVP 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVP 2
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155059
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVP 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVP 3
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155060
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVP
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVP
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155061
 #EXTINF:-1 group-title="POLSAT SPORT",Polsat
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155062
 #EXTINF:-1 group-title="POLSAT SPORT",Polsat 2
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155063
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Super Polsat
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Super Polsat
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155064
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVN
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155065
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TTV
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155066
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TV4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TV4
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155067
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TV6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TV6
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155068
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVN 7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVN 7
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155069
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TV Puls
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TV Puls
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155070
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Puls 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Puls 2
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155071
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Comedy Central
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Comedy Central
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155072
 #EXTINF:-1 group-title="POLSAT SPORT",Polsat Comedy Central Extra
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155073
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVN Fabula
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVN Fabula
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155074
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVP Seriale
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVP Seriale
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155075
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Metro
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Metro
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155076
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Adventure
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Adventure
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155077
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Animal Planet
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Animal Planet
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155078
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"BBC First
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"BBC First
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155079
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"BBC Lifestyle
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"BBC Lifestyle
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155080
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"BBC Earth
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"BBC Earth
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155081
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"CBS Reality
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"CBS Reality
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155082
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Crime+ Investigation Polsat
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Crime+ Investigation Polsat
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155083
 #EXTINF:-1 group-title="CANAL+ SPORT",Canal+ Dokument
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155084
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Discovery
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Discovery
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155085
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Discovery Historia
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Discovery Historia
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155086
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Discovery Life
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Discovery Life
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155087
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Discovery Science
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Discovery Science
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155088
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"ID
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"ID
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155089
 #EXTINF:-1 group-title="CANAL+ SPORT",Canal+ Domo
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155090
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Epic Drama
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Epic Drama
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155091
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"E! Entertainment
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"E! Entertainment
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155092
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Red Carpet TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Red Carpet TV
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155093
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Food Network
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Food Network
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155094
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Fokus TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Fokus TV
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155095
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"History
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"History
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155096
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"History 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"History 2
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155097
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"National Geographic
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"National Geographic
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155098
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"National Geographic Wild
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"National Geographic Wild
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155099
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Nat Geo People
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Nat Geo People
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155100
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Planete+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Planete+
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155101
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Water Planet
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Water Planet
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155102
 #EXTINF:-1 group-title="POLSAT SPORT",Polsat Doku
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155103
@@ -2907,155 +2907,155 @@ http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155108
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155109
 #EXTINF:-1 group-title="POLSAT SPORT",Polsat Play
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155110
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Nuta Gold
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Nuta Gold
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155112
 #EXTINF:-1 group-title="CANAL+ SPORT",Canal+ Kuchnia
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155113
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"StudioMed TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"StudioMed TV
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155114
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVN Style
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVN Style
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155115
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVS
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155116
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVC Polska
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVC Polska
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155117
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TLC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TLC
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155118
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TBN Polska
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TBN Polska
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155119
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TELE 5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TELE 5
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155120
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Novelas+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Novelas+
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155121
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Novela TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Novela TV
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155122
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Polonia 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Polonia 1
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155123
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVP Polonia
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVP Polonia
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155124
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVP Kultura
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVP Kultura
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155125
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVP Rozrywka
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVP Rozrywka
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155126
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVP Historia
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVP Historia
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155127
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVP Dokument
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVP Dokument
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155128
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Nowa TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Nowa TV
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155129
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Travel Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Travel Channel
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155130
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"HGTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"HGTV
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155131
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Home TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Home TV
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155132
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Zoom TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Zoom TV
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155133
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TV Okazje
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TV Okazje
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155134
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVT
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155135
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"WP
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"WP
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155136
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TV Trwam
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TV Trwam
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155137
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVP INFO
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVP INFO
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155138
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TV Republika
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TV Republika
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155139
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"wPolsce24
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"wPolsce24
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155140
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Biznes24
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Biznes24
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155141
 #EXTINF:-1 group-title="POLSAT SPORT",Polsat News
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155142
 #EXTINF:-1 group-title="POLSAT SPORT",Polsat News 2
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155143
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVN 24
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVN 24
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155144
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVN 24 BiS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVN 24 BiS
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155145
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Antena
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Antena
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155146
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Wydarzenia 24
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Wydarzenia 24
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155147
 #EXTINF:-1 group-title="POLSAT SPORT",Polsat News Polityka
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155148
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"BBC CBeebies
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"BBC CBeebies
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155165
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Nick Jr Polska
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Nick Jr Polska
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155166
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Nickelodeon
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Nickelodeon
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155167
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"NickToons
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"NickToons
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155168
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Disney Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Disney Channel
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155169
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Baby TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Baby TV
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155170
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Cartoonito
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Cartoonito
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155171
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Cartoon Network
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Cartoon Network
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155172
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Disney Junior
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Disney Junior
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155173
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Disney XD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Disney XD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155174
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"MiniMini+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"MiniMini+
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155175
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVP ABC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVP ABC
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155176
 #EXTINF:-1 group-title="POLSAT SPORT",Polsat Jim Jam
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155177
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TeleTOON+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TeleTOON+
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155178
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Da Vinci Learning
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Da Vinci Learning
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155179
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TOP Kids
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TOP Kids
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155180
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TeenNick
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TeenNick
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155181
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"4Fun Kids
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"4Fun Kids
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155182
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"4Fun.TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"4Fun.TV
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155183
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"4Fun Dance
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"4Fun Dance
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155184
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Disco Polo Music
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Disco Polo Music
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155185
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Eska TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Eska TV
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155186
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Eska TV Extra
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Eska TV Extra
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155187
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Eska Rock TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Eska Rock TV
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155188
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Kino Polska Muzyka
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Kino Polska Muzyka
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155189
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"NickMusic
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"NickMusic
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155190
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"MTV Live
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"MTV Live
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155191
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"MTV Polska
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"MTV Polska
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155192
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"MTV 90s
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"MTV 90s
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155193
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"NUTA TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"NUTA TV
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155194
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Polo TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Polo TV
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155195
 #EXTINF:-1 group-title="POLSAT SPORT",Polsat Music
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155196
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Power TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Power TV
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155197
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"STARS.TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"STARS.TV
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155198
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"MTV 00s
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"MTV 00s
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155199
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"VOX Music TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"VOX Music TV
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155200
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"AMC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"AMC
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155201
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Ale Kino+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Ale Kino+
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155202
 #EXTINF:-1 group-title="CANAL+ SPORT",Canal+ PREMIUM
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155203
@@ -3067,77 +3067,77 @@ http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155205
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155206
 #EXTINF:-1 group-title="CANAL+ SPORT",Canal+ Seriale
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155207
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"HBO
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"HBO
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155208
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"HBO 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"HBO 2 HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155209
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"HBO 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"HBO 3
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155210
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Cinemax
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Cinemax
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155211
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Cinemax 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Cinemax 2
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155212
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Filmbox Extra
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Filmbox Extra
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155213
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Filmbox Action
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Filmbox Action
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155214
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Filmbox Arthouse
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Filmbox Arthouse
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155215
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Filmbox Premium
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Filmbox Premium
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155216
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Filmbox Family
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Filmbox Family
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155217
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"FX
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"FX
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155218
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"FX Comedy
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"FX Comedy
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155219
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"13 Ulica
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"13 Ulica
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155220
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"AXN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"AXN
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155221
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"AXN Black
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"AXN Black
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155222
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"AXN Spin
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"AXN Spin
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155223
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"AXN White
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"AXN White
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155224
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Stopklatka TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Stopklatka TV
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155225
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Active Family
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Active Family
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155226
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Kino Polska
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Kino Polska
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155227
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Kino TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Kino TV
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155228
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Sundance
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Sundance
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155229
 #EXTINF:-1 group-title="POLSAT SPORT",Polsat Film
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155230
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Romance TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Romance TV
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155231
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Paramount Network
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Paramount Network
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155232
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"SciFi
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"SciFi
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155233
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TNT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TNT
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155234
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Film Cafe
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Film Cafe
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155235
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"VOD 205
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"VOD 205
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155236
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"VOD 206
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"VOD 206
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155237
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"VOD 207
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"VOD 207
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155238
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"VOD 208
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"VOD 208
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155239
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"BBC Brit
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"BBC Brit
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155240
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"DTX
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"DTX
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155241
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVN Turbo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVN Turbo
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155242
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Motowizja
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Motowizja
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155243
 #EXTINF:-1 tvg-id="Canal+ Sport" tvg-name="CANAL+ SPORT" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT.png" group-title="CANAL+ SPORT",CANAL+ SPORT
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155244
@@ -3181,11 +3181,11 @@ http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155263
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155264
 #EXTINF:-1 tvg-id="Polsat Sport Premium 6" tvg-name="POLSAT SPORT PREMIUM PPV 6" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportpremiumppv6.png" group-title="POLSAT SPORT PREMIUM",POLSAT SPORT PREMIUM PPV 6
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155265
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Fightklub
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Fightklub
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155266
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Extreme Sports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Extreme Sports
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155267
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Sportklub
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Sportklub
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155268
 #EXTINF:-1 tvg-id="Eurosport" tvg-name="EUROSPORT 1" tvg-logo="https://docdog.top/logo/countries/poland/eurosport1.png" group-title="EUROSPORT",EUROSPORT 1
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155269
@@ -3193,61 +3193,61 @@ http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155269
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155270
 #EXTINF:-1 tvg-id="FightBox" tvg-name="FIGHTBOX" tvg-logo="https://docdog.top/logo/countries/poland/fightbox.png" group-title="Sport",FIGHTBOX
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155271
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Golf Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Golf Channel
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155272
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVP Sport
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVP Sport
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155273
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Warner TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Warner TV
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155274
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVP Kobieta
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVP Kobieta
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155275
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVP Historia 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVP Historia 2
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155276
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVP ABC 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVP ABC 2
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155277
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVP Nauka
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVP Nauka
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155278
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Xtreme TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Xtreme TV
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155279
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"BollywooD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"BollywooD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155280
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"FilMax
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"FilMax
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/155282
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Iran e Aryaee
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Iran e Aryaee
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/170427
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVN Pora na Show
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVN Pora na Show
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/170452
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVN Milionerzy
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVN Milionerzy
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/170431
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVN Kultowe Seriale
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVN Kultowe Seriale
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/170432
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVN Momenty Prawdy
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVN Momenty Prawdy
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/170433
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVN Moto
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVN Moto
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/170434
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVN Prawo i Zycie
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVN Prawo i Zycie
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/170435
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVN Rajska Milosc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVN Rajska Milosc
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/170436
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVN Rewolucje W Kuchni
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVN Rewolucje W Kuchni
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/170437
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVN Seriale O Kobietach
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVN Seriale O Kobietach
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/170438
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVN Szkola Zycia
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVN Szkola Zycia
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/170439
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVN Szpitalne Historie
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVN Szpitalne Historie
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/170440
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVN Talk Show
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVN Talk Show
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/170441
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVN Telenowele
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVN Telenowele
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/170442
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVN Usterka
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVN Usterka
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/170443
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVN W Domu
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVN W Domu
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/170444
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVN Zycie Jak W Bajce
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVN Zycie Jak W Bajce
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/170445
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVN Kryminalnie
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVN Kryminalnie
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/170446
 #EXTINF:-1 tvg-id="" tvg-name="Prime MMA" tvg-logo="" group-title="Prime MMA"Prime MMA
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/154937
@@ -3289,7 +3289,7 @@ http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/154936
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/154938
 #EXTINF:-1 tvg-id="" tvg-name="UFC" tvg-logo="" group-title="UFC "UFC Fight Pass HD
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/152912
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"WWE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"WWE
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/152822
 #EXTINF:-1 tvg-id="" tvg-name="FEN" tvg-logo="" group-title="FEN"FEN
 http://bocian.io:8880/mojafabryka/ODc5NTc2ODgy/154939
@@ -3342,11 +3342,11 @@ http://bocian.io:8880/marriusz123/ODQ2NjU4NzMz/105538
 http://bocian.io:8880/marriusz123/ODQ2NjU4NzMz/105539
 #EXTINF:-1 tvg-id="Polsat Sport Premium 6" tvg-name="POLSAT SPORT PREMIUM PPV 6" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportpremiumppv6.png" group-title="POLSAT SPORT PREMIUM",POLSAT SPORT PREMIUM PPV 6 HD
 http://bocian.io:8880/marriusz123/ODQ2NjU4NzMz/105540
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Fightklub HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Fightklub HD
 http://bocian.io:8880/marriusz123/ODQ2NjU4NzMz/105541
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Extreme Sports Channel HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Extreme Sports Channel HD
 http://bocian.io:8880/marriusz123/ODQ2NjU4NzMz/105542
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Sportklub HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Sportklub HD
 http://bocian.io:8880/marriusz123/ODQ2NjU4NzMz/105543
 #EXTINF:-1 tvg-id="Eurosport" tvg-name="EUROSPORT 1" tvg-logo="https://docdog.top/logo/countries/poland/eurosport1.png" group-title="EUROSPORT",EUROSPORT 1 HD
 http://bocian.io:8880/marriusz123/ODQ2NjU4NzMz/105544
@@ -3354,9 +3354,9 @@ http://bocian.io:8880/marriusz123/ODQ2NjU4NzMz/105544
 http://bocian.io:8880/marriusz123/ODQ2NjU4NzMz/105545
 #EXTINF:-1 tvg-id="FightBox" tvg-name="FIGHTBOX" tvg-logo="https://docdog.top/logo/countries/poland/fightbox.png" group-title="Sport",FIGHTBOX HD
 http://bocian.io:8880/marriusz123/ODQ2NjU4NzMz/105546
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Golf Zone HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Golf Zone HD
 http://bocian.io:8880/marriusz123/ODQ2NjU4NzMz/105547
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVP Sport HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVP Sport HD
 http://bocian.io:8880/marriusz123/ODQ2NjU4NzMz/105548
 #EXTINF:-1 tvg-id="Canal+ Sport" tvg-name="CANAL+ SPORT" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT.png" group-title="CANAL+ SPORT",CANAL+ SPORT
 http://bocian.io:8880/marriusz123/ODQ2NjU4NzMz/155244
@@ -3400,11 +3400,11 @@ http://bocian.io:8880/marriusz123/ODQ2NjU4NzMz/155263
 http://bocian.io:8880/marriusz123/ODQ2NjU4NzMz/155264
 #EXTINF:-1 tvg-id="Polsat Sport Premium 6" tvg-name="POLSAT SPORT PREMIUM PPV 6" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportpremiumppv6.png" group-title="POLSAT SPORT PREMIUM",POLSAT SPORT PREMIUM PPV 6
 http://bocian.io:8880/marriusz123/ODQ2NjU4NzMz/155265
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Fightklub
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Fightklub
 http://bocian.io:8880/marriusz123/ODQ2NjU4NzMz/155266
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Extreme Sports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Extreme Sports
 http://bocian.io:8880/marriusz123/ODQ2NjU4NzMz/155267
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Sportklub
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Sportklub
 http://bocian.io:8880/marriusz123/ODQ2NjU4NzMz/155268
 #EXTINF:-1 tvg-id="Eurosport" tvg-name="EUROSPORT 1" tvg-logo="https://docdog.top/logo/countries/poland/eurosport1.png" group-title="EUROSPORT",EUROSPORT 1
 http://bocian.io:8880/marriusz123/ODQ2NjU4NzMz/155269
@@ -3412,9 +3412,9 @@ http://bocian.io:8880/marriusz123/ODQ2NjU4NzMz/155269
 http://bocian.io:8880/marriusz123/ODQ2NjU4NzMz/155270
 #EXTINF:-1 tvg-id="FightBox" tvg-name="FIGHTBOX" tvg-logo="https://docdog.top/logo/countries/poland/fightbox.png" group-title="Sport",FIGHTBOX
 http://bocian.io:8880/marriusz123/ODQ2NjU4NzMz/155271
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Golf Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Golf Channel
 http://bocian.io:8880/marriusz123/ODQ2NjU4NzMz/155272
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVP Sport
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVP Sport
 http://bocian.io:8880/marriusz123/ODQ2NjU4NzMz/155273
 #EXTINF:-1 tvg-id="" tvg-name="Prime MMA" tvg-logo="" group-title="Prime MMA"Prime MMA
 http://bocian.io:8880/marriusz123/ODQ2NjU4NzMz/154937
@@ -3456,7 +3456,7 @@ http://bocian.io:8880/marriusz123/ODQ2NjU4NzMz/154936
 http://bocian.io:8880/marriusz123/ODQ2NjU4NzMz/154938
 #EXTINF:-1 tvg-id="" tvg-name="UFC" tvg-logo="" group-title="UFC "UFC Fight Pass HD
 http://bocian.io:8880/marriusz123/ODQ2NjU4NzMz/152912
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"WWE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"WWE
 http://bocian.io:8880/marriusz123/ODQ2NjU4NzMz/152822
 #EXTINF:-1 tvg-id="" tvg-name="FEN" tvg-logo="" group-title="FEN"FEN
 http://bocian.io:8880/marriusz123/ODQ2NjU4NzMz/154939
@@ -3509,11 +3509,11 @@ http://bocian.io:8880/jarek2281/NTI4ODg5NTI2/105538
 http://bocian.io:8880/jarek2281/NTI4ODg5NTI2/105539
 #EXTINF:-1 tvg-id="Polsat Sport Premium 6" tvg-name="POLSAT SPORT PREMIUM PPV 6" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportpremiumppv6.png" group-title="POLSAT SPORT PREMIUM",POLSAT SPORT PREMIUM PPV 6 HD
 http://bocian.io:8880/jarek2281/NTI4ODg5NTI2/105540
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Fightklub HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Fightklub HD
 http://bocian.io:8880/jarek2281/NTI4ODg5NTI2/105541
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Extreme Sports Channel HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Extreme Sports Channel HD
 http://bocian.io:8880/jarek2281/NTI4ODg5NTI2/105542
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Sportklub HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Sportklub HD
 http://bocian.io:8880/jarek2281/NTI4ODg5NTI2/105543
 #EXTINF:-1 tvg-id="Eurosport" tvg-name="EUROSPORT 1" tvg-logo="https://docdog.top/logo/countries/poland/eurosport1.png" group-title="EUROSPORT",EUROSPORT 1 HD
 http://bocian.io:8880/jarek2281/NTI4ODg5NTI2/105544
@@ -3521,9 +3521,9 @@ http://bocian.io:8880/jarek2281/NTI4ODg5NTI2/105544
 http://bocian.io:8880/jarek2281/NTI4ODg5NTI2/105545
 #EXTINF:-1 tvg-id="FightBox" tvg-name="FIGHTBOX" tvg-logo="https://docdog.top/logo/countries/poland/fightbox.png" group-title="Sport",FIGHTBOX HD
 http://bocian.io:8880/jarek2281/NTI4ODg5NTI2/105546
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Golf Zone HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Golf Zone HD
 http://bocian.io:8880/jarek2281/NTI4ODg5NTI2/105547
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVP Sport HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVP Sport HD
 http://bocian.io:8880/jarek2281/NTI4ODg5NTI2/105548
 #EXTINF:-1 tvg-id="Canal+ Sport" tvg-name="CANAL+ SPORT" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT.png" group-title="CANAL+ SPORT",CANAL+ SPORT
 http://bocian.io:8880/jarek2281/NTI4ODg5NTI2/155244
@@ -3567,11 +3567,11 @@ http://bocian.io:8880/jarek2281/NTI4ODg5NTI2/155263
 http://bocian.io:8880/jarek2281/NTI4ODg5NTI2/155264
 #EXTINF:-1 tvg-id="Polsat Sport Premium 6" tvg-name="POLSAT SPORT PREMIUM PPV 6" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportpremiumppv6.png" group-title="POLSAT SPORT PREMIUM",POLSAT SPORT PREMIUM PPV 6
 http://bocian.io:8880/jarek2281/NTI4ODg5NTI2/155265
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Fightklub
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Fightklub
 http://bocian.io:8880/jarek2281/NTI4ODg5NTI2/155266
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Extreme Sports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Extreme Sports
 http://bocian.io:8880/jarek2281/NTI4ODg5NTI2/155267
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Sportklub
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Sportklub
 http://bocian.io:8880/jarek2281/NTI4ODg5NTI2/155268
 #EXTINF:-1 tvg-id="Eurosport" tvg-name="EUROSPORT 1" tvg-logo="https://docdog.top/logo/countries/poland/eurosport1.png" group-title="EUROSPORT",EUROSPORT 1
 http://bocian.io:8880/jarek2281/NTI4ODg5NTI2/155269
@@ -3579,9 +3579,9 @@ http://bocian.io:8880/jarek2281/NTI4ODg5NTI2/155269
 http://bocian.io:8880/jarek2281/NTI4ODg5NTI2/155270
 #EXTINF:-1 tvg-id="FightBox" tvg-name="FIGHTBOX" tvg-logo="https://docdog.top/logo/countries/poland/fightbox.png" group-title="Sport",FIGHTBOX
 http://bocian.io:8880/jarek2281/NTI4ODg5NTI2/155271
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Golf Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Golf Channel
 http://bocian.io:8880/jarek2281/NTI4ODg5NTI2/155272
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVP Sport
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVP Sport
 http://bocian.io:8880/jarek2281/NTI4ODg5NTI2/155273
 #EXTINF:-1 tvg-id="" tvg-name="Prime MMA" tvg-logo="" group-title="Prime MMA"Prime MMA
 http://bocian.io:8880/jarek2281/NTI4ODg5NTI2/154937
@@ -3623,7 +3623,7 @@ http://bocian.io:8880/jarek2281/NTI4ODg5NTI2/154936
 http://bocian.io:8880/jarek2281/NTI4ODg5NTI2/154938
 #EXTINF:-1 tvg-id="" tvg-name="UFC" tvg-logo="" group-title="UFC "UFC Fight Pass HD
 http://bocian.io:8880/jarek2281/NTI4ODg5NTI2/152912
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"WWE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"WWE
 http://bocian.io:8880/jarek2281/NTI4ODg5NTI2/152822
 #EXTINF:-1 tvg-id="" tvg-name="FEN" tvg-logo="" group-title="FEN"FEN
 http://bocian.io:8880/jarek2281/NTI4ODg5NTI2/154939
@@ -3676,11 +3676,11 @@ http://bocian.io:8880/poki1980/NTc2MzkyMzA0/105538
 http://bocian.io:8880/poki1980/NTc2MzkyMzA0/105539
 #EXTINF:-1 tvg-id="Polsat Sport Premium 6" tvg-name="POLSAT SPORT PREMIUM PPV 6" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportpremiumppv6.png" group-title="POLSAT SPORT PREMIUM",POLSAT SPORT PREMIUM PPV 6 HD
 http://bocian.io:8880/poki1980/NTc2MzkyMzA0/105540
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Fightklub HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Fightklub HD
 http://bocian.io:8880/poki1980/NTc2MzkyMzA0/105541
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Extreme Sports Channel HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Extreme Sports Channel HD
 http://bocian.io:8880/poki1980/NTc2MzkyMzA0/105542
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Sportklub HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Sportklub HD
 http://bocian.io:8880/poki1980/NTc2MzkyMzA0/105543
 #EXTINF:-1 tvg-id="Eurosport" tvg-name="EUROSPORT 1" tvg-logo="https://docdog.top/logo/countries/poland/eurosport1.png" group-title="EUROSPORT",EUROSPORT 1 HD
 http://bocian.io:8880/poki1980/NTc2MzkyMzA0/105544
@@ -3688,9 +3688,9 @@ http://bocian.io:8880/poki1980/NTc2MzkyMzA0/105544
 http://bocian.io:8880/poki1980/NTc2MzkyMzA0/105545
 #EXTINF:-1 tvg-id="FightBox" tvg-name="FIGHTBOX" tvg-logo="https://docdog.top/logo/countries/poland/fightbox.png" group-title="Sport",FIGHTBOX HD
 http://bocian.io:8880/poki1980/NTc2MzkyMzA0/105546
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Golf Zone HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Golf Zone HD
 http://bocian.io:8880/poki1980/NTc2MzkyMzA0/105547
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVP Sport HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVP Sport HD
 http://bocian.io:8880/poki1980/NTc2MzkyMzA0/105548
 #EXTINF:-1 tvg-id="Canal+ Sport" tvg-name="CANAL+ SPORT" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT.png" group-title="CANAL+ SPORT",CANAL+ SPORT
 http://bocian.io:8880/poki1980/NTc2MzkyMzA0/155244
@@ -3734,11 +3734,11 @@ http://bocian.io:8880/poki1980/NTc2MzkyMzA0/155263
 http://bocian.io:8880/poki1980/NTc2MzkyMzA0/155264
 #EXTINF:-1 tvg-id="Polsat Sport Premium 6" tvg-name="POLSAT SPORT PREMIUM PPV 6" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportpremiumppv6.png" group-title="POLSAT SPORT PREMIUM",POLSAT SPORT PREMIUM PPV 6
 http://bocian.io:8880/poki1980/NTc2MzkyMzA0/155265
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Fightklub
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Fightklub
 http://bocian.io:8880/poki1980/NTc2MzkyMzA0/155266
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Extreme Sports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Extreme Sports
 http://bocian.io:8880/poki1980/NTc2MzkyMzA0/155267
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Sportklub
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Sportklub
 http://bocian.io:8880/poki1980/NTc2MzkyMzA0/155268
 #EXTINF:-1 tvg-id="Eurosport" tvg-name="EUROSPORT 1" tvg-logo="https://docdog.top/logo/countries/poland/eurosport1.png" group-title="EUROSPORT",EUROSPORT 1
 http://bocian.io:8880/poki1980/NTc2MzkyMzA0/155269
@@ -3746,9 +3746,9 @@ http://bocian.io:8880/poki1980/NTc2MzkyMzA0/155269
 http://bocian.io:8880/poki1980/NTc2MzkyMzA0/155270
 #EXTINF:-1 tvg-id="FightBox" tvg-name="FIGHTBOX" tvg-logo="https://docdog.top/logo/countries/poland/fightbox.png" group-title="Sport",FIGHTBOX
 http://bocian.io:8880/poki1980/NTc2MzkyMzA0/155271
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"Golf Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"Golf Channel
 http://bocian.io:8880/poki1980/NTc2MzkyMzA0/155272
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"TVP Sport
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"TVP Sport
 http://bocian.io:8880/poki1980/NTc2MzkyMzA0/155273
 #EXTINF:-1 tvg-id="" tvg-name="Prime MMA" tvg-logo="" group-title="Prime MMA"Prime MMA
 http://bocian.io:8880/poki1980/NTc2MzkyMzA0/154937
@@ -3790,7 +3790,7 @@ http://bocian.io:8880/poki1980/NTc2MzkyMzA0/154936
 http://bocian.io:8880/poki1980/NTc2MzkyMzA0/154938
 #EXTINF:-1 tvg-id="" tvg-name="UFC" tvg-logo="" group-title="UFC "UFC Fight Pass HD
 http://bocian.io:8880/poki1980/NTc2MzkyMzA0/152912
-#EXTINF:-1 tvg-id="" tvg-name="FAME MMA " tvg-logo="" group-title="Sport"WWE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport"WWE
 http://bocian.io:8880/poki1980/NTc2MzkyMzA0/152822
 #EXTINF:-1 tvg-id="" tvg-name="FEN" tvg-logo="" group-title="FEN"FEN
 http://bocian.io:8880/poki1980/NTc2MzkyMzA0/154939
