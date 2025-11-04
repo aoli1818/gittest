@@ -1123,7 +1123,7 @@ http://bocian.io:8880/czesiu/NDtmoMETCWAy/155273
 http://bocian.io:8880/czesiu/NDtmoMETCWAy/154937
 #EXTINF:-1 group-title="FAME MMA",FAME MMA
 http://bocian.io:8880/czesiu/NDtmoMETCWAy/152821
-#EXTINF:-1 group-title="CANAL+ SPORT",Canal+ EXTRA 115 HD
+#EXTINF:-1 tvg-id="Canal+ Extra 1" tvg-name="CANAL+ EXTRA 1" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_EXTRA_1_HD.png" group-title="CANAL+ EXTRA 1",CANAL+ EXTRA 115 HD
 http://bocian.io:8880/czesiu/NDtmoMETCWAy/170506
 #EXTINF:-1 group-title="CANAL+ SPORT",Canal+ EXTRA 2 HD
 http://bocian.io:8880/czesiu/NDtmoMETCWAy/170507
